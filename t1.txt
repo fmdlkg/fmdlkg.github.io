@@ -1,0 +1,29 @@
+$c_start马来$c_end
+Astro AEC,mitv://ns2.hellotvvod.com:9906/7d4b9308606144cfab8e645f443528fc.ts
+Astro AEC(备),mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
+Astro欢喜台,mitv://ns2.hellotvvod.com:9906/8c13b40d7aa0442ba7ad263a3ecb0116.ts
+Astro欢喜台(备),mitv://ns2.hellotvvod.com:9906/b09e290579d641a4a988c1ab37e67b45.ts
+Astro双星,mitv://ns2.hellotvvod.com:9906/4b54555a59e94f06a348d05dc8a8c7a6.ts
+Astro全佳,mitv://ns2.hellotvvod.com:9906/9294b59eeed4484e9f456ec965c12c15.ts
+翡翠台(华丽台),mitv://ns2.hellotvvod.com:9906/f2200731e1ea4d8cba571ce2cbe1fc86.ts
+爱奇艺,mitv://ns2.hellotvvod.com:9906/ecddb042ec4c4bb6b054af29e061cb74.ts
+Astro小太阳,mitv://ns2.hellotvvod.com:9906/09d0213f918343e4b2f4a72f21c5a524.ts
+天映频道,mitv://ns2.hellotvvod.com:9906/c4982d8111f34abbb738289ce9ea6166.ts
+天映经典,mitv://ns2.hellotvvod.com:9906/1d139ee4124e4f0087893f06234b0c9a.ts
+TVB经典台,mitv://ns2.hellotvvod.com:9906/cac20e8b0588407e8a93377cc557c044.ts
+TVB娱乐新闻台,mitv://ns2.hellotvvod.com:9906/76c51c3849e44a508e6f239c72fcddb2.ts
+HGTV居家乐活频道,mitv://ns2.hellotvvod.com:9906/fc0bc391b3b74fa79707bb5662269e78.ts
+中天亚洲台,mitv://ns2.hellotvvod.com:9906/0fcb17074c024d358c704c2b1a30e364.ts
+TVB星河(粤),mitv://ns2.hellotvvod.com:9906/dc9a40ffad43467dabfba5c3dbd8036d.ts
+TVBS亚洲,mitv://ns2.hellotvvod.com:9906/400f8614cd1a4fc29d2dcd94e99489e1.ts
+Astro AOD HD 311,mitv://ns2.hellotvvod.com:9906/ca200aab2ff7425c9519dddc1b07dea0.ts
+Astro AOD 352,mitv://ns2.hellotvvod.com:9906/c503d77f9b07482f8e0b59906cb74ab8.ts
+Astro AOD 354,mitv://ns2.hellotvvod.com:9906/f8b80d69bba04450ac85a5b06924f886.ts
+Astro Arena,mitv://ns2.hellotvvod.com:9906/9edb8832e1a946bc945289eec5ea2185.ts
+Astro Arena 2,mitv://ns2.hellotvvod.com:9906/8c961a83145940bfbc9c5cfc4869c00d.ts
+RTM Sport,mitv://ns2.hellotvvod.com:9906/cf011c8e1f5248d58c668dcb5d2b062d.ts
+Astro SuperSport,mitv://ns2.hellotvvod.com:9906/105791ef70f0493e9a7f3e92dd31e708.ts
+Astro SuperSport 2,mitv://ns2.hellotvvod.com:9906/3462a01f29c547a19909b6dcaa59ff9a.ts
+Astro SuperSport 3,mitv://ns2.hellotvvod.com:9906/b9a3efab6e6343d8b8385a8d53867d99.ts
+Astro SuperSport 4,mitv://ns2.hellotvvod.com:9906/4e28d895a4c941fbb221e9b79b7fee84.ts
+Astro SuperSport 5,mitv://ns2.hellotvvod.com:9906/a6a51cd83c8e4c79b63c069fa61d2e5e.ts
