@@ -1,32 +1,28 @@
 马来,#genre#
 AEC-1,http://50.7.220.74:8278/Aec/playlist.m3u8?tid=m02000000000015394736&ct=17957&tsum=1dcfc710d1e57d6048f64c2e0383ecd3
-AEC-2,P2p://ns2.hellotvvod.com:9906/26db987d156749b3aa687e3c974d1a64.ts
-AEC-3,P2p://ns2.hellotvvod.com:9906/51b52f447fda45378b1bb0d44a2480ec.ts
-AEC-4,http://iptv12k.com:35461/8032022060101/452381/709
+AEC-2,http://iptv12k.com:35461/8032022060101/452381/709
+AEC-3,
+AEC-4,
 AEC-5(vpn),https://link.zozotv.xyz:443/dayah/dayah/60
 AEC-6(vpn),http://iptv.tvmalaysia.cc:80/454781209544/431009674535/6701
 歡喜臺333-1,http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=m02000000000018660079&ct=17957&tsum=5ce7429a79a9a892208c316c2a8133ee
-歡喜臺333-2,P2p://ns2.hellotvvod.com:9906/0b72c0256d614c948fcbe93b1f97f6d5.ts
-歡喜臺333-3,P2p://ns2.hellotvvod.com:9906/e8e8cd8584e14b6e8b83d58df4f01675.ts
-歡喜臺333-4,http://iptv12k.com:35461/8032022060101/452381/707
+歡喜臺333-2,http://iptv12k.com:35461/8032022060101/452381/707
+歡喜臺333-3,
+歡喜臺333-4,
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 芒果TV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
-全佳,P2p://ns2.hellotvvod.com:9906/c7945049fd8643c782410d15cc3984ad.ts
-全佳-2,http://iptv12k.com:35461/8032022060101/452381/710
-爱奇艺,P2p://ns2.hellotvvod.com:9906/70f60622dd2946da8d0baf69cd8a0963.ts
-爱奇艺-2,http://iptv12k.com:35461/8032022060101/452381/708
+全佳,http://iptv12k.com:35461/8032022060101/452381/710
+爱奇艺,http://iptv12k.com:35461/8032022060101/452381/708
 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
 华丽-2,http://iptv12k.com:35461/8032022060101/452381/698
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535#P2p://ns2.hellotvvod.com:9906/6e93d77607e146feae36fa897222fbaf.ts
 双星-2,http://iptv12k.com:35461/8032022060101/452381/706
-小太阳,P2p://ns2.hellotvvod.com:9906/c61f74e0628f400488cf710372ebb76c.ts
-小太阳-2,http://iptv12k.com:35461/8032022060101/452381/700
-AOD,P2p://ns2.hellotvvod.com:9906/bba671c9774f418497219e85eaae4466.ts#P2p://ns2.hellotvvod.com:9906/f15cbf3878864ced90e7ade17310ffe7.ts#P2p://ns2.hellotvvod.com:9906/ed61718ce8874b36be661dfe1010dd74.ts#P2p://ns2.hellotvvod.com:9906/004957812ce14373b8adc0422faa775d.ts#P2p://ns2.hellotvvod.com:9906/4e6943bded5247b582b78ea32aa0d57e.ts
+小太阳,http://iptv12k.com:35461/8032022060101/452381/700
 AWANI,http://50.7.220.74:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8
-Bernama TV,P2p://ns2.hellotvvod.com:9906/74ff71fbce5c421aadebd72e37b38ee7.ts#http://acc2.aatvbox.club:8880/trmall/trmall0308/1717
-Berita RTM,P2p://ns2.hellotvvod.com:9906/d409568367f44e0084be274817307587.ts#https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
+Bernama TV,http://acc2.aatvbox.club:8880/trmall/trmall0308/1717
+Berita RTM,https://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd
 AL JAZEERA,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85#http://45.126.83.51/qwr9ew/s/s17/index.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#P2p://ns2.hellotvvod.com:9906/fa8b443dfb8343ec8115e6b415218ca2.ts
-TV8,P2p://ns2.hellotvvod.com:9906/6b7bfdd4117f4723b81b45a41b1daf1e.ts#http://acc2.aatvbox.club:8880/trmall/trmall0308/1730#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
+TV8,http://acc2.aatvbox.club:8880/trmall/trmall0308/1730#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8
 
 
 香港,#genre#
@@ -107,7 +103,7 @@ DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-liv
 華語戲劇台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live005&nid=244
 華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245
 
-$c_start旅遊$c_end
+旅遊,#genre#
 靖天國際,mitv://ns2.hellotvvod.com:9906/621636a63b57478da76618a49b53a9db.ts#p5p://45.92.126.18:9906/60bd140b000e6170094be86cd1b01e57#P2p://ns2.hellotvvod.com:9906/c46a12c1181d4a9bb62b95c066be87db.ts
 亞洲旅遊台,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=m02000000000012865686&ct=17955&tsum=9e51c9e9e3a6cd6bf4d30373674a6e7b#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://58.99.33.16:1935/liveedge17/live_172_3.stream/chunklist.m3u8#http://50.7.168.234:8278/asiatravel_twn/playlist.m3u8?tid=m6ef86c74cc921039065&ct=17916&tsum=4afd07f8ef1c3ba6414174d0a558618a#http://50.7.218.42:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#P2p://ns2.hellotvvod.com:9906/43b25dee86ca4309a8c7fd22e723cf1b.ts
 EYE TV旅遊,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc#http://50.7.218.42:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc#P2p://ns2.hellotvvod.com:9906/6e51f164a666426c943c67f8a91935cd.ts
@@ -164,25 +160,16 @@ Arena-1,P2p://ns2.hellotvvod.com:9906/5c70c832d10f4b49879633dab1b43616.ts
 Arena-2,P2p://ns2.hellotvvod.com:9906/dea566c69fda4f6c97c23aa0ead5320b.ts
 RTMsport,mitv://ns2.hellotvvod.com:9906/cf011c8e1f5248d58c668dcb5d2b062d.ts
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
-爱尔达体育-1,
-爱尔达体育1台(备),mitv://ns2.hellotvvod.com:9906/e8d85cab69554439aa5088770348fb8f.ts#mitv://ns2.hellotvvod.com:9906/595998f4529e4f298cdf3149a33c1437.ts
-爱尔达体育-2,rtmp://59.124.75.150/sat/md021
-爱尔达体育2台(备),mitv://ns2.hellotvvod.com:9906/ea9010e14e8d4e639d63c896c1170489.ts#mitv://ns2.hellotvvod.com:9906/d277e9d51ec74aea904176f52e2defd9.ts
-爱尔达体育-3,rtmp://59.124.75.138/sat/md011
-爱尔达体育3台(备),rtmp://59.124.75.150/sat/md011
-爱尔达体育-1Live,rtmp://59.124.75.150/sat/md041#rtmp://59.124.75.138/sat/md041
-爱尔达体育-2Live,rtmp://59.124.75.150/sat/md051#rtmp://59.124.75.138/sat/md051
-爱尔达体育+,rtmp://59.124.75.157/sat/md051#rtmp://59.124.75.138/sat/md051
-纬来体育台-1,mitv://ns2.hellotvvod.com:9906/0897e131ae134ca2a23447f8b1c23668.ts
+爱尔达体育-1,rtmp://59.124.75.138/sat/md051
+爱尔达体育1台(备),rtmp://59.124.75.150/sat/md051
+爱尔达体育-2,rtmp://59.124.75.150/sat/md041
+爱尔达体育2台(备),rtmp://59.124.75.138/sat/md041
+纬来体育台-1,rtmp://59.124.75.150/sat/tv721
 纬来体育台-2,rtmp://59.124.75.138/sat/tv721
-纬来体育台-3,rtmp://59.124.75.157:1935/sat/tv721
-纬来体育台-4,rtmp://59.124.75.157/sat/tv721
-纬来体育台-5,rtmp://59.124.75.150/sat/tv721
-ELEVEN-1,rtmp://59.124.75.138/sat/tv731#mitv://ns2.hellotvvod.com:9906/bdd2a8a8ae314ddb8dc8b63ba8b2eb77.ts#rtmp://59.124.75.157/sat/tv731#http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#http://50.7.218.42:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23#rtmp://59.124.75.150/sat/tv731#http://125.227.210.55:10677/VideoInput/play.ts#http://125.227.210.37:10677/VideoInput/play.ts
-ELEVEN-2,rtmp://59.124.75.138/sat/tv741#mitv://ns2.hellotvvod.com:9906/60ee1e8bf5784b0192c617efa72ffed4.ts#rtmp://59.124.75.157/sat/tv741#rtmp://59.124.75.157/sat/md041#P2p://ns2.hellotvvod.com:9906/6c3ff3535d2b4c69bbcfe94e90df2730.ts#rtmp://59.124.75.150/sat/tv741
+ELEVEN-1,rtmp://59.124.75.138/sat/tv731#rtmp://59.124.75.150/sat/tv731
+ELEVEN-2,rtmp://59.124.75.138/sat/tv741#rtmp://59.124.75.150/sat/tv741
 ELEVEN体育PLUS,P2p://ns2.hellotvvod.com:9906/90ca1fb937da4b079e2e7ffccc5e760c.ts
-智林体育台,mitv://ns2.hellotvvod.com:9906/26be5742600544b497200980c8599f79.ts#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
-NBA-1,mitv://ns2.hellotvvod.com:9906/13cef6263e5c4c6b8d318a749bd87104.ts#https://d17f1mg1q6g54e.cloudfront.net/hls/nbatv/playlist.m3u8#https://hdl-ws.zego.wakavideos.com/wakavideos/b8bfaefa8a68de1d96816a504ea0cad9.flv
+智林体育台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv101&nid=58#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
 美国籃球史 ,http://txtest-xp2p.p2p.huya.com/1099531627841-1099531627841-85899625092874240-2199063379138-10057-A-0-1.xs
 中国籃球1 ,http://txtest-xp2p.p2p.huya.com/1099531627800-1099531627800-85899448999215104-2199063379056-10057-A-0-1.xs
 中国籃球2 ,http://txtest-xp2p.p2p.huya.com/1859752418-1859752418-7987575813966921728-3719628292-10057-A-0-1.xs
