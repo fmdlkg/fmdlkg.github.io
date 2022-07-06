@@ -1,8 +1,5 @@
 {
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
+//"spider": "http://fj365.ml/6/0.txt?raw=true",
 "sites": [    
 {
       "key": "csp_77",
