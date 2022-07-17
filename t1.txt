@@ -1,12 +1,8 @@
 $c_start马来$c_end
 AEC-1,http://iptv12k.com:35461/live/test167/12345/709.m3u8
-AEC-2,
-AEC-3,
-AEC-4,
+AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/707.m3u8
-歡喜臺333-2,
-歡喜臺333-3,
-歡喜臺333-4,
+歡喜臺333-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 芒果TV,http://39.135.55.105:6610/PLTV/88888888/224/3221226887/index.m3u8?servicetype=1
 全佳,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20408#https://hdl-ws.zego.wakavideos.com/wakavideos/3986bd386402c7c8687d7487882dc076.flv
