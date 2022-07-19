@@ -3,13 +3,13 @@ AEC-1,http://iptv12k.com:35461/live/test167/12345/709.m3u8
 AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
 AEC-3,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34
 AEC-4,mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
-AEC-5(vpn),
-AEC-6(vpn),
+AEC-5,P2p://ns2.hellotvvod.com:9906/d90d3951521a4e758c496aac655afe03.ts
+AEC-6,P2p://ns2.hellotvvod.com:9906/13582f541fbb486fa0d5d8ca7667cb23.ts
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/707.m3u8
 歡喜臺333-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411
 歡喜臺333-3,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae
 歡喜臺333-4,mitv://ns2.hellotvvod.com:9906/b09e290579d641a4a988c1ab37e67b45.ts
-歡喜臺333-5,
+歡喜臺333-5,P2p://ns2.hellotvvod.com:9906/66a9ee5314044b49a8662635acb0f3c8.ts#P2p://ns2.hellotvvod.com:9906/d4ee13d1905840f4b01d313b69db022c.ts
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 广场舞大全,http://mmitv.top/pltv/iqiyi.php?id=380069022&tk=6d49f987
 芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
