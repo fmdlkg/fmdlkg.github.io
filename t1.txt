@@ -8,8 +8,8 @@ AEC-6,P2p://ns2.hellotvvod.com:9906/13582f541fbb486fa0d5d8ca7667cb23.ts
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/707.m3u8
 歡喜臺333-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411
 歡喜臺333-3,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae
-歡喜臺333-4,mitv://ns2.hellotvvod.com:9906/b09e290579d641a4a988c1ab37e67b45.ts
-歡喜臺333-5,P2p://ns2.hellotvvod.com:9906/66a9ee5314044b49a8662635acb0f3c8.ts#P2p://ns2.hellotvvod.com:9906/d4ee13d1905840f4b01d313b69db022c.ts
+
+
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 广场舞大全,http://mmitv.top/pltv/iqiyi.php?id=380069022&tk=6d49f987
 芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
@@ -73,7 +73,7 @@ $c_start台湾$c_end
 新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 ARIRANG阿里郎頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv079&nid=189
 LiveABC互動英語頻道,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
-ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106
+ELTV生活英語台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn20&nid=106#mitv://ns2.hellotvvod.com:9906/3a0152b0d9a5455a9f7c15c8972ffc08
 MOMO親子台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live107&nid=231
 東森購物一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live047&nid=173
 鏡電視新聞台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv075&nid=268
@@ -113,7 +113,7 @@ $c_start旅遊$c_end
 旅游攻略,http://mmitv.top/pltv/iqiyi.php?id=380066922&tk=ef18d768
 文物宝库,http://39.136.48.2:8089/PLTV/88888888/224/3221226358/index.m3u8
 CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
-靖天國際,https://wabc.ml/hlk.php?id=155#mitv://ns2.hellotvvod.com:9906/a3be622a9a4f4ab0b642eb3873936e6e
+靖天國際,mitv://ns2.hellotvvod.com:9906/aa92f8602eb04117be37d1cffbd35fc9
 愛爾達生活旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live120&nid=237
 亞洲旅遊台,http://61.219.170.95:18568/http/192.168.1.9:8081/hls/76/818/ch61.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=m02000000000012865686&ct=17955&tsum=9e51c9e9e3a6cd6bf4d30373674a6e7b#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-longturn17&nid=250#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#https://ytb.52sf.ga/jmsytb.m3u8?c=40
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251
@@ -144,7 +144,7 @@ Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8
 緯來育乐,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#rtmp://59.124.75.150/sat/tv701#rtmp://59.124.75.150/sat/tv701#rtmp://59.124.75.157/sat/tv701#rtmp://219.80.97.35/sat/tv701
 國興衛視,mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts#P2p://ns2.hellotvvod.com:9906/2a6d724e50124559a6a5624fb0cb8acd.ts#mitv://ns2.hellotvvod.com:9906/a27ba50463934339bea55b098fd10d3e.ts
 龙华日韩,http://59.125.101.187:8535/http/59.120.8.187:8066/hls/210/10011/cstv11.m3u8#http://59.125.98.83:8535/http/192.168.1.9:8066/hls/210/10011/cstv11.m3u8?token=7375646f1298469fcd2cecf4cc31d29c6f203f0d#http://59.125.98.83:8535/playlist.m3u8
-靖天日本,mitv://ns2.hellotvvod.com:9906/e7713d137980443191b03e865e5777e1.ts#p5p://45.92.126.18:9906/6045b8aa000389cf066c3b7385e82ede.ts%20#P2p://ns2.hellotvvod.com:9906/076018c0cf824ebca4f045d3071dd49a.ts
+靖天日本,mitv://ns2.hellotvvod.com:9906/d322e2bc60ea4d2f89703b858345a132
 曼迪日本,http://50.7.218.42:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8#p5p://45.92.126.18:9906/6068a12900029e3a13556dc2ad58c3d5.ts
 
 
@@ -155,7 +155,7 @@ $c_start美食-1$c_end
 品城記,http://jvc.ueuo.com/kds/huyatest2.php?id=24356623#http://jvc.ueuo.com/kds/huyatest.php?id=24356623#http://jvc.ueuo.com/kds/huyatest3.php?id=24356623
 美食厨房-1,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2
 美食厨房-2,http://mmitv.top/pltv/iqiyi.php?id=180066022&tk=cba2f345
-美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8#P2p://ns2.hellotvvod.com:9906/125e1f507f284617b301d865892db1b4.ts#p2p://45.92.126.18:9906/626139fa00036cff1881934f1fc1ae06#mitv://45.92.126.18:9906/626139fa00036cff1881934f1fc1ae06#P2p://ns2.hellotvvod.com:9906/5e8e336ad66b47b899546fa4556f7e31.ts#mitv://ns2.hellotvvod.com:9906/a51b8f53b033431298135bece8b9f9ce.ts#http://58.247.68.5:61985/hlsok/00740cb7/index.m3u8
+美食星球,mitv://ns2.hellotvvod.com:9906/e409a16c4b89403194c37bcdd62bd31c
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251#https://4gtvfree-mozai.4gtv.tv/Oc5b4KlVfO4WBJJ1aZkycT6cG7g9KzQWIPJVYKbUR7A%3d/stream2.m3u8?token=bbKGPUHTwvn6JFb5q3eDXQ&expires=1650434307&refer=NjA5YzI5YzItZTg0OS00OWM2LTkxY2QtN2RiNDg0YzBkYWNj&token1=IWaQipC5EugFVD4fZhgNTg&expires1=1650434307&y=0&vt=
 老广的味道，http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/1sHOZtjdtQeqd2neLHoWsL8Qu_9XSa8SBk069ouyYsfmsuqnTwk-t8y3ysMzjVopY2swzbeY2u6VM-xENkmxpbwxZpYHqUP6bn_mWW_4H1nTn3IiLjxMAocUo_HKXTUS/14454fcc378fab128570f7a7c0667dfc9/c56_lb_182_600_t10.m3u8?key=0cad0721217f6a11ad09559b935b3cf79&dis_t=1645540582&z=akm_oversea&pv=0.2
 李子柒美食,https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://bd.flv.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.flv?wsSecret=ee5428509b439045e776a58f87cc2f63&wsTime=61233471&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com
