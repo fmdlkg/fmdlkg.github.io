@@ -1,22 +1,23 @@
 $c_start马来$c_end
-AEC-1,http://iptv12k.com:35461/live/test167/12345/709.m3u8
+AEC-1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703
 AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621
 AEC-3,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34
 AEC-4,mitv://ns2.hellotvvod.com:9906/e2eb435e302a4807aa29dc90790a6de9
 AEC-5,mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts
-AEC-6,P2p://ns2.hellotvvod.com:9906/13582f541fbb486fa0d5d8ca7667cb23.ts#P2p://ns2.hellotvvod.com:9906/d90d3951521a4e758c496aac655afe03.ts
-歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/707.m3u8
+AEC-6,P2p://ns2.hellotvvod.com:9906/c3b00314661e4bf1954528045c337e0a#P2p://ns2.hellotvvod.com:9906/264bb45633b04dc4b4c3ed3b47477806
+歡喜臺333-1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033701
 歡喜臺333-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411
 歡喜臺333-3,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae
 歡喜臺333-4,mitv://ns2.hellotvvod.com:9906/5046a45eda3345e2a782c9faeb12a54e
 歡喜臺333-5,P2p://ns2.hellotvvod.com:9906/d4ee13d1905840f4b01d313b69db022c.ts#P2p://ns2.hellotvvod.com:9906/66a9ee5314044b49a8662635acb0f3c8.ts
+Mr. Bean,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290511
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3
 广场舞大全,http://mmitv.top/pltv/iqiyi.php?id=380069022&tk=6d49f987
 芒果TV直播,http://112.17.40.217/PLTV/88888888/224/3221231279/index.m3u8
 東風衛視,http://61.219.170.95:18560/http/192.168.1.9:8081/hls/68/810/ch31.m3u8
 全佳,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20408#https://hdl-ws.zego.wakavideos.com/wakavideos/3986bd386402c7c8687d7487882dc076.flv
 全佳,http://iptv12k.com:35461/live/test167/12345/710.m3u8#mitv://ns2.hellotvvod.com:9906/c46a9c53a9584bba8b6cdac434620996#mitv://ns2.hellotvvod.com:9906/9294b59eeed4484e9f456ec965c12c15.ts
-爱奇艺,https://hdl-ws.zego.wakavideos.com/wakavideos/ac6ce13aa02f390d7be92fc78e49a535.flv#mitv://ns2.hellotvvod.com:9906/ecddb042ec4c4bb6b054af29e061cb74.ts#http://iptv12k.com:35461/live/test167/12345/708.m3u8
+爱奇艺,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290508#https://hdl-ws.zego.wakavideos.com/wakavideos/ac6ce13aa02f390d7be92fc78e49a535.flv#mitv://ns2.hellotvvod.com:9906/ecddb042ec4c4bb6b054af29e061cb74.ts#http://iptv12k.com:35461/live/test167/12345/708.m3u8
 爱奇艺,mitv://ns2.hellotvvod.com:9906/611202e488dd436a8424be0ad21788ef
 华丽,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=m02000000000017284058&ct=17957&tsum=72aaa7dbf2a5d6166b065612f3e6c602
 华丽-2,mitv://ns2.hellotvvod.com:9906/b72eeb4655e14bbf970642b005386435#http://iptv12k.com:35461/live/test167/12345/698.m3u8#mitv://ns2.hellotvvod.com:9906/454cd2639f0d4623b05f7ff5e8152de8
@@ -41,22 +42,22 @@ $c_start香港$c_end
 凤凰中文,http://stream.guihet.com/t/ifeng2.php?id=2?zgangd#http://61.219.170.95:18566/http/192.168.1.9:8078/hls/21/80/phoenixch.m3u8#http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8#http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8#http://wtv.weetai.cn/iptv/2022/tyzb11.php?id=1#http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
 凤凰资讯,http://stream.guihet.com/t/ifeng2.php?id=1?zgangd#http://61.219.170.95:18565/http/192.168.1.9:8078/hls/20/80/phoenixif.m3u8#http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8#https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8#http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8#http://wtv.weetai.cn/iptv/2022/tyzb11.php?id=2#http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰香港,http://stream.guihet.com/t/ifeng2.php?id=3?zgangd#http://50.7.220.74:8278/hkphoenix_twn/playlist.m3u8?tid=m02000000000018250733&ct=18001&tsum=e70ca7acd14b287077a17bb5a2fd3cb2#http://wtv.weetai.cn/iptv/2022/tyzb11.php?id=3
-無綫新聞台,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
+無綫新聞台,http://iptv12k.com:35461/live/test167/12345/1012.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/playlist.m3u8
 有線新聞台,https://api.leonardpark.dev/live/icable/109#http://livetv.dnsfor.me/channel.5.m3u8
 有線直播新聞台,http://livetv.dnsfor.me/channel.7.m3u8
-Now新聞,http://live.cooltv.top/tv/now.php?id=332#https://t10a.ggiptv.com/live/nowxw/index.m3u8?session=ortfvp3hb0cqsykgwl3tk5elyawiexwa#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5#http://livetv.dnsfor.me:80/channel.4.m3u8#http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk#http://51.222.193.142:10011/9#http://livetv.dnsfor.me/channel.4.m3u8
+Now新聞,http://iptv12k.com:35461/live/test167/12345/1002.m3u8#http://live.cooltv.top/tv/now.php?id=332#https://t10a.ggiptv.com/live/nowxw/index.m3u8?session=ortfvp3hb0cqsykgwl3tk5elyawiexwa#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/5#http://livetv.dnsfor.me:80/channel.4.m3u8#http://test.crtvhstv.xyz:80/play/5iVToWZi9rVAYQQsYXHze1P1tCEvxtJGORQfaAsIrPk#http://51.222.193.142:10011/9#http://livetv.dnsfor.me/channel.4.m3u8
 Now直播新聞台,http://livetv.dnsfor.me/channel.3.m3u8#http://livetv.dnsfor.me:80/channel.3.m3u8#https://www.navchina.cf/IPTV/now.php?id=331
 Now Jelli,http://jlwmedia.xyz:2052/vandoorne/vandoorne123/2599343
-翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8#https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 Horse Racing 89,mitv://ns2.hellotvvod.com:9906/1adf1b2c93d241f5815aff649ffe086c#mitv://ns2.hellotvvod.com:9906/407c4f25a08e4c79bc7f55e17c9b79ec.ts
-J2,https://t8a.ggiptv.com/live/j2/index.m3u8?session=72e0r22nl27o62lltunlmwa8es08gcz8#http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10#https://tx-b2.xsafetech.com/live/11666.m3u8#http://cms750.synology.me:8001/bysid/82#https://hdl-ws.zego.wakavideos.com/wakavideos/12dc5c497fe7d3fcefa25721282fd006.flv?WithCaption#http://ott3.alwaysdata.net/live/hk.php?id=2?WithCaptio#http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8#http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#https://tx-b2.xsafetech.com/live/11666.m3u8#http://120.84.96.32:808/hls/86/index.m3u8#https://h.youtalk.top/hkj2b/49.m3u8#https://bf.kanjc.com/11666/11666.m3u8#http://198.204.239.194:27347/livehlsplay?channel_id=20057
+J2,http://iptv12k.com:35461/live/test167/12345/1006.m3u8#https://t8a.ggiptv.com/live/j2/index.m3u8?session=72e0r22nl27o62lltunlmwa8es08gcz8#http://50.7.220.74:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/10#https://tx-b2.xsafetech.com/live/11666.m3u8#http://cms750.synology.me:8001/bysid/82#https://hdl-ws.zego.wakavideos.com/wakavideos/12dc5c497fe7d3fcefa25721282fd006.flv?WithCaption#http://ott3.alwaysdata.net/live/hk.php?id=2?WithCaptio#http://iptv.tvfix.org/hls/j2.m3u8#http://iptv.tvfix.org/hls/j22.m3u8#http://50.7.218.42:8278/j2_twn/playlist.m3u8?tid=m22905da1d346&ct=18336&tsum=3b4998c4f5367bb820165f66b0caab0e#https://tx-b2.xsafetech.com/live/11666.m3u8#http://120.84.96.32:808/hls/86/index.m3u8#https://h.youtalk.top/hkj2b/49.m3u8#https://bf.kanjc.com/11666/11666.m3u8#http://198.204.239.194:27347/livehlsplay?channel_id=20057
 J5,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/2#http://ott3.alwaysdata.net/live/hk.php?id=4?WithCaption#http://iptv.tvfix.org/hls/pearl2.m3u8#http://iptv.tvfix.org/hls/pearl.m3u8#http://qwas.eatuo.com:9901/tsfile/live/1014_1.m3u8#https://t16a.ggiptv.com/live/tvbp/index.m3u8?session=dsx9flkvhsavebsil6sfglp2ll1rw0bu
-香港开电视,http://livetv.dnsfor.me/channel.9.m3u8#http://ott3.alwaysdata.net/live/hk.php?id=11?WithCaption#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://iptv.tvfix.org/hkdtmb/77/index.m3u8
-RTHK31,http://50.7.220.74:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13#http://ott3.alwaysdata.net/live/hk.php?id=6?WithCaption#https://dm1133.kglink.xyz/live/07#http://iptv.tvfix.org/hls/rthk31.m3u8
-RTHK32,http://livetv.dnsfor.me/channel.2.m3u8#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8?WithCaption#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14#https://dm1133.kglink.xyz/live/08#https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8#https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8#http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
+香港开电视,http://iptv12k.com:35461/live/test167/12345/1013.m3u8#http://livetv.dnsfor.me/channel.9.m3u8#http://ott3.alwaysdata.net/live/hk.php?id=11?WithCaption#http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://iptv.tvfix.org/hkdtmb/77/index.m3u8
+RTHK31,http://iptv12k.com:35461/live/test167/12345/1004.m3u8#http://50.7.220.74:8278/rhk31_twn/playlist.m3u8?tid=m46bfc2f9ab63&ct=18336&tsum=608dc3ebc82e03253ba562a9a81f0094#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/13#http://ott3.alwaysdata.net/live/hk.php?id=6?WithCaption#https://dm1133.kglink.xyz/live/07#http://iptv.tvfix.org/hls/rthk31.m3u8
+RTHK32,http://iptv12k.com:35461/live/test167/12345/1005.m3u8#http://livetv.dnsfor.me/channel.2.m3u8#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8?WithCaption#https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream2/streamPlaylist.m3u8?WithCaption#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/14#https://dm1133.kglink.xyz/live/08#https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8#https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8#http://50.7.218.42:8278/rhk32_twn/playlist.m3u8?tid=m941409fa5c86&ct=18336&tsum=af847919dbe19ba95dbe614c6cfe2a10
 RTHK33,http://ott3.alwaysdata.net/live/hk.php?id=8?WithCaption
-ViuTV,http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514#https://j2.lhlh.app/mv.m3u8#http://ott3.alwaysdata.net/live/hk.php?id=9?WithCaption#http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514#http://iptv.tvfix.org/hls/viutv2.m3u8#http://iptv.tvfix.org/hls/viutv.m3u8#https://t21a.ggiptv.com/live/viutv/index.m3u8?session=nd5zgc6s5aj8cnxnbb7m7kqqoy20g97l
-ViuTV-6,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7#http://ott3.alwaysdata.net/live/hk.php?id=10?WithCaption#http://iptv.tvfix.org/hls/viutv6.m3u#http://iptv.tvfix.org/hkdtmb/96/index.m3u8
+ViuTV,http://iptv12k.com:35461/live/test167/12345/1008.m3u8#http://50.7.220.74:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514#https://j2.lhlh.app/mv.m3u8#http://ott3.alwaysdata.net/live/hk.php?id=9?WithCaption#http://50.7.218.42:8278/9ae6d37d9a/playlist.m3u8?tid=m7728dbb8abe7&ct=18336&tsum=6b7f957f06b7cfabd928653808a52514#http://iptv.tvfix.org/hls/viutv2.m3u8#http://iptv.tvfix.org/hls/viutv.m3u8#https://t21a.ggiptv.com/live/viutv/index.m3u8?session=nd5zgc6s5aj8cnxnbb7m7kqqoy20g97l
+ViuTV-6,http://iptv12k.com:35461/live/test167/12345/1007.m3u8#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/7#http://ott3.alwaysdata.net/live/hk.php?id=10?WithCaption#http://iptv.tvfix.org/hls/viutv6.m3u#http://iptv.tvfix.org/hkdtmb/96/index.m3u8
 無綫財經資訊台,http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/8#http://ott3.alwaysdata.net/live/hk.php?id=5?WithCaption#https://dm1133.kglink.xyz/live/02#http://www.nettvpro.live/hls/tvb.php?id=2#http://ye23.win/iptv/tvb.php?id=2
 有綫財經資訊台,http://livetv.dnsfor.me/channel.6.m3u8#https://api.leonardpark.dev/live/icable/108#http://hk.crtv.store:80/h9LfGk6jVB/WXcrtv2020/9#https://dm1133.kglink.xyz/live/04
 Now财经台,http://live.cooltv.top/tv/now.php?id=331#http://livetv.dnsfor.me/channel.8.m3u8
@@ -268,6 +269,7 @@ beIN Sports,mitv://ns2.hellotvvod.com:9906/db2ea4664ade4812ba3a563fc8e5b59a
 beIN Sports 2,mitv://ns2.hellotvvod.com:9906/6034d0f9012e4bd2b18f79586b0281d4
 beIN Sports 3,mitv://ns2.hellotvvod.com:9906/28a7f61d6b9b426b900cac0a9ca1b9e0
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
+PREMIER SPORT,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290509
 爱尔达体育-1,rtmp://59.124.75.138/sat/md051
 爱尔达体育1台(备),rtmp://59.124.75.150/sat/md051
 爱尔达体育-2,rtmp://59.124.75.150/sat/md021#rtmp://59.124.75.150/sat/md041
