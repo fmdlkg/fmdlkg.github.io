@@ -1,15 +1,11 @@
 $c_start马来$c_end										
 AEC-1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033703										
 AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621										
-AEC-3,mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34										
-AEC-4,mitv://ns2.hellotvvod.com:9906/e2eb435e302a4807aa29dc90790a6de9										
-AEC-5,mitv://ns2.hellotvvod.com:9906/bcc938ab5b5041089e4edb75ccd224d5.ts										
-AEC-6,P2p://ns2.hellotvvod.com:9906/c9f8db6da171427cb8ddb12326aad849#P2p://ns2.hellotvvod.com:9906/572c349f3a0f4ae79c7fe5453d3366d1										
 歡喜臺333-1,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033701										
 歡喜臺333-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20411										
-歡喜臺333-3,mitv://ns2.hellotvvod.com:9906/f34d3251ee5c454ca9b73bbaad3477ae										
-歡喜臺333-4,mitv://ns2.hellotvvod.com:9906/5046a45eda3345e2a782c9faeb12a54e										
-歡喜臺333-5,P2p://ns2.hellotvvod.com:9906/26ea9145b72243b999348f43849606a7#P2p://ns2.hellotvvod.com:9906/2de925beecff428f9968fa2dd46b5d0b										
+										
+										
+										
 Mr. Bean,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290511										
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8#https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8#tvbus://6hceEo3SMnTG5m7CG2ZakyWbfgG1ZmtNukkaE8mSpCNrnmf3EVovACCdyEUN3										
 广场舞大全,http://mmitv.top/pltv/iqiyi.php?id=380069022&tk=6d49f987										
@@ -32,12 +28,14 @@ Mediacorp 8,mitv://ns2.hellotvvod.com:9906/b178168068504ca8bda9c479bf7437de
 TV2,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033693#mitv://ns2.hellotvvod.com:9906/44291c7151e746f5b46af4ecf97b6da6#P2p://ns2.hellotvvod.com:9906/35d024f16da54804bca07838e6886f7b										
 八度空間,mitv://ns2.hellotvvod.com:9906/666a75058e7f44ceb78afd9a2a74eec0#mitv://ns2.hellotvvod.com:9906/119ded7cf26a47b187dc8b8b15bd2900#mitv://ns2.hellotvvod.com:9906/e4658bfdc7f74ea3a198bb56dd158ab6#P2p://ns2.hellotvvod.com:9906/f61ba615b3bb4df393f0fe3566efdc6e#https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033774#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8										
 TV8,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033774#http://acc2.aatvbox.club:8880/trmall/trmall0308/1730#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8#https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8#http://iptv12k.com:35461/live/test167/12345/738.m3u8										
-AWANI,https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.220.74:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8#Astro Awani,mitv://ns2.hellotvvod.com:9906/806c480eff2c4b2590ff8955d233f605										
+AWANI,http://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#https://m3u-editor.com/serve/71666560-f5c1-11ec-9c18-037b08dfb16d/588033765#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/index.m3u8#http://50.7.220.74:8278/Awani/playlist.m3u8?tid=m02000000000010117437&ct=17958&tsum=ffc03caf973a4c8871e4a8a18211b037#https://awanitv.akamaized.net/hls/live/2017836/LiveTV1/stream04/streamPlaylist.m3u8#Astro Awani,mitv://ns2.hellotvvod.com:9906/806c480eff2c4b2590ff8955d233f605										
 Bernama TV,mitv://ns2.hellotvvod.com:9906/0f2790c241ac46df85735a7d46dd5624#P2p://ns2.hellotvvod.com:9906/d572e50deb584ee89d02ade9dbe67610										
 Berita RTM,P2p://ns2.hellotvvod.com:9906/5239193b49ac48739209a632c3ad3c00#mitv://ns2.hellotvvod.com:9906/68c3c4131d1d4e8cad68992f9decfd18#mitv://ns2.hellotvvod.com:9906/b7898804578e4f9795373370f635f4ea.tshttps://rtmlive03tv.secureswiftcontent.com/rtmchannel/03-manifest.mpd										
-AL JAZEERA,https://epg.pm/stream/d18561e288165baeda595f19dc9a855256e46d449f9a946e6c62fe30b0f57e42.m3u8#https://epg.pm/stream/db785b5169d0c40889901f85cb2c23e99995136f586c6062a4c977b2e31c9be7.m3u8#mitv://ns2.hellotvvod.com:9906/cd6331cb173345768088cc6eb17057b4#https://epg.pm/stream/d18561e288165baeda595f19dc9a855256e46d449f9a946e6c62fe30b0f57e42.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85#http://45.126.83.51/qwr9ew/s/s17/index.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#P2p://ns2.hellotvvod.com:9906/eaf79a64210b4a3b9f711c7c11c3b73a#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8										
-Bloomberg,https://epg.pm/stream/64e530025934f284889732b18dbf76841735e6d66db9c06e622a5d8bb5d0dd74.m3u8#https://epg.pm/stream/d42ada1376d570e837357189e590409fb4d380193640e3d0ab5446569b7a7067.m3u8#mitv://ns2.hellotvvod.com:9906/2ba5e04abe8a49129be65500c47382eb#https://ytb.52sf.ga/jmsytb.m3u8?c=14#https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8#http://iptv12k.com:35461/live/test167/12345/590.m3u8										
+AL JAZEERA,https://epg.pm/stream/d18561e288165baeda595f19dc9a855256e46d449f9a946e6c62fe30b0f57e42.m3u8#https://epg.pm/stream/db785b5169d0c40889901f85cb2c23e99995136f586c6062a4c977b2e31c9be7.m3u8#mitv://ns2.hellotvvod.com:9906/cd6331cb173345768088cc6eb17057b4#https://epg.pm/stream/d18561e288165baeda595f19dc9a855256e46d449f9a946e6c62fe30b0f57e42.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85#http://45.126.83.51/qwr9ew/s/s17/index.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8										
+Bloomberg,https://epg.pm/stream/64e530025934f284889732b18dbf76841735e6d66db9c06e622a5d8bb5d0dd74.m3u8#https://epg.pm/stream/d42ada1376d570e837357189e590409fb4d380193640e3d0ab5446569b7a7067.m3u8#mitv://ns2.hellotvvod.com:9906/2ba5e04abe8a49129be65500c47382eb#https://ytb.52sf.ga/jmsytb.m3u8?c=14#https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8#http://iptv12k.com:35461/live/test167/12345/590.m3u8#P2p://ns2.hellotvvod.com:9906/eaf79a64210b4a3b9f711c7c11c3b73a#mitv://fccs.word-tv.com:9906/626191ed0001b05319d92015e4a6cb61#mitv://fccs.word-tv.com:9906/626191ed0001b05319d92015e4a6cb61										
+HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8#http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w878126648.m3u8										
 ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8										
+TV Nhan Dan,http://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/playlist.m3u8										
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8										
 ArirangTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8										
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8										
