@@ -44,7 +44,7 @@ NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/in
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8											
 CCTV-4,http://120.84.96.221:808/hls/4/index.m3u8											
 											
-$c_start香港$c_end											
+香港,#genre#											
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8											
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8											
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8											
@@ -75,7 +75,7 @@ Now财经台,http://live.cooltv.top/tv/now.php?id=331#http://livetv.dnsfor.me/ch
 有線娛乐,P2p://45.92.126.18:9906/626bc60b000392d40dac9d2923dd262b#p2p://54.39.16.152:9906/626bc60b000392d40dac9d2923dd262b#p2p://fccs.word-tv.com:9906/626bc60b000392d40dac9d2923dd262b											
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8											
 											
-$c_start台湾$c_end											
+台湾,#genre#											
 民視第一台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv003&nid=1											
 民視台灣台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv001&nid=2											
 民視,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-4gtv002&nid=3											
@@ -123,7 +123,7 @@ DW德國之聲,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-liv
 華語綜藝台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live006&nid=245											
 中台灣生活,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8											
 											
-$c_start旅遊$c_end											
+旅遊,#genre#											
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8											
 HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8											
 靖天國際,http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6#P2p://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee#mitv://fccs.word-tv.com:9906/62618c820009926c19c3f821ebec02ee#P2p://ns2.hellotvvod.com:9906/c46a12c1181d4a9bb62b95c066be87db.ts#p2p://54.39.16.152:9906/62618c820009926c19c3f821ebec02ee#P2p://ns2.hellotvvod.com:9906/6dc496054577491f8abbfef561587ea5											
@@ -180,7 +180,7 @@ Gloabal Travel,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8#ht
 爱旅行,http://111.11.123.49:6610/000000001000/6000000006000250630/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt#http://111.40.196.37/0000000000001000/1.m3u8?Contentid=6000000006000250630&livemode=1&stbId=3&channel-id=wasusyt											
 欧洲环游,http://42.56.91.136:80/live-bvc/285487/live_68057278_4570624.m3u8											
 							p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts				
-$c_start美食-1$c_end											
+美食-1,#genre#											
 非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8											
 全纪实HD,http://183.207.255.188/live/program/live/qjshd/4000000/mnf.m3u8											
 大愛電視,http://61.219.170.95:18567/http/192.168.1.9:8081/hls/73/815/ch52.m3u8											
@@ -241,7 +241,7 @@ QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high
 香噴噴的小烤雞,http://jvc.ueuo.com/kds/huyatest.php?id=21052165#http://jvc.ueuo.com/kds/huyatest2.php?id=21052165#http://jvc.ueuo.com/kds/huyatest3.php?id=21052165											
 											
 											
-$c_start知识$c_end											
+知识,#genre#											
 北京文藝,http://jvc.ueuo.com/kds/btime_app.php?id=btvwy											
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8#http://yd-m-l.cztv.com/channels/lantian/channel12/360p.m3u8											
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8											
@@ -264,7 +264,7 @@ Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8
 大太平洋,http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/2d7f4eeaed2e4ad080bcf324eb21bc0d/4000.m3u8											
 											
 											
-$c_start体育$c_end											
+体育,#genre#											
 assp1,P2p://ns2.hellotvvod.com:9906/dd8ade86aa22468ab395d0962151a503#P2p://ns2.hellotvvod.com:9906/46c1874db98e44e2897b3b666f63e5b3.ts#P2p://ns2.hellotvvod.com:9906/00dc144eb8254da7bd34eb309e0ec0c7#mitv://ns2.hellotvvod.com:9906/7a95058964e445d99c72e869b963b534											
 assp2,P2p://ns2.hellotvvod.com:9906/4265620f6a204ef996f0101aef049ad8#P2p://ns2.hellotvvod.com:9906/a19645ecb10e450b81aba0299215e0d3#mitv://ns2.hellotvvod.com:9906/eb127a4d88d24020b0ba2999eba7793a#http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157556											
 assp3,P2p://ns2.hellotvvod.com:9906/89ec59d1c7494b91859ae49088d0f94c#P2p://ns2.hellotvvod.com:9906/82bdb41680f54d469d4d160c85a18958#mitv://ns2.hellotvvod.com:9906/7aeddaf51cb34fb7be6d2f3748648fc1#http://iptvstream.xyz:8080/Alifathaya/7a2cfafe/157557											
@@ -334,7 +334,7 @@ PP体育,http://117.148.179.172/PLTV/88888888/224/3221231778/index.m3u8
 新视觉Sport,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8											
 Spot Tv,http://iptv12k.com:35461/8032022060101/452381/967											
 											
-$c_start体育2$c_end											
+体育2,#genre#											
 爱尔达体育3台,p2p://54.39.16.152:9906/62596d0a0009c5b313fc0e7cd12205f2											
 爱尔达体育2台,p2p://54.39.16.152:9906/62596cee000e512213fba2460c39ef10											
 爱尔达体育1台,p2p://54.39.16.152:9906/62596cd0000349b813fb2a4367d31141											
@@ -380,7 +380,7 @@ Astro Supersport 4,http://quality-restream.com:8080/linuxapp2021/M3jc66jD9UCnpK9
 Astro Supersport 5,http://platinumxmedia.xyz:8080/Instahub/bxL8msMEF2V3/92012											
 											
 											
-$c_start简易旅遊日文$c_end											
+简易旅遊日文,#genre#											
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8											
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8											
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8											
@@ -390,7 +390,7 @@ Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/6/z/x6z92k6m_xtfe3ker_h264_1244K.mp4/chunklist.m3u8											
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8											
 											
-$c_start日文易学-1$c_end											
+日文易学-1,#genre#											
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8											
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8											
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8											
@@ -416,7 +416,7 @@ Lesson-22https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/s/0/8/s08108v1_zvv89794_h264_1244K.mp4/chunklist.m3u8											
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8											
 											
-$c_start日文易学-2$c_end											
+日文易学-2,#genre#											
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/0/d/g0dfs57b_r2445j48_h264_1244K.mp4/chunklist.m3u8											
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/l/8/gl876c48_sn0hvr34_h264_1244K.mp4/chunklist.m3u8											
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/1/0/f10iu9lx_dsu682sj_h264_1244K.mp4/chunklist.m3u8											
