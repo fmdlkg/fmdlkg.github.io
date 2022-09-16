@@ -1,5 +1,5 @@
 $c_start马来$c_end							https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8			
-AEC-1,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f@http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f										
+AEC-1,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f#http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f										
 AEC-2,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20621#mitv://ns2.hellotvvod.com:9906/65a44c9c94be40459cf02635afe88d34										
 AEC-3,http://iptv12k.com:35461/17501083101/524668/709#P2p://ns2.hellotvvod.com:9906/d956ceff1cac4275b9b2ae2d0fb87a02										
 AEC-4,https://stream.zeehanzgadget.com/aec#mitv://51.81.90.177:9906/b57dd45e3fad4283895f56e11820314e#mitv://51.81.90.177:9906/d956ceff1cac4275b9b2ae2d0fb87a02										
