@@ -34,7 +34,7 @@ Bernama TV,http://123.253.32.125:9995/livestream/api/v1/long?channel_id=c20399#h
 Berita RTM,https://epg.pm/stream/92fca7f9b9bbe222736b7a7c06fec650e762f0a7b71d4d70ba106b797abb0d6b.m3u8?WithCaption#https://v-t-e-r.github.io/Umbrella/Playlist/Ch/Beritartm.m3u8#P2p://ns1.hellotvvod.com:9906/e81babd24bf549ec86737689fafbc9d2#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1664787301/ei/BU86Y-j4M7KB2LYPwpq7oAE/ip/20.232.105.160/id/s8KRKHksIs0.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgNZ6lUF00DWHnn8SXXmphlrfJtFDahQ0NVC0nPEs3tMoCIAVGvmVRiGbug2AYJXtEDEwDkmoeHDIBCfQ7zKd-BNG0/file/index.m3u8#https://epg.pm/stream/92fca7f9b9bbe222736b7a7c06fec650e762f0a7b71d4d70ba106b797abb0d6b.m3u8?WithCaption											
 ABC 10 Sacramento CA,https://livevideo01.abc10.com/hls/live/2014547/newscasts/live.m3u8											
 ABC 24 Memphis TN,https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8											
-AL JAZEERA,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live#https://epg.pm/stream/6fd6e3cab8cdbb4e7eae22ce7c3341587d2c30677f2d016ee39becc207c3ebd7.m3u8#https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/index.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85#http://45.126.83.51/qwr9ew/s/s17/index.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662752339/ei/80EbY5a4H8y6hgbv9afgBw/ip/20.65.58.84/id/F-POY4Q0QSI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/2400+C2431373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWeyqybJ2Qa0_h11GFSnba3JunkfNcAUFJDNR67BphKkCIGHZIXAuzLVSy8yKmLVBYQlIUwmYhC0gapK3Z1-l7MZz/file/index.m3u8#http://iptv12k.com:35461/17501083101/524668/725#https://epg.pm/stream/db785b5169d0c40889901f85cb2c23e99995136f586c6062a4c977b2e31c9be7.m3u8											
+AL JAZEERA,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665690818/ei/YhhIY8j1GcOI2LYPnbKysAw/ip/20.25.0.145/id/F-POY4Q0QSI.2/source/yt_live_broadcast/requiressl/yes/tx/24287372/txs/24287370%2C24287371%2C24287372/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOsDGa69dzHrgEHuLCDI5llMVtk50J32B2l2tsJ8k-05AiAoQHBMufVHPBZZYfgN_6CNQ3Cf9n9i8P53XtSo5tyKSg%3D%3D/file/index.m3u8#http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live#https://epg.pm/stream/6fd6e3cab8cdbb4e7eae22ce7c3341587d2c30677f2d016ee39becc207c3ebd7.m3u8#https://live-hls-apps-aljazeera.global.ssl.fastly.net/AJE/index.m3u8#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv10&nid=85#http://45.126.83.51/qwr9ew/s/s17/index.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8#https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1662752339/ei/80EbY5a4H8y6hgbv9afgBw/ip/20.65.58.84/id/F-POY4Q0QSI.1/source/yt_live_broadcast/requiressl/yes/hfr/1/ctier/SPL/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/2400+C2431373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cctier%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgWeyqybJ2Qa0_h11GFSnba3JunkfNcAUFJDNR67BphKkCIGHZIXAuzLVSy8yKmLVBYQlIUwmYhC0gapK3Z1-l7MZz/file/index.m3u8#http://iptv12k.com:35461/17501083101/524668/725#https://epg.pm/stream/db785b5169d0c40889901f85cb2c23e99995136f586c6062a4c977b2e31c9be7.m3u8											
 Bloomberg,https://epg.pm/stream/d42ada1376d570e837357189e590409fb4d380193640e3d0ab5446569b7a7067.m3u8#http://198.16.64.10:8278/bloomberg_twn/playlist.m3u8?tid=MD2D8088860380888603&ct=19225&tsum=ea1c6a2c09cef99386e1768a4ff4c61c#http://210.210.155.37/dr9445/h/h03/index.m3u8#https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8#http://210.210.155.37/dr9445/h/h03/index.m3u8#http://iptv12k.com:35461/live/test167/12345/590.m3u8#http://iptv12k.com:35461/live/test167/12345/590.m3u8#https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8#https://bloomberg-bloomberg-1-pt.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8#https://bloomberg.com/media-manifest/streams/us-event.m3u8#https://bloomberg.com/media-manifest/streams/politics.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8?WithCaption#https://epg.pm/stream/64e530025934f284889732b18dbf76841735e6d66db9c06e622a5d8bb5d0dd74.m3u8#http://iptv12k.com:35461/live/test167/12345/590.m3u8#http://quality-restream.com:8080/asadmanzur/39e379b23d/157599?WithCaption											
 HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8#http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w878126648.m3u8											
 ChannelNewsAsia,http://50.7.220.74:8278/cna/playlist.m3u8?tid=m75c258e8db6c&ct=18336&tsum=72391487028dc68a70d050b29c3654ee#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_2.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8#P2p://ns1.hellotvvod.com:9906/8937713bd0ef406fbcf839786604daaa											
@@ -78,45 +78,45 @@ Now财经台,http://live.cooltv.top/tv/now.php?id=331#http://livetv.dnsfor.me/ch
 Horse Racing 88,											
 											
 台湾,#genre#											
-民視第一台,											
+民視第一台,http://198.16.64.10:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab											
 民視台灣台,https://epg.pm/stream/fa67e3fd2fa1d18f18c5eed91b9d3256dc4435ef25145577c6c487f26d5022b2.m3u8											
 東森美洲,https://epg.pm/stream/29cdd682a8b49b3fa71454fb3063d73cf47efe845ca771470cfcc68b2971d500.m3u8											
 東森美洲卫视,https://epg.pm/stream/24902af2f2babc48561b197a028bc127eba8d384a0130c2f775393c833adc55d.m3u8											
-三立iNews,https://epg.pm/stream/396b2743ca87131f198c75c219fa07015484f94f7ad45c803ca0d459b09ff881.m3u8											
+三立iNews,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665685670/ei/RgRIY_LjHo-7kwaVnrnYAQ/ip/20.245.53.69/id/CKjSm5ZeehE.84/source/yt_live_broadcast/requiressl/yes/tx/24287371/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAOIpQOp-L2LE9dBbjNr32Yq6x7HVIOKa5XCIJkt4goiDAiBX0HalbXZpJbbT_gADEFSNFBed8dFMCMIXY2KtZkrl5g%3D%3D/file/index.m3u8											
 三立台灣,https://epg.pm/stream/3b52ad91830c2cd8fde2b2fd67788cd99c60335822df79cc4d4d60a29a4ee83c.m3u8											
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8											
 東森新聞台,http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12#http://50.7.220.74:8278/ettvnews/playlist.m3u8?tid=ME5E8863997888639978&ct=19193&tsum=6b0236441f10a7195fb35fe7997db68c#https://epg.pm/stream/e663231e56f7527907b932cb452b5e27af2d0d46e412870829d7df2f96a396e2.m3u8											
 華視新聞,https://epg.pm/stream/8a5f28a948d90b3ecb8cf7e35f06aa09a8942a21556bf4c3b04057b33360493c.m3u8											
 民視新聞台 FTV,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://epg.pm/stream/d175e5f5b33a7e69d68c2fdc5b32e4f0df0cf795dd76448d92022037403482b1.m3u8											
-TVBS新聞,https://epg.pm/stream/380a2539e126b45483b64ffefe821d50afe7ef83c54ff159804ebef1db3a476d.m3u8#http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8											
-台視新聞台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://epg.pm/stream/1b1e889e1965584c931b10cca51d653ad33b3019b47aebec4e0563c348a74ec8.m3u8											
-中視新聞											
-中天新聞台,http://pull-l3-cny.douyincdn.com/live/0e326cb619627b3fb0291fabc4e57e9c.flv#http://pull-l3-cny.douyincdn.com/live/0e326cb619627b3fb0291fabc4e57e9c.m3u8											
-寰宇新聞台,http://pull-l3-cny.douyincdn.com/live/023f6fb4faf0c0358bf9a2daf2de7dc0.flv#http://pull-l3-cny.douyincdn.com/live/023f6fb4faf0c0358bf9a2daf2de7dc0.m3u8?WithCaption											
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8#http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8											
+台視新聞台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665690817/ei/YRhIY4bhMNuP_9EP_Mqr2A0/ip/20.25.0.145/id/xL0ch83RAK8.4/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAPkwgeLo_8Pefd-WMQAx5wMj8zZt0I_Zio4wSDkY1xqbAiEA3nqoz-iI2HltY9_8_-tGKkyfIG59h2E4MtLIFb8HRXs%3D/file/index.m3u8#http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8#https://epg.pm/stream/1b1e889e1965584c931b10cca51d653ad33b3019b47aebec4e0563c348a74ec8.m3u8											
+中視新聞,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665685667/ei/QwRIY42UH8_Skgbii63oDw/ip/20.245.53.69/id/TCnaIE_SAtM.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgXpuCHfjxaVOJfEoN_mqitbRw3UXxsHECpNllAQ8ZsRkCIQDHb073wLqjZy1t7pqExjHH9Sc0qhnERwQS9g7z3w0HjA%3D%3D/file/index.m3u8#https://git.io/Jgkxz#https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ctvnews.m3u8											
+中天新聞台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665690816/ei/YBhIY4KuDoewhgbrpI_gDg/ip/20.25.0.145/id/_QbRXRnHMVY.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgU7WcaRmepVg7u7DCNbb8zkStuIoOrX88zvqURvRnLekCIFbO46lmSZshrkj6TqGfxreOnd68u4_rbFWcsNDbVfG5/file/index.m3u8											
+寰宇新聞台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665685671/ei/RwRIY7uZCIWlkgbepqm4DA/ip/20.245.53.69/id/qFhAXrviP5g.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgU-oVNvrf3An32_NzMXdUnAJFaPvd308o-Exi226gi7wCIQCPfVkssjm3JH-Ce42XeW7SmZaEDY71J5dBHZMLwTUuKQ%3D%3D/file/index.m3u8											
 公視,http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=13765524&ct=17990&tsum=03eb77c1c186944b97737f14e95076c0#http://50.7.220.74:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4											
 華視,https://epg.pm/stream/d01e9d53f13b5de30b19e97d86ebfc39289467a0f561d8d1b5260bd2371f0bf6.m3u8#https://epg.pm/stream/57b510dcf0da404070f70bc6a8f1d86238a979d7642e5c9d94ac862cd9851c82.m3u8											
 中視,https://epg.pm/stream/503c8779297d90101bf3fa3f7cc35daf49c3786812b15323a19209228c2846b9.m3u8											
 民視,https://epg.pm/stream/9725f91db33623232e5da1fa0ba6c95c3bef7a7e96e7bc27aa189934422272ed.m3u8											
-東森財經,https://epg.pm/stream/400870fc49bbbd7b106e31a9eae7fbf7888f7eb522812141f4b69f28efbb2022.m3u8#https://epg.pm/stream/969b2881b59d6fa152d43ce33edc60cb2531f5d660ee9353ced7be8e4d5c92aa.m3u8											
+東森財經,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665685669/ei/RQRIY4r9F6iHsfIP2-SViAQ/ip/20.245.53.69/id/LbS-xQ67fos.3/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhALQxXjOSgn_vEw7b90w0qyUOzGQqhITMujVdDbZKPAaJAiANQCWBUTSpOKaq2p-YeLU10xqMr7IzsXMUpySZ0op03g%3D%3D/file/index.m3u8											
 中台灣生活,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8#http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8											
 海南卫视,https://epg.pm/stream/4e79661b49bfb12ff3cf33060c1a7b910e0293579611cc416ec96ff064ea5640.m3u8											
 長城精品,http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8											
-大愛電視-1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8											
-大愛電視-2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8											
-											
-民視綜藝台											
-豬哥亮歌廳秀											
-華視綜藝											
-時尚運動X											
-滾動力rollor											
-民視影劇台											
-人間衛視											
-中視經典台											
+新唐人亞太台,https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665685677/ei/TQRIY6fEBJP-kgaBhbigDQ/ip/20.245.53.69/id/FxVLKksFaaQ.1/source/yt_live_broadcast/requiressl/yes/tx/24287372/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPF_8kntHowyKpMNAv9yRV5M2L584gPzbXCPltyY8nS6AiBzfePaL-jPGejtlNc7p1AL-3ntEIttii0PspwVbz6alQ%3D%3D/file/index.m3u8											
 											
 											
-SBN全球財經台,											
-客家電視台											
-新唐人亞太台,											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
 											
 											
 											
@@ -133,9 +133,9 @@ HTB北海道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews
 ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8											
 亞洲旅遊台-1,http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#https://epg.pm/stream/8b658c859718056f970ee27cb12fd96b2dcf242f99c6c5a9a08fb20540bb7337.m3u8#https://epg.pm/stream/9f016c612fe480fca6a8accba4e17501c6830bff552def34c6a31cdce41c44bb.m3u8											
 CGTN DOCUMENTARY,https://epg.pm/stream/fa65e4e43414c22375bfcb479861ee4b845427c8dba617f7dd372549510ee753.m3u8											
-EYE TV旅遊台,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc#http://iptv12k.com:35461/live/test167/12345/1223.m3u8											
-民視旅游,https://4gtvfreepc-mozai.4gtv.tv/HgY2zOrnfRx4P-jylo1GSVC_JPXzAX0r5cgOc3kt2YU%3d/index.m3u8?token=Sqy5MxhX1y1gdd43V3Juyw&expires=1664954386&token1=W8Ybae9WzLvLWuASMen8ng&expires1=1664954386&refer=MmFhN2NmMjctOWI2Yi00NTgyLThhMzEtMjgyOGQ3MDBlM2Fh&y=0#https://epg.pm/stream/86dea23ebb6ab3db212679eedfc1b5048d93ed8d1d517fd47792d26346af487c.php#http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=litv-ftv07&nid=61											
-緯來日本,rtmp://59.124.75.138:1935/sat/tv771#http://iptv12k.com:35461/live/test167/12345/1238.m3u8#rtmp://59.124.75.150:1935/sat/tv771#rtmp://59.124.75.150/sat/tv771#rtmp://59.124.75.138:1935/sat/tv771#rtmp://59.124.75.138/sat/tv771#P2p://ns2.hellotvvod.com:9906/e23a08a1a2c740548be1614bbfdf7de1#https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=82											
+EYE TV旅遊台,http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc#http://iptv12k.com:35461/live/test167/12345/1223.m3u8#http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc											
+民視旅游											
+緯來日本,rtmp://9wv7.mine.nu/sat/tv771#rtmp://59.124.75.138:1935/sat/tv771#http://iptv12k.com:35461/live/test167/12345/1238.m3u8#rtmp://59.124.75.150:1935/sat/tv771#rtmp://59.124.75.150/sat/tv771#rtmp://59.124.75.138:1935/sat/tv771#rtmp://59.124.75.138/sat/tv771#P2p://ns2.hellotvvod.com:9906/e23a08a1a2c740548be1614bbfdf7de1#https://php.52sf.ga/@Curly_MouseIPTV-Potato.php?tid=3&id=82											
 緯來育乐,http://61.219.170.95:18541/http/192.168.1.9:8081/hls/68/810/ch30.m3u8#rtmp://59.124.75.150/sat/tv701#rtmp://59.124.75.150/sat/tv701#rtmp://59.124.75.157/sat/tv701#rtmp://219.80.97.35/sat/tv701#P2p://ns1.hellotvvod.com:9906/081ded65dfb345cb993f1d63b454341e											
 Tv Tokyo(软解),https://epg.pm/stream/1f3fed8816aefc9e1c541c2e6bee9b4681778233fadf3ed608041bc77fe2b142.m3u8											
 Nippon Tv(软解),https://epg.pm/stream/40ce844f888250e39ad29545d014df4ec98ea22a2d5eb041af41fc966bdee9e9.m3u8											
@@ -145,11 +145,10 @@ NHK E(软解),https://epg.pm/stream/d276df900302d4ed95adfdea21d1a7ee7b34255100ce
 NHK G(软解),https://epg.pm/stream/b97c7f922cd6846053e832b8f92c93e02b6567f225d5a6217001f76af862db1f.m3u8											
 Fuji Tv(软解),https://epg.pm/stream/301c2df8c9f31461df6191bec089fe5f5ec61b92b2514bd53ee474450b32fdef.m3u8											
 											
-國興衛視,mitv://fccs.word-tv.com:9906/6258dc9e0003580511c7e6f78e3b1759#p5p://fccs.123178.top:9906/6044d406000399b302ef1ad77f59ca13.ts											
-"龙华日韩,http://pull-l3-cny.douyincdn.com/live/91d9e2e2f0957f5a55e67896a345f81f.flv#http://pull-l3-cny.douyincdn.com/live/91d9e2e2f0957f5a55e67896a345f81f.m3u8
-"											
-靖天日本,http://pull-l3-cny.douyincdn.com/live/ea1c520980108b975fa32c8bcbfdac66.flv#http://pull-l3-cny.douyincdn.com/live/ea1c520980108b975fa32c8bcbfdac66.m3u8											
-曼迪日本,http://50.7.218.42:8278/mandijapan_twn/playlist.m3u8?tid=m73455fadd59216060535&ct=17874&tsum=4cb9ddd0c0565e38fc45ee70e42633a8#p2p://45.92.126.18:9906/6258dc9e0003580511c7e6f78e3b1759											
+國興衛視											
+龙华日韩											
+靖天日本											
+曼迪日本											
 CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8											
 東京淺草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8											
 苏州4K,http://1972762443.cloudvdn.com/a.m3u8?domain=liveshowbak2.kan0512.com&player=TsoAAKTAB9juCfgW&secondToken=secondToken%3Aquo0xZnAeUUm47BcklXb7ffCum8&streamid=ksz-norecord%3Aksz-norecord%2Fcsztv4k_4k&v3=1#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/norecord/csztv4k_4k.m3u8#http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8?zjiangsd											
@@ -189,18 +188,16 @@ Gloabal Travel,http://117.148.179.154/PLTV/88888888/224/3221231712/index.m3u8#ht
 舌尖上的火锅,http://tc-tct.douyucdn2.cn/dyliveflv3/9650849r15DyarbA.flv?wsAuth=b3777a276908bf509bd964eba9535775&token=cpn-androidmpro-0-9650849-031ef70beaf5f4689e203d20fbd8d241fa2ac2ebd31faa8a&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3											
 亞洲美食AFN,http://livecdn.fptplay.net/hda1/afchd_vhls.smil/playlist.m3u8#https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8#https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b1200000.m3u8#http://iptv12k.com:35461/17501083101/524668/640#http://iptv12k.com:35461/17501083101/524668/2058#http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54152											
 亞洲美食2,https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8#http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption#https://epg.pm/stream/95933b14ec60e4143ce9e7e5e1f19e2c4cff4e67f33185f58ef7e684762ef2d9.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/640.m3u8#http://clientsportals.com:2095/eSN1tfXB/f6QW2ugz/115611											
-Cut-upNcook,https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8											
-看看世界,http://tc-tct.douyucdn2.cn/dyliveflv3/442280rZjBA2mx7H.flv?wsAuth=cd1125d60193c38c4fe2e7c9af4e8290&token=cpn-androidmpro-0-442280-e976f316d0494d8c7659afa57ee46794a2b682a6bdc16a65&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play3											
+美食星球,https://epg.pm/stream/e21e868dda8fbaad28e80645598d88c091a5d525f9ec448fe26177165f9c9a79.m3u8#http://173.211.42.73:8278/foodplanet_twn/playlist.m3u8?tid=MADA1874549618745496&ct=19234&tsum=1a26f3cc623666b6bd2e40d2c16c214d#http://50.7.220.74:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353#http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353#http://iptv12k.com:35461/live/test167/12345/1259.m3u8											
 品城記,http://hlslive.video.iqiyi.com/tslive/c56_lb_182_600_t10/c56_lb_182_600_t10.m3u8?pv=0.2&qd_src=ih5&qd_tm=1660975797850&qd_ip=60.49.64.100&qd_sc=d6c799fd6306c80ae97accf8174b38ee#http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/6f2bV9GwIlwELi8o2FOJs4ZVUCWlllmmCuZ8JzObx4Os9oDyUe7rpvkD-SQlPdGnP_Wgd4bsksQKEf37OOLP7Kp8BYb1ICNRZfQX9aBXkNym4BPUERgf6FTluFsV1LMC/17a0edfc769884e1f0a9a357199078259/c56_lb_182_600_t10.m3u8?key=012b4ab18eb6d178115845608727f0763&dis_t=1660975797&z=akm_oversea&pv=0.2#https://tc-tct.douyucdn2.cn/dyliveflv3a/5232386rTOKCj4jk.flv?wsAuth=f8a533a9dcd5b309c98038524efb98ad&token=web-h5-0-5232386-c3e41d02b9f1205cf7801501600ffbc73258f7c84fc1da7a&logo=0&expire=0&did=301b2e2ad7de100b8ae438fb00011601&ver=Douyu_222082205&pt=2&st=3&origin=tct&mix=0&isp=											
 美食厨房-1,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2#http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/8LaqBbV5e_FHYEq5fINDTus6N6XAmV79kBV15DQL7FqCZ8NzoRvjv8iLkoJ92LekJN5IUyPwtfbjSZRctTV1rjuvkll-BkSqrLHMhMOQefCQFDIJAZDwxv7EwqM-ibWz/1df232427441b584e5f1832ad934c5f42/c56_lb_182_600_t10.m3u8?key=064f936d071d356ebc0015fe342319097&dis_t=1660975800&z=akm_oversea&pv=0.2											
 爱美食,http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt#http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt#http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://39.135.191.33:6610/000000001001/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=2&channel-id=wasusyt#http://111.40.196.38/0000000000001000/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt#http://111.11.123.49:6610/000000001000/6000000006000120630/1.m3u8?Contentid=6000000006000120630&livemode=1&stbId=3&channel-id=wasusyt											
-美食星球,https://epg.pm/stream/e21e868dda8fbaad28e80645598d88c091a5d525f9ec448fe26177165f9c9a79.m3u8#http://173.211.42.73:8278/foodplanet_twn/playlist.m3u8?tid=MADA1874549618745496&ct=19234&tsum=1a26f3cc623666b6bd2e40d2c16c214d#http://50.7.220.74:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353#http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353#http://iptv12k.com:35461/live/test167/12345/1259.m3u8											
 中天美食旅遊,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live123&nid=251#https://4gtvfree-mozai.4gtv.tv/Oc5b4KlVfO4WBJJ1aZkycT6cG7g9KzQWIPJVYKbUR7A%3d/stream2.m3u8?token=bbKGPUHTwvn6JFb5q3eDXQ&expires=1650434307&refer=NjA5YzI5YzItZTg0OS00OWM2LTkxY2QtN2RiNDg0YzBkYWNj&token1=IWaQipC5EugFVD4fZhgNTg&expires1=1650434307&y=0&vt=											
 老广的味道，http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/1sHOZtjdtQeqd2neLHoWsL8Qu_9XSa8SBk069ouyYsfmsuqnTwk-t8y3ysMzjVopY2swzbeY2u6VM-xENkmxpbwxZpYHqUP6bn_mWW_4H1nTn3IiLjxMAocUo_HKXTUS/14454fcc378fab128570f7a7c0667dfc9/c56_lb_182_600_t10.m3u8?key=0cad0721217f6a11ad09559b935b3cf79&dis_t=1645540582&z=akm_oversea&pv=0.2											
 李子柒美食,https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#http://bd.flv.huya.com/src/1199512837905-1199512837905-5226813369159254016-2399025799266-10057-A-0-1.flv?wsSecret=ee5428509b439045e776a58f87cc2f63&wsTime=61233471&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&txyp=o%3An9%3B&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8#https://www.youtube.com/playlist?list=PLPJbGPTBfsdPCQZ0HWGngmRID5Fr9YpgN|Referer=https://www.youtube.com											
 李子柒,http://jvc.ueuo.com/kds/huyatest2.php?id=21969336#http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8											
 中华美食,https://epg.pm/stream/955343daff33622ceccc34f700fa7193ca0b73d346ea7785f7dabfe485ee78e4.m3u8#http://39.135.138.58:18890/PLTV/88888888/224/3221225924/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225924/index.m3u8#http://stream.slave.jxtvnet.tv:14311/playurl?playtype=live&protocol=http&accesstoken=R609DF27DU30963004K77360366I5D0110ACPBM356F868V0Z57EA5W167ED2234F88A5EE&programid=4200000129&playtoken=ABCDEFGH&auth=no#http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-zhmeishi/1.m3u8?shandd											
-CCTV世界地理,http://117.148.179.160/PLTV/88888888/224/3221231537/index.m3u8											
+Cut-upNcook,https://simultv.s.llnwi.net/n4s4/CutUpNCook/interlink.m3u8											
 随手做美食,http://epg.112114.xyz/douyu/9615087#http://dyscdnali1.douyucdn.cn/live/9615087rSP9QV3h8.flv?uuid=											
 大海哥美食,http://epg.112114.xyz/douyu/9696878#http://dyscdnali1.douyucdn.cn/live/9696878rRqOmsJ5G.flv?uuid=											
 美食作家王刚,http://epg.112114.xyz/douyu/8144937#http://dyscdnali1.douyucdn.cn/live/8144937ru3ptizzM.flv?uuid=											
@@ -211,37 +208,39 @@ Food Network,http://server.sibfungold.info:8080/bcte6969Mg/r9UytLmweQ/54243#http
 QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8											
 											
 											
-美食秘籍,http://jvc.ueuo.com/kds/huyatest.php?id=21098871#http://jvc.ueuo.com/kds/huyatest2.php?id=21098871#http://jvc.ueuo.com/kds/huyatest3.php?id=21098871											
-西安美食,http://jvc.ueuo.com/kds/huyatest.php?id=22079523#http://jvc.ueuo.com/kds/huyatest2.php?id=22079523#http://jvc.ueuo.com/kds/huyatest3.php?id=22079523											
-章魚美食,http://jvc.ueuo.com/kds/huyatest.php?id=14204061#http://jvc.ueuo.com/kds/huyatest2.php?id=14204061#http://jvc.ueuo.com/kds/huyatest3.php?id=14204061											
-大師的菜,http://jvc.ueuo.com/kds/huyatest.php?id=22649690#http://jvc.ueuo.com/kds/huyatest2.php?id=22649690#http://jvc.ueuo.com/kds/huyatest3.php?id=22649690											
-北京生活,http://jvc.ueuo.com/kds/btime_app.php?id=btvsh											
-銘哥說美食,http://jvc.ueuo.com/kds/huyatest2.php?id=21457061											
-劉三三的美食,http://jvc.ueuo.com/kds/huyatest3.php?id=25105263											
-野食小哥,http://jvc.ueuo.com/kds/douyu2.php?id=1443964											
-中国味道,http://epg.112114.xyz/huya/11352955											
-大輝愛美食,http://jvc.ueuo.com/kds/huyatest.php?id=25020553											
-陳年美食,http://jvc.ueuo.com/kds/huyatest3.php?id=21127079											
-搜羅大千萬象奇葩美食,http://jvc.ueuo.com/kds/huyatest.php?id=24693378											
-吃不胖的楊肉串,http://jvc.ueuo.com/kds/huyatest.php?id=24566740											
-川味涼皮美食,http://jvc.ueuo.com/kds/huyatest.php?id=24413777											
-五阿哥,http://jvc.ueuo.com/kds/huyatest.php?id=15690118											
-黃掌勺,http://jvc.ueuo.com/kds/huyatest.php?id=21374726											
-味小伍,http://jvc.ueuo.com/kds/huyatest.php?id=23928530											
-鄉村瑤哥,http://jvc.ueuo.com/kds/huyatest3.php?id=21354502											
-小農鄉,http://jvc.ueuo.com/kds/huyatest.php?id=20742181											
-鄉村食叔,http://jvc.ueuo.com/kds/huyatest2.php?id=24151650											
-探野,http://jvc.ueuo.com/kds/huyatest.php?id=21267587											
-野人運動日記,http://jvc.ueuo.com/kds/huyatest3.php?id=19197168											
-探索兄弟,http://jvc.ueuo.com/kds/huyatest3.php?id=22024819											
-原始美食,http://jvc.ueuo.com/kds/huyatest3.php?id=21356214											
-桃子姐姐,http://jvc.ueuo.com/kds/huyatest.php?id=17169201											
-承越-三德子美食,http://jvc.ueuo.com/kds/huyatest.php?id=18266033											
-餘多多美食,http://jvc.ueuo.com/kds/huyatest.php?id=24136486#http://jvc.ueuo.com/kds/huyatest2.php?id=24136486#http://jvc.ueuo.com/kds/huyatest3.php?id=24136486											
-大嘴哥美食,http://jvc.ueuo.com/kds/huyatest.php?id=15375459http://jvc.ueuo.com/kds/huyatest2.php?id=15375459#http://jvc.ueuo.com/kds/huyatest3.php?id=15375459											
-瀧川香菜,http://jvc.ueuo.com/kds/huyatest.php?id=22755593#http://jvc.ueuo.com/kds/huyatest2.php?id=22755593#http://jvc.ueuo.com/kds/huyatest3.php?id=22755593											
-西安美食貓,http://jvc.ueuo.com/kds/huyatest.php?id=24536992#http://jvc.ueuo.com/kds/huyatest2.php?id=24536992#http://jvc.ueuo.com/kds/huyatest3.php?id=24536992											
-香噴噴的小烤雞,http://jvc.ueuo.com/kds/huyatest.php?id=21052165#http://jvc.ueuo.com/kds/huyatest2.php?id=21052165#http://jvc.ueuo.com/kds/huyatest3.php?id=21052165											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
+											
 											
 											
 知识,#genre#											
