@@ -1,0 +1,47 @@
+Thailand,#genre#
+
+altv 4,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+ALTV4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
+Amarin TV,http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+Channel 8,http://54c241893bf39.streamlock.net:1935/ch8/ch8/chunklist.m3u8
+DLTV1,https://dltv-live-edge.catcdn.cloud/dltv01_720p/index.m3u8
+DLTV10,https://dltv-live-edge.catcdn.cloud/dltv10_720p/index.m3u8
+DLTV11,https://dltv-live-edge.catcdn.cloud/dltv11_720p/index.m3u8
+DLTV12,https://dltv-live-edge.catcdn.cloud/dltv12_720p/index.m3u8
+DLTV13,https://dltv-live-edge.catcdn.cloud/dltv13_720p/index.m3u8
+DLTV14,https://dltv-live-edge.catcdn.cloud/dltv14_720p/index.m3u8
+DLTV15,https://dltv-live-edge.catcdn.cloud/dltv15_720p/index.m3u8
+DLTV2,https://dltv-live-edge.catcdn.cloud/dltv02_720p/index.m3u8
+DLTV3,https://dltv-live-edge.catcdn.cloud/dltv03_720p/index.m3u8
+DLTV4,https://dltv-live-edge.catcdn.cloud/dltv04_720p/index.m3u8
+DLTV5,https://dltv-live-edge.catcdn.cloud/dltv05_720p/index.m3u8
+DLTV6,https://dltv-live-edge.catcdn.cloud/dltv06_720p/index.m3u8
+DLTV7,https://dltv-live-edge.catcdn.cloud/dltv07_720p/index.m3u8
+DLTV8,https://dltv-live-edge.catcdn.cloud/dltv08_720p/index.m3u8
+DLTV9,https://dltv-live-edge.catcdn.cloud/dltv09_720p/index.m3u8
+ETV,http://150.95.66.20:1935/live/livestream/playlist.m3u8
+Fashion TV,http://lb.streaming.sk/fashiontv/stream/chunklist_w1402273512.m3u8
+GMM ONE,https://freelive2.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+Love nature USA,https://bamus-eng-roku.amagi.tv/playlist.m3u8
+MCOT 30,https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+MCOT 30,https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+Metro TV,http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1584163574_b1492000_sleng.m3u8
+NATION TV 22,http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
+NBT 2,https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+News1,http://news1.live14.com/stream/news1_hi.m3u8
+News1,http://news1.live14.com/stream/news1_hi.m3u8
+Pbs 3  ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+PPTV,https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+THAI 33,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+THAI 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
+THAI 7,https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+THAI 7,https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
+TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
+True4u 24,https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+White Channel,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+Wild Earth,https://wildearth-roku.amagi.tv/master.m3u8
+WORK POINT 23,https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
+XPLORE,https://xplore-roku.amagi.tv/playlist720-p.m3u8
+ลูกทุ่ง TVHD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
