@@ -1,26 +1,82 @@
 Thailand,#genre#
-
+4050,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2569.ts
+AIS 5G e-Sport,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2505.ts
+AIS Play Stadium,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2507.ts
 altv 4,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 Amarin TV,http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m3u8
+ATTV,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2572.ts
+B0006,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2522.ts
+Cartoon Club,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2562.ts
+Channel 3,http://quality-restream.com:8080/asadmanzur/39e379b23d/266866
+Channel 5,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2602.ts
+Channel 7,http://quality-restream.com:8080/asadmanzur/39e379b23d/266868
+Channel 8,http://quality-restream.com:8080/asadmanzur/39e379b23d/281631
+Cool Channel,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2580.ts
+DLTV-1,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2550.ts
+DLTV-10,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2541.ts
+DLTV-11,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2540.ts
+DLTV-12,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2539.ts
+DLTV-13,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2538.ts
+DLTV-14,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2537.ts
+DLTV-15,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2536.ts
+DLTV-2,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2549.ts
+DLTV-3,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2548.ts
+DLTV-4,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2547.ts
+DLTV-5,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2546.ts
+DLTV-6,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2545.ts
+DLTV-7,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2544.ts
+DLTV-8,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2543.ts
+DLTV-9,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2542.ts
+egg,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2565.ts
+Esan Tv,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2571.ts
 ETV,http://150.95.66.20:1935/live/livestream/playlist.m3u8
+Five Channel,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2570.ts
 GMM ONE,https://freelive2.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
+GMM25,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2590.ts
+High Shopping,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2530.ts
+Home Isolate,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2506.ts
+JKN,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2578.ts
+LunthungTV,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2575.ts
+M Countdown,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2504.ts
+Mangkorn,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2581.ts
 MCOT 30,https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8
+Mix Major,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2566.ts
+Mono,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2589.ts
+MV Lao,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2567.ts
+MVTV,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2574.ts
 NATION TV 22,http://live2.dootvde.com/live/50015_nation.stream.smil/playist.m3u8
 NBT 2,https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
+New TV 18,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2594.ts
+News 1,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2553.ts
 News1,http://news1.live14.com/stream/news1_hi.m3u8
-Pbs 3  ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
+O Shoppiung,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2529.ts
+One 31,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/3418.ts
+Pbs 3 ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2598.ts
 PPTV,https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
+TCCTV,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2573.ts
+THAI 33,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 THAI 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 THAI 7,https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 THAI 7,https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-THAI 33,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
+TNN24,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2595.ts
+TOONEE,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2560.ts
 TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
+TopLine,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2568.ts
+TopNews,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2513.ts
+True Select,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2525.ts
+True Shopping,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2526.ts
 True4u 24,https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
+T-Sport,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2564.ts
+TVD MOMO,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2528.ts
+TVD-1,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2527.ts
+V0008,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2517.ts
+V0022,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2516.ts
+V3000,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2509.ts
+Video to Home 9,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2584.ts
+White Channel,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2531.ts
 WORK POINT 23,https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 XPLORE,https://xplore-roku.amagi.tv/playlist720-p.m3u8
+Zeenung,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2582.ts
 ลูกทุ่ง TVHD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
-Channel 3,http://quality-restream.com:8080/asadmanzur/39e379b23d/266866
-Channel 7,http://quality-restream.com:8080/asadmanzur/39e379b23d/266868
-Channel 8,http://quality-restream.com:8080/asadmanzur/39e379b23d/281631
