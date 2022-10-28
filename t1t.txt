@@ -7,10 +7,10 @@ Amarin TV,http://live2.dootvde.com/live/50025_amarin_tv_hd.stream.smil/playist.m
 ATTV,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2572.ts
 B0006,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2522.ts
 Cartoon Club,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2562.ts
-Channel 3,http://quality-restream.com:8080/asadmanzur/39e379b23d/266866
+Channel 3,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2603.ts#http://quality-restream.com:8080/asadmanzur/39e379b23d/266866
 Channel 5,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2602.ts
-Channel 7,http://quality-restream.com:8080/asadmanzur/39e379b23d/266868
-Channel 8,http://quality-restream.com:8080/asadmanzur/39e379b23d/281631
+Channel 7,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2601.ts#http://quality-restream.com:8080/asadmanzur/39e379b23d/266868
+Channel 8,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2600.ts#http://quality-restream.com:8080/asadmanzur/39e379b23d/281631
 Cool Channel,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2580.ts
 DLTV-1,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2550.ts
 DLTV-10,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/2541.ts
