@@ -1,3 +1,5 @@
+马来,#genre#
+
 AEC-1,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f											
 AEC-2,http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f											
 AEC-3,http://23.237.10.66:16495?WithCaption											
