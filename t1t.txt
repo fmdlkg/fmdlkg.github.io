@@ -10,8 +10,7 @@ News1,http://news1.live14.com/stream/news1_hi.m3u8
 PBS 3 ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
 PPTV,https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
 THAI 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
-THAI 7,https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-THAI 7,https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
+THAI 7,https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 THAI 33,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
 TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
@@ -21,7 +20,7 @@ XPLORE,https://xplore-roku.amagi.tv/playlist720-p.m3u8
 ลูกทุ่ง TVHD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
 Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 Channel 3,http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8?WithCaption
-Channel 7,http://quality-restream.com:8080/asadmanzur/39e379b23d/266868
+Channel 7,http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8?WithCaption
 Channel 8,http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8
 Channel 5,https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
 MONO 29,http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?WithCaption#https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8#http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?MURLSTVrVStWUnNPNHB6eXNxU0c0dUs5S0liT0JEZTU1K2F6b1BURVVSTEErcmZKZGxpWXZtL2JjaTVqWW56a2xCZFdldXRNcDJ4Mzc2Ni9FNEd5ckc3dGFJS3NvNFZ0a0ZPV0xTbTRCSE5LSmZwZ051dWR1dnN5TlpaeFVQZmZna0R4WlA0QmgvaTYyeGdCeVhWcHBRPT0=,f72f35a1f035a78e0b98e3e29227b6b6
@@ -64,3 +63,4 @@ Thái Nguyên,http://103.90.220.236/tntvlive/tv1live.m3u8
 NK Moviews,http://ch.fbth.xyz:5050/live/nktv/playlist.m3u8
 Love Nature,http://streamz.us:2082/live/J1528/Aa1234/3293.m3u8
 Champion TV1,http://tv.zonanime.my.id/vidio/championstv1.m3u8
+NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
