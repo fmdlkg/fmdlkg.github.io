@@ -1,130 +1,33 @@
-	Thailand,#genre#
-1	ALTV,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
-2	ALTV4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8
-3	Amarin TV,https://freelive2.inwstream.com:1936/freelive-edge/amarinhd/chunks.m3u8
-4	GMM ONE,https://freelive2.inwstream.com:1936/freelive-edge/onehd/playlist.m3u8
-5	MCOT 30,https://freelive2.inwstream.com:1936/freelive-edge/mcothd/playlist.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/mcothd/chunks.m3u8
-6	NATION TV 22,https://freelive2.inwstream.com:1936/freelive-edge/nation/chunks.m3u8
-7	NBT 2,https://freelive.inwstream.com:1936/freelive-edge/nbt/playlist.m3u8
-8	News1,http://news1.live14.com/stream/news1_hi.m3u8
-9	PBS 3 ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-10	PPTV,https://freelive2.inwstream.com:1936/freelive-edge/pptvhd/playlist.m3u8
-11	Channel 3,http://freelive2.inwstream.com:1935/freelive-edge/3hd/playlist.m3u8?WithCaption
-12	Channel 5,https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8#https://tc-live1.sanook.com/live/22302_ch5.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/5hd/chunks.m3u8
-13	Channel 7,http://freelive2.inwstream.com:1935/freelive-edge/7hd/playlist.m3u8?WithCaption#https://freelive.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8#https://freelive2.inwstream.com:1936/freelive-edge/7hd/playlist.m3u8
-14	Channel 8,http://freelive2.inwstream.com:1935/freelive-edge/ch8/playlist.m3u8
-15	Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8#http://line.premiumpowers.net:80/Pittbull/pittbull/164748
-16	THAI 33,https://freelive.inwstream.com:1936/freelive-edge/3hd/playlist.m3u8
-17	TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8
-18	True4u 24,https://freelive.inwstream.com:1936/freelive-edge/true4u/playlist.m3u8
-19	WORK POINT 23,https://freelive2.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
-20	XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
-21	ลูกทุ่ง TVHD,https://livefta.malimarcdn.com/ftaedge00/lookthoongtv.sdp/playlist.m3u8
-22	Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8#http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?WithCaption
-23	MONO 29,http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?WithCaption#https://freelive2.inwstream.com:1936/freelive-edge/mono29/chunks.m3u8#http://freelive2.inwstream.com:1935/freelive-edge/mono29/playlist.m3u8?MURLSTVrVStWUnNPNHB6eXNxU0c0dUs5S0liT0JEZTU1K2F6b1BURVVSTEErcmZKZGxpWXZtL2JjaTVqWW56a2xCZFdldXRNcDJ4Mzc2Ni9FNEd5ckc3dGFJS3NvNFZ0a0ZPV0xTbTRCSE5LSmZwZ051dWR1dnN5TlpaeFVQZmZna0R4WlA0QmgvaTYyeGdCeVhWcHBRPT0=,f72f35a1f035a78e0b98e3e29227b6b6
-24	AND TV,https://live.thaitvstream.com/play/andtv/index.m3u8
-25	ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-26	CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-27	FWMOV,https://freelive.inwstream.com:1936/freelive-edge/fwmov_fw-iptv.stream/chunks.m3u8
-28	FWSOV,https://freelive.inwstream.com:1936/freelive-edge/fwsov_fw-iptv.stream/chunks.m3u8
-29	GMM 25,https://freelive2.inwstream.com:1936/freelive-edge/gmmchannel/chunks.m3u8
-30	One_31,https://freelive2.inwstream.com:1936/freelive-edge/onehd/chunks.m3u8
-31	Thairaht TV,https://freelive2.inwstream.com:1936/freelive-edge/thairahttvhd/chunks.m3u8
-32	TNN 16,http://freelive.inwstream.com:1935/freelive-edge/tnn24/chunks.m3u8
-33	ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-34	WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-35	TVK Cambodia,https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/chunklist.m3u8
-36	Oy Lao TV,https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-37	VTV-1,http://171.238.181.52:18080/154.m3u8
-38	MEDIA NEWS TV,https://live1.thaitvstream.com/play/medianews/index.m3u8
-39	MOUNCHON TV,https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-40	PHETCHABUN TV,https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
-41	SIAM NEWS TV,https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
-42	SRTV,https://live1.thaitvstream.com/play/srtvonline/index.m3u8
-43	THAI NEWS,https://live.thaitvstream.com/play/thainews/index.m3u8
-44	AFN,http://line.premiumpowers.net:80/Pittbull/pittbull/731866#http://line.premiumpowers.net:80/Pittbull/pittbull/534440#http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1229.ts#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/640.ts
-45	True Film 1,https://iptv-thai.herokuapp.com/tv.php?channel=115667
-46	True Film 2,https://iptv-thai.herokuapp.com/tv.php?channel=115415
-47	True Film Asia,https://iptv-thai.herokuapp.com/tv.php?channel=115665
-48	Golf Channel Thailand,https://iptv-thai.herokuapp.com/tv.php?channel=115446
-49	Golf Channel+ Thailand,https://iptv-thai.herokuapp.com/tv.php?channel=115698
-50	ONE 31
-51	True4u
-52	History 2,https://iptv-thai.herokuapp.com/tv.php?channel=115713
-53	TPTV
-54	ANC Phillipine,https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
-55	LAOS THAI TV,https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8
-56	UNIQUELY THAI,https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-57	TEA TV,https://livefta.malimarcdn.com/ftaedge00/teatv.sdp/playlist.m3u8
-58	Thái Nguyên,http://103.90.220.236/tntvlive/tv1live.m3u8
-59	NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
-60	NBT Central,http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
-61	NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-62	ASTV News1,http://news1.live14.com/stream/news1.m3u8
-63	Love Nature,http://bamus-eng-roku.amagi.tv/playlist.m3u8#http://streamz.us:2082/live/J1528/Aa1234/3293.m3u8#p2p://54.39.16.152:9906/6260e5a4000e4c4817382627a71c329e
-64	Champion TV1,http://tv.zonanime.my.id/vidio/championstv1.m3u8
-65	Mix Major,http://line.premiumpowers.net:80/Pittbull/pittbull/228619
-66	YA TEEM TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164767
-67	VATI LAO,http://line.premiumpowers.net:80/Pittbull/pittbull/164762
-68	TNN24,http://line.premiumpowers.net:80/Pittbull/pittbull/164750
-69	CTB TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164736
-70	SIENG KASEEP TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164734
-71	SENATE THAI,http://line.premiumpowers.net:80/Pittbull/pittbull/164733
-72	TCNN TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164730
-73	PNTV,http://line.premiumpowers.net:80/Pittbull/pittbull/164728
-74	PNN TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164727
-75	OH MUANG LAO,http://line.premiumpowers.net:80/Pittbull/pittbull/164723
-76	NING TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164720
-77	MYANMAR MRTV 4,http://line.premiumpowers.net:80/Pittbull/pittbull/164712
-78	MYANMAR CHANNEL,http://line.premiumpowers.net:80/Pittbull/pittbull/164710
-79	MYANMAR CHANNEL 7,http://line.premiumpowers.net:80/Pittbull/pittbull/164708
-80	MY TV KHMER,http://line.premiumpowers.net:80/Pittbull/pittbull/164706
-81	MVTV,http://line.premiumpowers.net:80/Pittbull/pittbull/164705
-82	MVTV-WSM,http://line.premiumpowers.net:80/Pittbull/pittbull/164704
-83	MVTV-VARIETY TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164703
-84	MVTV-THAIBAAN,http://line.premiumpowers.net:80/Pittbull/pittbull/164702
-85	VTV-TVB DRAMA,http://line.premiumpowers.net:80/Pittbull/pittbull/164701
-86	 MVTV-MVM,http://line.premiumpowers.net:80/Pittbull/pittbull/164700
-87	 MVTV-MVLAO,http://line.premiumpowers.net:80/Pittbull/pittbull/164699
-88	 MVTV-MML,http://line.premiumpowers.net:80/Pittbull/pittbull/164698
-89	 MVTV-MIXMAJOR
-90	 MVTV-MHONG,http://line.premiumpowers.net:80/Pittbull/pittbull/164696
-91	 MVTV-MAJOR,http://line.premiumpowers.net:80/Pittbull/pittbull/164695
-92	 MVTV HAPPY TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164694
-93	 MVTV FIVE,http://line.premiumpowers.net:80/Pittbull/pittbull/164693
-94	 MVTV - ESAN,http://line.premiumpowers.net:80/Pittbull/pittbull/164692
-95	 MVTV-DO,http://line.premiumpowers.net:80/Pittbull/pittbull/164691
-96	 MVTV-CH6,http://line.premiumpowers.net:80/Pittbull/pittbull/164690
-97	 MVTV- 55CH,http://line.premiumpowers.net:80/Pittbull/pittbull/164689
-98	 MV LAO,http://line.premiumpowers.net:80/Pittbull/pittbull/164688
-99	 MSJ TV KHMER,http://line.premiumpowers.net:80/Pittbull/pittbull/164687
-100	 MCOT-FAMILY THAI
-101	 MALIMAR LAO AND THAI MUSIC,http://line.premiumpowers.net:80/Pittbull/pittbull/164682
-102	 M CHANNEL,http://line.premiumpowers.net:80/Pittbull/pittbull/164681
-103	 LS TV 1,http://line.premiumpowers.net:80/Pittbull/pittbull/164680
-104	 LOOK THOONG TV
-105	 LONE SINH LAO TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164678
-106	 LAOS PLANET TV
-107	 LAO TV FREE ASIA,http://line.premiumpowers.net:80/Pittbull/pittbull/164676
-108	 LAO THAI TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164675
-109	 LAO SV TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164674
-110	 LAO PSTV,http://line.premiumpowers.net:80/Pittbull/pittbull/164672
-111	 LAO PEOPLE POWER,http://line.premiumpowers.net:80/Pittbull/pittbull/164671
-112	 LAO NATIONAL TV 3
-113	 LAO CHAMPA TV 3
-114	 LAO CHAMPA TV 1,http://line.premiumpowers.net:80/Pittbull/pittbull/164667
-115	 LAO AMERICAN,http://line.premiumpowers.net:80/Pittbull/pittbull/164666
-116	 KHOMSANH TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164665
-117	 ISTV,http://line.premiumpowers.net:80/Pittbull/pittbull/164664
-118	 HOUNG FA,http://line.premiumpowers.net:80/Pittbull/pittbull/164663
-119	 HMONG USA TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164662
-120	 HMONG LAO TV ,http://line.premiumpowers.net:80/Pittbull/pittbull/164660
-121	 HMONG FRESNO TV,http://line.premiumpowers.net:80/Pittbull/pittbull/164659
-122	 HIGH SHOPPING TV
-123	 GREEN CHANNE
-124	 GOOD IDEA,http://line.premiumpowers.net:80/Pittbull/pittbull/164654
-125	 GMM-ONE THAI
-126	 GMM ONE
-127	 ZEEHUU ,http://line.premiumpowers.net:80/Pittbull/pittbull/164648
-128	 ETV KHMER,http://line.premiumpowers.net:80/Pittbull/pittbull/164647
-129	 DOPA CHANNEL
+Thailand,#genre#
+AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/640.ts#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1229.ts
+ALTV,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
+ANC Phillipine,https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
+AND TV,https://live.thaitvstream.com/play/andtv/index.m3u8#http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+ASTV News1,http://news1.live14.com/stream/news1.m3u8
+ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
+Champion TV1,http://tv.zonanime.my.id/vidio/championstv1.m3u8
+CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
+dfc,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
+Love Nature,http://bamus-eng-roku.amagi.tv/playlist.m3u8#http://streamz.us:2082/live/J1528/Aa1234/3293.m3u8#p2p://54.39.16.152:9906/6260e5a4000e4c4817382627a71c329e
+MCOT 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
+MEDIA NEWS TV,https://live1.thaitvstream.com/play/medianews/index.m3u8
+MOUNCHON TV,https://live2.thaitvstream.com/play/mounchontv/index.m3u8
+NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
+NBT Central,http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8
+NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
+News1,http://news1.live14.com/stream/news1_hi.m3u8
+PBS 3 ,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+PHETCHABUN TV,https://live1.thaitvstream.com/play/phetchabuntv/index.m3u8
+SIAM NEWS TV,https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+SRTV,https://live1.thaitvstream.com/play/srtvonline/index.m3u8
+THAI NEWS,https://live.thaitvstream.com/play/thainews/index.m3u8
+Thái Nguyên,http://103.90.220.236/tntvlive/tv1live.m3u8
+Thai PBS-3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
+Thai TV-5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8#http://line.premiumpowers.net:80/Pittbull/pittbull/164748
+Thairath 32,http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8#http://live.prd.go.th:1935/live/ch9_L.sdp/chunklist.m3u8?WithCaption
+TOP NEWS,https://live.topnews.co.th/hls/topnews.m3u8#https://live.topnews.co.th/hls/topnews_720.m3u8
+VTV-1,http://171.238.181.52:18080/154.m3u8
+WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
+XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
+ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
