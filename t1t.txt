@@ -1,4 +1,4 @@
-Thailand,#genre#
+Thailand-1,#genre#
 AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/640.ts#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1229.ts
 ALTV,http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 ANC Phillipine,https://abscbn-ono.akamaized.net/midroll/amagi_hls_data_abscbnAAA-abscbn-anc-global/CDN/playlist.m3u8
@@ -31,3 +31,196 @@ VTV-1,http://171.238.181.52:18080/154.m3u8
 WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
 ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
+
+Thailand-2,#genre#
+ASTV News HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191962
+Baby TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191958
+BBC Earth /FoxFam HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191957
+BBC Lifestyle HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191954
+BBC World News HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191952
+Blue Ant Entertainment HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191951
+Blue Ant Entertainment TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191950
+Blue Ant Extreme HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191949
+Blue Ant Extreme TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191948
+Boomerang TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191947
+Boonniyom TV HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191946
+BTV Mekhong TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191945
+BTV News TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191944
+CableMovie TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191940
+CABLE SERIES 1 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191943
+CABLE SERIES 2 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191942
+Cartoon Network HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191937
+Celestial Classic Movies TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191935
+Celestial Classic Movies [Thai-ENG] TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191934
+Ch8 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191933
+Channel 3 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191932
+Channel 5 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191931
+Channel 5 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191930
+Channel 7 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191929
+Channel 8 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191928
+CNN Indonesia TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191922
+CNN TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191921
+Crime & Investigation TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191919
+Discovery Asia HD TH [Thai-ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191918
+Discovery HD TH [Thai-ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191916
+Disney Junior [Thai] TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191914
+DLTV 1 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191913
+DLTV 2 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191906
+DLTV 3 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191905
+DLTV 4 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191904
+DLTV 5 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191903
+DLTV 6 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191902
+DLTV 7 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191901
+DLTV 8 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191900
+DLTV 9 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191899
+DLTV 10 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191912
+DLTV 11 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191911
+DLTV 12 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191910
+DLTV 13 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191909
+DLTV 14 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191908
+DLTV 15 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191907
+ETV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191898
+Explore Life TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191897
+Explore Science HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191896
+Explore Wild TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191895
+Explore Wild TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191894
+Fightclub (Sling) TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191891
+Fight Night TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191892
+FILM HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191889
+Food Network HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191885
+Fox Action TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191883
+Fox Life HD TH [Thai-ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191880
+Fox Life TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191879
+Fox Sports 1 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191876
+Fox Sports 1 HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191875
+Fox Sports 1 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191874
+Fox Sports 1 TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191873
+Fox Sports 2 TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191868
+Fox Sports 3 FHD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191867
+Fox Sports 3 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191866
+FOX Thai HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191863
+FOX Thai TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191861
+FOX Thai TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191860
+GMM Channel TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191859
+Golf 2 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191857
+Golf Channel Thailand HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191855
+GOLF HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191853
+GOOD TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191851
+HBO* HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191844
+HBO TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191846
+HBO TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191845
+Hi Sport TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191843
+History 2 HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191842
+History 2 HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191841
+History 2 TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191840
+History 2 TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191839
+History HD TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191838
+History HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191837
+Hits-Movies HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191836
+Hmong USA TV HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191835
+Inside HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191834
+KBS World HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191833
+Lao-Thai TV USA TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191830
+Lao Campa TV2 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191831
+Lao Campa TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191832
+Laos DDTV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191829
+Laos ISTV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191828
+Laos TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191827
+LOVE NATURE TH (TH-ENG),http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191826
+Major Channel Mix TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191825
+MajorMix TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191824
+MCOT TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191823
+MONO29 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191822
+MTN News TH (KR),http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191820
+MTV YO! TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191819
+Music4U TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191818
+Nat Geo Wild HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191815
+NATION TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191814
+NBA TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191812
+NBT 2 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191811
+NBT World HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191809
+News 1 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191808
+NFL HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191807
+NFL TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191806
+NHK World Japan TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191805
+Nickelodeon TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191804
+Nickelodeon TH  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191803
+Outdoor Channel HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191801
+PBS HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191798
+Phoenix InfoNews (CN),http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191797
+PPTV HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191794
+PPTV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191793
+Premier Football 1 TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191792
+Premier Football HD TH 1  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191791
+Premier Football HD TH 1 [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191790
+Premier Football HD TH 1-X [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191789
+Premier Football HD TH 2  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191788
+Premier Football HD TH 2  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191787
+Premier Football HD TH 2-X [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191786
+Premier Football HD TH 3 [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191784
+Premier Football HD TH 4,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191782
+Premier Football HD TH 4-X,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191781
+Premier Football HD TH 5,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191780
+Premier Football TH 1  [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191779
+Premier Football TH 1-X [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191778
+Premier Football TH 2 [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191777
+Premier Football TH 3,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191776
+Premier Football TH 3 [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191775
+Premier Football TH 3-X,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191774
+Premier Football TH 4-X,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191772
+Premier Football TH 5,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191771
+SERIES [Thai] TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191767
+Skynetsport 3 FHD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191766
+Skynetsports 1 FHD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191765
+Skynetsports 2 FHD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191764
+Spark Jump TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191762
+Spark Play [THAI] TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191761
+Sport 2 TH [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191760
+Sport 2 [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191759
+Sport 5 TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191757
+Sport 6 TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191756
+Sport 7 TH [ENG],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191755
+Sport HD TH 1[THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191753
+Sport HD TH 2 [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191752
+Sport HD TH 3 [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191751
+Sport TH 2 [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191748
+Sport TH 3 [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191747
+Star Chinese Classics HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191746
+Star Chinese Classics TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191745
+Star Chinese Movies HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191744
+StarWorld TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191743
+Super Bunteung/FightBox,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191742
+Tennis HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191741
+Thai 33 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191740
+Thai BeIN Sports 1 HD TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191739
+Thai BeIN Sports 2 HD TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191738
+Thai Film HD TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191737
+Thai Film TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191736
+Thai Parliament TV TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191735
+Thai PBS HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191734
+Thai PBS HD TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191733
+Thairath HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191732
+ThaiRath HD TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191731
+TLC HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191730
+TLC TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191729
+TNN 2 TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191728
+TNN24 TH [THAI],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191727
+Top News HD TH [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191725
+Trace Sport TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191724
+Travel Channel HD TH [Multi Audio],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191723
+True4U TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191721
+True Music TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191722
+TVB HD (Movies) TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191718
+TV CABLE 5 HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191720
+TV Direct TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191719
+Warner TV HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191716
+White Channel FHD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191715
+Workpoint HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191714
+Z Nung [Thai],http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191709
+จันดารา ปฐมบท 2  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191707
+มนต์รักขุมคำ  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191706
+รักหมดแก้ว  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191705
+สี่เส้า  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191704
+ฮักนะ ‘สารคาม  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191702
+เพราะอากาศเปลี่ยนแปลงบ่อย  HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191701
+
