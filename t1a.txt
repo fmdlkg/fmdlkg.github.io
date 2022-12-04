@@ -116,7 +116,7 @@ TVBS精采台,P2p://ns3.hellotvvod.com:9906/fb4d8513a4664b9695cd28498fe80187
 壹电视综合,P2p://ns3.hellotvvod.com:9906/df227eaa2db34e5a88fffaea31b8c81a											
 纬来精采,P2p://ns3.hellotvvod.com:9906/74bdfaab32cb40aba38539bc7364275a											
 靖天欢乐台,P2p://ns3.hellotvvod.com:9906/1201cb3393334b1895b7894e482c960f											
-											
+ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8											
 											
 											
 											
@@ -126,11 +126,11 @@ TVBS精采台,P2p://ns3.hellotvvod.com:9906/fb4d8513a4664b9695cd28498fe80187
 旅遊,#genre#											
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8#http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8											
 HTB北海道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8											
-靖天國際,P2p://ns3.hellotvvod.com:9906/1155d422ddea46b18f884493937c48d7#http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6#http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6#https://epg.pm/stream/4a707b1931e53f3b68baab331f0b1b48dd5804f7714f4e5919fdb22408725cc2.m3u8#http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286#http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b											
+靖天國際,P2p://ns3.hellotvvod.com:9906/1155d422ddea46b18f884493937c48d7#http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6#http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv063#http://198.16.64.10:8278/jingtiancartoon_twn/playlist.m3u8?tid=MEEE6701222267012222&ct=19226&tsum=c1da0f03bc493ce969726d15fc9c0286#http://198.16.64.10:8278/jingtianintl_twn/playlist.m3u8?tid=MC7C4153806141538061&ct=19254&tsum=79854f3ccdc23693ea39da52af54d35b											
 HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8#http://media.fantv.hk/m3u8/archive/channel2.m3u8											
 樂視旅遊攻略,http://aliyuncocsouth.inter.iqiyi.com/tslive/c57_lb_206_600_t10/c57_lb_206_600_t10.m3u8											
-ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8											
-亞洲旅遊台-1,P2p://ns3.hellotvvod.com:9906/ad5490acce204a22a01f9570d4bb81a6#hhttp://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#ttp://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#https://epg.pm/stream/8b658c859718056f970ee27cb12fd96b2dcf242f99c6c5a9a08fb20540bb7337.m3u8#https://epg.pm/stream/9f016c612fe480fca6a8accba4e17501c6830bff552def34c6a31cdce41c44bb.m3u8#https://epg.pm/stream/9a1e3a4de2143800aab82145e493de1f605402159a75b5798699d2e870d90541.m3u8#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c&ct=19225#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c#https://epg.pm/stream/2cf37a8ef651bf4d399a1a44d08b7e5c41e95d60c1ec34b0a80a632dd74ea934.m3u8											
+爱尔达生活旅游台,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live120											
+亞洲旅遊台-1,P2p://ns3.hellotvvod.com:9906/ad5490acce204a22a01f9570d4bb81a6#hhttp://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MB9B9461769094617690&ct=18393&tsum=57c12e5ba95cca684613ec5e14714ff8#ttp://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&ct=19225&tsum=3b56404a8f861c7fef6ac79a798e4a8c#http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn17#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c&ct=19225#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=ma9ec30da9ef3&ct=18335&tsum=ff0bd9207f2c72a8c9bf38464433dc7d#http://198.16.64.10:8278/asiatravel_twn/playlist.m3u8?tid=MA8A2387916023879160&ct=19254&tsum=bd472a07b6e15f36c0540fb3becc3d6c											
 EYE TV旅遊台,P2p://ns3.hellotvvod.com:9906/0aec3512e7894a14a5bcc17e717e882e#http://50.7.220.74:8278/eyetvtravel_twn/playlist.m3u8?tid=m3e96290c929116279255&ct=17874&tsum=7c060d25738e52e57372f408b9ccd0bc#http://iptv12k.com:35461/live/test167/12345/1223.m3u8#https://epg.pm/stream/912754a33ac33bf93ecd3357b44522b8082a8057499aa5f50676c4a54c53afe6.m3u8#https://epg.pm/stream/017fa27313d5a9fbb283a084a2fd4db2ad6bcbd70ee465acd756f51e50e90ba6.m3u8#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1223.ts											
 台灣旅遊台,http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC7c6rvyAZLpKGk8ttVnpnLA/live											
 民視旅遊台,https://4gtvfreepc-mozai.4gtv.tv/uB11VyyR6RaKXB-1lb6HVzIBAlP9GN9EstfWMuQX2rY%3d/index.m3u8?token=3580F5Go4DjNUpH7qKbZRA&expires=1667918834&token1=tLHXx4eNI9X-SnSoOVYIMA&expires1=1667918834&refer=YTJiNGRjZmEtNTUzZC00ZmNhLWEyNzUtMjBjMTg4MGRhN2Ux&y=0											
@@ -139,9 +139,9 @@ CGTN DOCUMENTARY,https://epg.pm/stream/fa65e4e43414c22375bfcb479861ee4b845427c8d
 Disvovery Asia,P2p://ns3.hellotvvod.com:9906/cfb5f9e4bcf140ffa389b54e7353eacd#http://50.7.220.74:8278/discoverytwn_twn/playlist.m3u8?tid=MAAA4463833744638337&ct=18393&tsum=c4bd4c633430327425e073012785525e#mitv://fccs.word-tv.com:9906/6258ebd80002c54f12036161f9ac3eb0#mitv://ns2.hellotvvod.com:9906/19e384bbda52450cbe60c277a8aa2822#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b2500000.m3u8#https://vips-livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8#https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8#http://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/playlist.m3u8#http://syok.tv:2082/1122/1122/1547#http://iptv12k.com:35461/live/test167/12345/628.m3u8#https://epg.pm/stream/08fcb926112c2cc30737378a703bde8253bf254eb36ad07c943d1a7bbbcac0e0.m3u8#http://xiptv.vip:80/123456789/123456/172251											
 緯來日本,P2p://ns3.hellotvvod.com:9906/07951c64fe144f75b980f1c261a2bd58#P2p://ns3.hellotvvod.com:9906/0ed3b0b9630849929660b8785cd07a0e#http://iptv12k.com:35461/live/test167/12345/1238.m3u8#rtmp://219.80.97.25:1935/sat/tv771#rtmp://9wv7.mine.nu/sat/tv771#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1238.ts#mitv://45.92.126.18:9906/62637c010003ce15074fddf26f0135da											
 緯來育乐,rtmp://219.80.97.25:1935/sat/tv701#rtmp://9wv7.mine.nu/sat/tv701#rtmp://59.124.75.147/sat/tv701#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1237.ts											
-龙华日韩,http://iptv12k.com:35461/live/+66627837567/free11am-6pm/11277.ts											
+龙华日韩,http://185.189.32.144:10830/channel.m3u8?fid=litv-longturn11											
 国兴卫视,P2p://ns3.hellotvvod.com:9906/e49771262fad4f6695c76f04191a9fe3											
-靖天日本台,P2p://ns3.hellotvvod.com:9906/49655f497b324d8a9da358e68709a5b0											
+靖天日本台,P2p://ns3.hellotvvod.com:9906/49655f497b324d8a9da358e68709a5b0#http://185.189.32.144:10830/channel.m3u8?fid=4gtv-4gtv047											
 Nippon Tv(软解),https://epg.pm/stream/40ce844f888250e39ad29545d014df4ec98ea22a2d5eb041af41fc966bdee9e9.m3u8											
 NHK BS1(软解),https://epg.pm/stream/da4d723e88f02fc481c6286646fccbe03834eb50e2439c24644ace8e6a13d7a4.m3u8#https://epg.pm/stream/40c9bf189b95e4893af9bf975c3c9ee9acfda92caf5bf96f9305fd738eec6370.m3u8											
 NHK BSP(软解),https://epg.pm/stream/b9053998ff107c2cdea42ef884e593b0cbd3445da443678e09649b2d36f84542.m3u8											
@@ -252,7 +252,7 @@ Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/strea
 茶频道,http://111.20.33.70/PLTV/88888893/224/3221226808/index.m3u8#http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8#http://120.221.40.68:6410/shandong_cabletv.live.zte.com////CHANNEL00000649/index.m3u8?IASHttpSessionId=OTT#http://111.20.33.70/PLTV/88888893/224/3221226808/index.m3u8											
 Love Nature,http://bamus-eng-roku.amagi.tv/playlist.m3u8#http://streamz.us:2082/live/J1528/Aa1234/3293.m3u8#p2p://54.39.16.152:9906/6260e5a4000e4c4817382627a71c329e											
 宠物Pet Club TV,https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8											
-滾動力rollorUXwNg&expires=1664954675&refer=ZjM4MjA5ZjQtNDgxYy00YWM4LWFkMmEtMzJiY2Y0NTk4NDk4&token1=j1WEnjCzwRhMhL40LiVYOg&expires1=1664954675&y=0&vt=											
+Pet Club Tv,http://185.189.32.144:10830/channel.m3u8?fid=4gtv-live110											
 文物宝库,http://39.136.48.2:8089/PLTV/88888888/224/3221226358/index.m3u8											
 中国海钓王游钓世界,http://tc-tct.douyucdn2.cn/dyliveflv3a/9329608rttTnN2hg.flv?wsAuth=b84daaaad9cdafc35f7298c916ff1a64&token=cpn-androidmpro-0-9329608-9f0a50ad8e72c6716644920df3c6f5cdeaa83df4747e4637&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4											
 生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8											
@@ -308,8 +308,8 @@ PREMIER SPORT,http://skylogic.site:8080/Unplugged83/F75DCxx397DMKop5388mM/290509
 爱尔达体育1台(备),P2p://ns3.hellotvvod.com:9906/637e389e000bddc706e18bc32e461df1											
 爱尔达体育-2,P2p://ns3.hellotvvod.com:9906/158b7a6bc3d14250b6a97bdb2f9c2677#P2p://ns3.hellotvvod.com:9906/83089cfe06424c0aaa7b007b108b8ca1											
 愛爾達體育3台,P2p://ns3.hellotvvod.com:9906/5e2a6837b13448a2ab62a12d42f767e9											
-ELTA體育1,http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745											
-ELTA體育2,http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0											
+ELTA體育1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8#http://50.7.220.74:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745											
+ELTA體育2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8#http://50.7.220.74:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab#http://198.16.64.10:8278/eltasport2_twn/playlist.m3u8?tid=MCDC5093685750936857&ct=19225&tsum=592e009b281ea2abc43b21768cb1bec0											
 ELTA體育3,rtmp://9wv7.mine.nu/sat/md031											
 纬来体育台-1,P2p://ns3.hellotvvod.com:9906/dada8b8a4e2841298196f6b313359059#rtmp://219.80.97.25:1935/sat/tv721											
 纬来体育台-2											
