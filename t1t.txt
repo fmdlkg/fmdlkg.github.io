@@ -31,12 +31,12 @@ VTV-1,http://171.238.181.52:18080/154.m3u8
 WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
 ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
-True Sport 2,P2p://ns3.hellotvvod.com:9906/c41cc0ac8bbe406a98e04ddc168da2f6
-True Sport 3,P2p://ns3.hellotvvod.com:9906/4c580aa8eecb494a92e4ab8ce8cb957a
-True Sport 4,P2p://ns3.hellotvvod.com:9906/9ea85605ef114685925ac82f48d90e0f
-True Sport 5,P2p://ns3.hellotvvod.com:9906/fed4d99ae4c6433a89f7262c5f5f1520
-True Sport 7,P2p://ns3.hellotvvod.com:9906/7f773acea71246dc9ee38babbc0639b8
-
+True Sport 2,P2p://ns3.hellotvvod.com:9906/f5b3671b424b44d59a4b008eece8722c
+True Sport 3,P2p://ns3.hellotvvod.com:9906/efbceea38cb94a3c875d8fd2b0caf249
+True Sport 4,P2p://ns3.hellotvvod.com:9906/18d1c4ad90e6448aae2a6193d5e11947
+True Sport 5,P2p://ns3.hellotvvod.com:9906/b89353bdbcc742b28ac2174502d81f67
+True Sport 7,P2p://ns3.hellotvvod.com:9906/38d7618ecd8c425a80d4b990e4726828
+beIN Sports 2,P2p://ns3.hellotvvod.com:9906/4c9bc52b81ea4c0cadaa4bc2f63a51b9
 
 Thailand-2,#genre#
 ASTV News HD TH,http://dtv21.org:2082/bokidan1_795671/09aQoeqF/191962
