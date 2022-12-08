@@ -1,31 +1,32 @@
 WorldCup Football,#genre#
 
-FWC1-Astro,P2p://ns3.hellotvvod.com:9906/63791dbf0001803ff2f091fb22886e8d
-FWC-2-Astro,P2p://ns3.hellotvvod.com:9906/63791dbe00088f2bf2f08fe812c437e6
-True Sport 2,P2p://ns3.hellotvvod.com:9906/c41cc0ac8bbe406a98e04ddc168da2f6
-Skynet Sports HD,P2p://ns3.hellotvvod.com:9906/18ce4a014a6f4f57ba0a13bfbc4af302
-Skynet Sports 6,P2p://ns3.hellotvvod.com:9906/80d6e68554b04ea2ab66dbdbb8799e7d
-Elta-1,P2p://ns3.hellotvvod.com:9906/637b2ab100052d2efaf324365d4876fe
-Elta-1(b),P2p://ns3.hellotvvod.com:9906/637e389e000bddc706e18bc32e461df1
-Elta-2,P2p://ns3.hellotvvod.com:9906/158b7a6bc3d14250b6a97bdb2f9c2677
-Elta-2(b),P2p://ns3.hellotvvod.com:9906/83089cfe06424c0aaa7b007b108b8ca1
-CCTV5-China,P2p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
-CCTV5+-China,P2p://ns3.hellotvvod.com:9906/ad05dcdb3c594dae83a7d7cc04007a81
-CCTV16-China,P2p://ns3.hellotvvod.com:9906/f1e779b1ea864927aeb78cccae6aebb8
-FiveStar-china,P2p://ns3.hellotvvod.com:9906/e3968d039dc041858c32bace9a360836
-Canton-china,P2p://ns3.hellotvvod.com:9906/637c6e390007e1e3ffe2f0311e186cce
-ViuTV-HongKong,P2p://ns3.hellotvvod.com:9906/266eb22a3dc14ba287305a1fea05b54b
-Astro SuperSport,P2p://ns3.hellotvvod.com:9906/573d59006ed64a2aa7a7fb8a39a14731
-Astro SuperSport 2,P2p://ns3.hellotvvod.com:9906/d5df6c20a03a4fbb9447ab7dbf5b70ff
-Astro SuperSport 3,P2p://ns3.hellotvvod.com:9906/d410d430a3ad45cd8da2da4f3277a542
-Astro SuperSport 4,P2p://ns3.hellotvvod.com:9906/10a3366b237f4ea498e502bc9293244a
-Astro SuperSport 5,P2p://ns3.hellotvvod.com:9906/ac0375d655a14da987f42104511ac154
-Astro Arena,P2p://ns3.hellotvvod.com:9906/86d0915485914bf7950caab494b5fdf4
-Astro Arena 2,P2p://ns3.hellotvvod.com:9906/390eb6dd86a84186b62ccb5fc0bda391
-RTM Sport,P2p://ns3.hellotvvod.com:9906/76102e3838fa4f848d2c147a699d4ff0
-beIN Sports,P2p://ns3.hellotvvod.com:9906/857545226fae4d0ba2ca8e307ffd0c04
-beIN Sports 2,P2p://ns3.hellotvvod.com:9906/47cdfc27e69f4e81903348119dc0c503
-Eurosport HD,P2p://ns3.hellotvvod.com:9906/7bbec43df1bb427ab2bcbd2927bd3e75
-Premier Sports,P2p://ns3.hellotvvod.com:9906/9b2b9a2965a04a728a87099f7444e85e
-SPOTV,P2p://ns3.hellotvvod.com:9906/78426d0cdacd48f8b40b19d46b673600
-Golf Channel,P2p://ns3.hellotvvod.com:9906/369ad6e1bec84c6b9bfe7053354d8039
+FWC1-Astro,P2p://ns3.hellotvvod.com:9906/5c72a39b0c3348edaae83de89c313194
+FWC-2-Astro,P2p://ns3.hellotvvod.com:9906/bbb30750d5bc478285ae02fabeb4f8a4
+True Sport 2,P2p://ns3.hellotvvod.com:9906/f5b3671b424b44d59a4b008eece8722c
+Skynet Sports HD,P2p://ns3.hellotvvod.com:9906/3a4796938ea04e5a81f957369c2f974a
+Skynet Sports 6,P2p://ns3.hellotvvod.com:9906/6410163b23694859b541db07d9aae303
+
+Elta-1,P2p://ns3.hellotvvod.com:9906/05baac239a964fd795411c97278277ac
+Elta-1(b),P2p://ns3.hellotvvod.com:9906/4e3174196c97404b93c900c8345829e6
+Elta-2,P2p://ns3.hellotvvod.com:9906/6e40fb3903bc44f6a1177e38900cb6a8
+CCTV5-China,P2p://ns3.hellotvvod.com:9906/61748e1fc552446197cb0450907f3d7b
+CCTV5+-China,P2p://ns3.hellotvvod.com:9906/8599af0ed31a4c7d9952b03bf13e5975
+CCTV16-China,P2p://ns3.hellotvvod.com:9906/281f2aca04c741649936154cd68998d2
+FiveStar-china,P2p://ns3.hellotvvod.com:9906/c9fd34c0f04548919c564982eff842bc
+Canton-china,P2p://ns3.hellotvvod.com:9906/508ce4f2feaa4e6b915a0fc313019d9a
+ViuTV-HongKong,P2p://ns3.hellotvvod.com:9906/f21f4132b2304bbcb3531e9d837d0bc4
+Astro SuperSport,P2p://ns3.hellotvvod.com:9906/363275b162624e1e80d82917fb60bf5f
+Astro SuperSport 2,P2p://ns3.hellotvvod.com:9906/6cdc40407ba041e6b9ca2bb48e65d0c0
+Astro SuperSport 3,P2p://ns3.hellotvvod.com:9906/64d43a397e6f429586ef8a794873fbb4
+Astro SuperSport 4,P2p://ns3.hellotvvod.com:9906/a139c98324174f5d997a6c7abf727fb7
+Astro SuperSport 5,P2p://ns3.hellotvvod.com:9906/9ca63aabda2a470abc2bbe1fd7e2fa21
+Astro Arena,P2p://ns3.hellotvvod.com:9906/d5832282d5d548a0a1f01edb972099a6
+Astro Arena 2,P2p://ns3.hellotvvod.com:9906/7240c8b2f807418cba5b78712fee42cf
+beIN Sports,P2p://ns3.hellotvvod.com:9906/bbca4283f687474aa5fe6d401653ea77
+beIN Sports 2,P2p://ns3.hellotvvod.com:9906/4c9bc52b81ea4c0cadaa4bc2f63a51b9
+Golf Channel,P2p://ns3.hellotvvod.com:9906/0fd540d6a2df4b80a6043b387e80ec62
+Eurosport HD,P2p://ns3.hellotvvod.com:9906/e6b9a50607954a02b0c4c0f51c27c7a4
+Premier Sports,P2p://ns3.hellotvvod.com:9906/602d857ae85c4afa80b15f4e0160d04c
+SPOTV,P2p://ns3.hellotvvod.com:9906/829edef8b8514197b56ac882cb96575f
+WWE,P2p://ns3.hellotvvod.com:9906/26fb3978377742c8b21f1dba78e06882
+
