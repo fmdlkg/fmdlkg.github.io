@@ -1,13 +1,13 @@
 马来,#genre#											
-AEC-1,P2p://ns3.hellotvvod.com:9906/0fea85c6e878461ca6b782332b701a7b											
-AEC-2,P2p://ns3.hellotvvod.com:9906/71b3fcc86cc34d1599142ea6f28a1494											
+AEC-1,mitv://ns2.hellotvvod.com:9906/572c349f3a0f4ae79c7fe5453d3366d1
+AEC-2,mitv://ns2.hellotvvod.com:9906/c9f8db6da171427cb8ddb12326aad849
 AEC-3,http://23.237.10.66:16495?WithCaption											
 AEC-4,http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f											
 AEC-5,http://iptv12k.com:35461/live/test167/12345/709.m3u8											
 AEC-6,http://23.237.10.66:16495#http://51.79.82.208:16021											
 AEC-7,http://50.7.220.74:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f											
 AEC-8,http://198.16.64.10:8278/AEC/playlist.m3u8?tid=MEFE2766119727661197&ct=19225&tsum=463d13f46eb7fbc9a5566be797c3d48f											
-歡喜臺333-1,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496											
+歡喜臺333-1,http://198.16.64.10:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496
 歡喜臺333-2,https://stream.zeehanzgadget.com/huaheedai											
 歡喜臺333-3,P2p://ns3.hellotvvod.com:9906/927f7fd5d4a943769b2584c41cee28f7#P2p://ns3.hellotvvod.com:9906/92e929e161b04cf6861c98e41eca157c#http://50.7.220.74:8278/Huahee/playlist.m3u8?tid=MACA4355211343552113&ct=19225&tsum=ac0abb0a68c5c3600edaec9002729496											
 歡喜臺333-4,P2p://ns3.hellotvvod.com:9906/db4b9b1e5428415c9ab3e846f3ac1072#P2p://ns3.hellotvvod.com:9906/c16c6f566abd44b0970f83be52a0590b#http://iptv12k.com:35461/80201051217/424567/707											
