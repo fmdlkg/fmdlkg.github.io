@@ -1,5 +1,5 @@
 马来,#genre#											
-AEC-1,mitv://ns1.hellotvvod.com:9906/ff4261f54ebe4e3793349a24cff7cd24											mitv://generationnexxxt.com:9906/0fea85c6e878461ca6b782332b701a7b
+AEC-1,mitv://ns1.hellotvvod.com:9906/ff4261f54ebe4e3793349a24cff7cd24											
 AEC-2,P2p://ns1.hellotvvod.com:9906/cb3dca5e4b38462f995cbfca03b1f3e2											
 AEC-3,P2p://ns1.hellotvvod.com:9906/6b6ebab8df5143d6bc9485671519090f											
 AEC-4,mitv://generationnexxxt.com:9906/0fea85c6e878461ca6b782332b701a7b#mitv://generationnexxxt.com:9906/6391d6b700012f4e5383255a4fef414c											
