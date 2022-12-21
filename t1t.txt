@@ -6,14 +6,12 @@ ASTV News1,http://news1.live14.com/stream/news1.m3u8#http://news1.live14.com/str
 ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Channel 5,http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8#https://tc-live1.sanook.com/live/22302_ch5.m3u8
 ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TV3-M'sia,http://w.nasvpn.xyz:8080/live/saya/saya/5149.m3u8#https://stream.zeehanzgadget.com/tv3#http://iptvtree.net:8080/4krestream/wb0WwQjF1ej8u7zi3J4A/158360#http://w.nasvpn.xyz:8080/live/saya/saya/7836.m3u8
-FWC1-Astro,http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8#https://ok6-1.vkuser.net/expires/1670724478425/srcIp/124.246.76.101/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/RO-erw4SzEI/ct/8/urls/45.136.21.76%3B185.226.53.38/clientType/1/zs/43/id/3157469170181/video/#P2p://ns3.hellotvvod.com:9906/5c72a39b0c3348edaae83de89c313194
-beIN SPORTS MAX 2,http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8#HD,http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170478
-Assp-1,http://w.nasvpn.xyz:8080/live/saya/saya/7845.m3u8#http://xtv.ooo:8080/Mohammad/Mohammad123/229522#http://line.premiumpowers.net:80/Pittbull/pittbull/571245#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115615#http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/146068#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts
-Assp-2,http://w.nasvpn.xyz:8080/live/saya/saya/7844.m3u8#http://xtv.ooo:8080/Mohammad/Mohammad123/229523#http://line.premiumpowers.net:80/Pittbull/pittbull/571248#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115616
-Assp-3,http://w.nasvpn.xyz:8080/live/saya/saya/7847.m3u8#http://xtv.ooo:8080/Mohammad/Mohammad123/229524#http://w.nasvpn.xyz:8080/live/saya/saya/16585.ts?blog.ntnas.top#http://line.premiumpowers.net:80/Pittbull/pittbull/571247#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115617
-Assp-4http://w.nasvpn.xyz:8080/live/saya/saya/7842.m3u8#,http://xtv.ooo:8080/Mohammad/Mohammad123/229525#http://xtv.ooo:8080/Mohammad/Mohammad123/229525#http://line.premiumpowers.net:80/Pittbull/pittbull/571246#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115618
-Assp-5,http://w.nasvpn.xyz:8080/live/saya/saya/3200.m3u8#http://xtv.ooo:8080/Mohammad/Mohammad123/229526
+TV3-M'sia,https://stream.zeehanzgadget.com/tv3#http://iptvtree.net:8080/4krestream/wb0WwQjF1ej8u7zi3J4A/158360#http://w.nasvpn.xyz:8080/live/saya/saya/7836.m3u8
+Assp-1,http://xtv.ooo:8080/Mohammad/Mohammad123/229522#http://line.premiumpowers.net:80/Pittbull/pittbull/571245#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115615#http://iptvtree.net:8080/outputofflinechecker/Fuckyouhacker4fvs564hsy7/146068#http://31.220.3.170/play/live.php?mac=00:1a:79:b2:b7:90&stream=115615&extension=ts
+Assp-2,http://xtv.ooo:8080/Mohammad/Mohammad123/229523#http://line.premiumpowers.net:80/Pittbull/pittbull/571248#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115616
+Assp-3,http://xtv.ooo:8080/Mohammad/Mohammad123/229524#http://w.nasvpn.xyz:8080/live/saya/saya/16585.ts?blog.ntnas.top#http://line.premiumpowers.net:80/Pittbull/pittbull/571247#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115617
+Assp-4,http://xtv.ooo:8080/Mohammad/Mohammad123/229525#http://xtv.ooo:8080/Mohammad/Mohammad123/229525#http://line.premiumpowers.net:80/Pittbull/pittbull/571246#http://ultratv.one:2095/yJ4hkywd/gEs1aAeT/115618
+Assp-5,http://xtv.ooo:8080/Mohammad/Mohammad123/229526
 CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 dfc,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
