@@ -1,29 +1,29 @@
 Thailand-1,#genre#
-AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/640.ts#http://iptv12k.com:35461/live/+66627837567/free11am-6pm/1229.ts
+AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8#http://iptv12k.com:35461/live/test167/12345/1229.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 AND TV,https://live.thaitvstream.com/play/andtv/index.m3u8#http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 ASTV News1,http://news1.live14.com/stream/news1.m3u8#http://news1.live14.com/stream/news1.m3u8
 ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Channel 5,http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8#https://tc-live1.sanook.com/live/22302_ch5.m3u8
 ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TV3-M'sia,https://stream.zeehanzgadget.com/tv3#http://23.237.10.66:16404
-FWC1-Astro,http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8#https://ok6-1.vkuser.net/expires/1670724478425/srcIp/124.246.76.101/srcAg/CHROME_ANDROID/ms/95.142.206.128/type/5/sig/RO-erw4SzEI/ct/8/urls/45.136.21.76%3B185.226.53.38/clientType/1/zs/43/id/3157469170181/video/#P2p://ns3.hellotvvod.com:9906/5c72a39b0c3348edaae83de89c313194
-beIN SPORTS MAX 2,http://w.nasvpn.xyz:8080/live/saya/saya/13909.m3u8#HD,http://webtv360.org:8000/EsPHxP8Nz7uPAyjmRPK7aCMpXjrrEmzP/LJtJgGfVjI/170478
+TV3-M'sia,https://stream.zeehanzgadget.com/tv3#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#http://23.237.10.66:16404#http://137.175.36.206:8388/test163/123456/740
+RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+NBA,http://a0bn5xro.rostelekom.xyz/iptv/Y4TCLSTRUETTUS/7226/index.m3u8
 AS-1,http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/146068#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
 AS-2,http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157556#http://esv5.net/Tcole1/123456789/87301@http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
 AS-3,http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157557#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
 AS-4,http://37.49.230.48:8080/ksport2021/gq5F3UDPJzwxdpEX/157558#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
 AS-5,http://esv5.net/Tcole1/123456789/87298
+Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f5188fa0e.m3u8?WithCaption
+PetClub,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
+CCM,http://iptv12k.com:35461/live/test167/12345/13358.m3u8
 ANIMAX,http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-dfc,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
-CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
-dfc,http://playlist.urfan.web.id/x6bnqe/s/s50/live.m3u8
 MCOT 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
 MEDIA NEWS TV,https://live1.thaitvstream.com/play/medianews/index.m3u8
 MOUNCHON TV,https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-Love Nature,http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
+Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
 NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
 News1,http://news1.live14.com/stream/news1_hi.m3u8
 Thai PBS-3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8#https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
