@@ -1,4 +1,4 @@
-大陆央视,#genre#
+China/央视,#genre#
 CCTV1,P2p://generationnexxxt.com:18806/63cb89e1000018bb34e7229e009764be
 CCTV2,P2p://generationnexxxt.com:18806/c8b05b7ad1a447349dbc41ffb9cb1c89
 CCTV3,P2p://generationnexxxt.com:18806/923d594f90274b70bf310ccd90ecd703
@@ -16,7 +16,7 @@ CCTV13,P2p://generationnexxxt.com:18806/56eb416eebf442ee8a1d3dce048c8bb4
 CCTV14,P2p://generationnexxxt.com:18806/20a1b4ec857048b984caa2ee0303f934
 CCTV15,P2p://generationnexxxt.com:18806/7f6e67b831ad4049bc9fe01cd80720b3
 CCTV16,P2p://generationnexxxt.com:18806/6dffbf12e3964e41a05f137a13ed0f06
-大陆省市,#genre#
+China/大陆省市,#genre#
 北京卫视,P2p://generationnexxxt.com:18806/3e86a5e84b3e45c7b9f82e512a4de49f
 天津卫视,P2p://generationnexxxt.com:18806/d4c0f2ae4d6346e793f8ec91c1f54d12
 河北卫视,P2p://generationnexxxt.com:18806/c26dca62d4d547658540241ab8d43c90
@@ -43,7 +43,7 @@ CCTV16,P2p://generationnexxxt.com:18806/6dffbf12e3964e41a05f137a13ed0f06
 CCTV16,P2p://generationnexxxt.com:18806/6dffbf12e3964e41a05f137a13ed0f06
 广东影院,P2p://generationnexxxt.com:18806/a895f1d68eb242b68135cd328909a743
 
-港澳特区,#genre#
+HK/港澳,#genre#
 凤凰电影,P2p://generationnexxxt.com:18806/b7f8113cc2ab4a50ac603fe77c36a401
 凤凰香港,P2p://generationnexxxt.com:18806/d87a2f05f4054ebfad4f45d8acac8781
 凤凰中文,P2p://generationnexxxt.com:18806/aa8e14e7ef544addb306c21ca853ec24
@@ -88,7 +88,7 @@ Thrill,P2p://generationnexxxt.com:18806/e6ddf84d585a4ef086613dc1148a91a6
 澳门-MACAU,P2p://generationnexxxt.com:18806/173e0a338f1b4847b83b7e5f62dedf22
 澳门莲花,P2p://generationnexxxt.com:18806/058c5fbc3a7742dba1c21633b451c594
 
-台湾省,#genre#
+Taiwan/台湾,#genre#
 TVBS,P2p://generationnexxxt.com:18806/842f3a6d54ba4ca0ace48b66c2270d99
 TVBS欢乐台,P2p://generationnexxxt.com:18806/f4552aa1ab4f43478ae9f4221a86d27c
 TVBS精采台,P2p://generationnexxxt.com:18806/7eaf6444bc2549f3a988ae9d608a927c
@@ -200,7 +200,7 @@ ONE,P2p://generationnexxxt.com:18806/780bea28efb8436a90f955bece9a053a
 新时代1(东部),P2p://generationnexxxt.com:18806/324b960775344b85be02192a110ac529
 城市电视,P2p://generationnexxxt.com:18806/d4a57a35f67b49d0a2eb194ff6434f24
 
-马来西亚,#genre#
+Mal/马来,#genre#
 八度空间,P2p://generationnexxxt.com:18806/444da766430b41c4b5c6a45b010b4c8c
 八度空间(备),P2p://generationnexxxt.com:18806/3b55413a5a584f7fb1b4f937a706e559
 Astro小太阳,P2p://generationnexxxt.com:18806/aa838c0e1c044cf0964f95ba19008639
@@ -266,7 +266,7 @@ Berita RTM,P2p://generationnexxxt.com:18806/76ce7bad64b04f17ba011b9f00b6b983
 AXN,P2p://generationnexxxt.com:18806/f15f85f58437409eba358e9b80dabf90
 Awesome TV,P2p://generationnexxxt.com:18806/53db75fa98e841278e0df53ea2b13e25
 
-新加坡,#genre#
+S'Pore/新加坡,#genre#
 CNA,P2p://generationnexxxt.com:18806/23069f4cdbb44911b5237ab482bc2338
 Mediacorp 5,P2p://generationnexxxt.com:18806/b1ff3b7799a1463c8b70d8230a90bdc3
 Mediacorp 8,P2p://generationnexxxt.com:18806/b043a6fbb8134a67b748395576bea9a8
@@ -302,7 +302,7 @@ BBC World News,P2p://generationnexxxt.com:18806/c1061ab8384b45c0b19ce789c7d83102
 AXN亚洲,P2p://generationnexxxt.com:18806/dc661cbc7e2b45e582d423afa4966a87
 Arirang,P2p://generationnexxxt.com:18806/42c31b6cacb84600a00f33608a2cb08a
 
-日　本,#genre#
+Japan/日本,#genre#
 NHK-G综合,P2p://generationnexxxt.com:18806/059e72adc5b340d4b22ccd4da43ba32c
 NHK-E教育,P2p://generationnexxxt.com:18806/560bbf0571644b3ebb7b0c25084696a4
 日本テレビ,P2p://generationnexxxt.com:18806/869dbc444f19485a94ef2f02a13da538
@@ -345,7 +345,7 @@ Music Japan TV,P2p://generationnexxxt.com:18806/7059adcdb58540fa8c4bbb2c6f424a59
 日テレNEWS 24,P2p://generationnexxxt.com:18806/c5ceaf121093468f89abe09ded50c6c2
 旅チャンネル,P2p://generationnexxxt.com:18806/3f98552f55bc4570a9a3d2405c96ba2e
 
-韩　国,#genre#
+Korea/韩国,#genre#
 Arirang,P2p://generationnexxxt.com:18806/42c31b6cacb84600a00f33608a2cb08a
 KBS1,P2p://generationnexxxt.com:18806/8400ca6d54d943a1b56cb8f5e8ac798b
 KBS2,P2p://generationnexxxt.com:18806/3a5e2e4674c249ce9f0ef35f4b856f6a
@@ -372,7 +372,7 @@ tvN Movies HD,P2p://generationnexxxt.com:18806/814ae1ac781c486685b70797698f9fb5
 Indosiar,P2p://generationnexxxt.com:18806/660e37d47e2d4f8284df0176bf092869
 RCTI,P2p://generationnexxxt.com:18806/33d6bfb3130c496a95acf29e9fed7584
 
-泰　国,#genre#
+Thailand/泰国,#genre#
 Channel 5,P2p://generationnexxxt.com:18806/2ce0ee293c454eb1b77051ea1b585246
 NBT,P2p://generationnexxxt.com:18806/cc3bea84861e430ab61452b1f85558f8
 TNN 16,P2p://generationnexxxt.com:18806/9546aa969775411391d5cef0514413cb
@@ -401,7 +401,7 @@ TVB Thai,P2p://generationnexxxt.com:18806/324f39da44194e20955b1682aaa5ab79
 Bluesky,P2p://generationnexxxt.com:18806/8337542327e34cbfa2460f6a3765249b
 Top News,P2p://generationnexxxt.com:18806/8defa2682936434296c594837eee6c9b
 
-菲律宾,#genre#
+Phillipine/菲律宾,#genre#
 Cartoon Network,P2p://generationnexxxt.com:18806/85c97278ceb74225b7d44c4052b7c58a
 Nickelodeon,P2p://generationnexxxt.com:18806/a1da2c9329324c4487ebad21054b7775
 Nick Jr.,P2p://generationnexxxt.com:18806/20cb76cbb49344f1844570ca2bea20bc
@@ -413,7 +413,8 @@ Colors Tamil,P2p://generationnexxxt.com:18806/781188ee636042d89cbe9e77b98e80dc
 NDTV,P2p://generationnexxxt.com:18806/d9f2f9e690ae4fcbb66c973551e9b960
 Star Vijay,P2p://generationnexxxt.com:18806/42e2e6035e0c4b40927a242ed484a35e
 Zee Tamil,P2p://generationnexxxt.com:18806/aad1c41133db48e1ace57077fc6a85a8
-美　国,#genre#
+
+USA/美国,#genre#
 CNN,P2p://generationnexxxt.com:18806/3eda8b40f3b24a24b7f6318305f505bd
 CNBC,P2p://generationnexxxt.com:18806/325c6b0f38ea45b3a6fd6355ec02aba2
 BloombergTV,P2p://generationnexxxt.com:18806/a5cfe29d6c194be9879e790284c902a7
@@ -421,6 +422,7 @@ ESPN,P2p://generationnexxxt.com:18806/1ff26992bbf94ee4a66727e6e9417190
 CBSN,P2p://generationnexxxt.com:18806/7d670d43ad34474097c592505888cfb3
 Food Network,P2p://generationnexxxt.com:18806/0362f7634f754324b89a75f51a0df351
 NBA,P2p://generationnexxxt.com:18806/c965f8c7d3c344fe8625ce2b5e29ad8a
+
 国内新闻,#genre#
 中天新闻台,P2p://generationnexxxt.com:18806/090e72b12e3142c5a030bcbe2c932f20
 中视新闻,P2p://generationnexxxt.com:18806/26705d1718de41649e8dec8dbabb8db3
@@ -446,7 +448,8 @@ NHK新闻资讯台,P2p://generationnexxxt.com:18806/1d304c7168c04c4db1bfd9d8437c
 JKN 18,P2p://generationnexxxt.com:18806/d2a9d8081e1c4a958ddddfc523b2a62f
 有线新闻台,P2p://generationnexxxt.com:18806/ad186153e7b04125a5b3cd05c3174950
 有线财经资讯台,P2p://generationnexxxt.com:18806/b0e8a766c6ab4e76a35f281e89c55051
-海外新闻,#genre#
+
+News/新闻,#genre#
 TNN 16,P2p://generationnexxxt.com:18806/9546aa969775411391d5cef0514413cb
 Sky News,P2p://generationnexxxt.com:18806/6d9fad3ead4b4adf9555626ff09e7e0d
 NHK新闻资讯台,P2p://generationnexxxt.com:18806/1d304c7168c04c4db1bfd9d8437c3a03
@@ -464,13 +467,15 @@ BBC World News,P2p://generationnexxxt.com:18806/c1061ab8384b45c0b19ce789c7d83102
 Arirang,P2p://generationnexxxt.com:18806/42c31b6cacb84600a00f33608a2cb08a
 Al-Hijrah,P2p://generationnexxxt.com:18806/40eab330c95d4fb294c0c8950adf0684
 Al Jazeera English,P2p://generationnexxxt.com:18806/b1083ebe7bca48878b7aba18bf006d42
-音　乐,#genre#
+
+Music/音乐,#genre#
 MTV,P2p://generationnexxxt.com:18806/e5484fa628a44458a81a89adee1d4311
 MTV Live,P2p://generationnexxxt.com:18806/fb42a3f2072140d1a33d9b5829187a95
 MEZZOLIVEHD,P2p://generationnexxxt.com:18806/4b2b4254cef54fc097bfaa658be5a306
 CLASSICA 古典乐,P2p://generationnexxxt.com:18806/f90a589c47414aaeba10165b863d20da
 CMusic,P2p://generationnexxxt.com:18806/e2aaedbc063d440f92ff29291b317e26
-国内体育,#genre#
+
+Sports1/体育,#genre#
 CCTV16,P2p://generationnexxxt.com:18806/6dffbf12e3964e41a05f137a13ed0f06
 CCTV5,P2p://generationnexxxt.com:18806/675ef324d56e4a609cee1a326de0c7de
 CCTV5+,P2p://generationnexxxt.com:18806/68089a110c9a4517aebed627ff94ded1
@@ -498,7 +503,8 @@ HKC体育台,P2p://generationnexxxt.com:18806/b2ea5cf3ab8f479690072af8634628b4
 纬来体育台,P2p://generationnexxxt.com:18806/7067fe984943401088ac5bd81f8c1772
 纬来育乐台,P2p://generationnexxxt.com:18806/1d5656ba1d4442a493b43c3f266fed56
 智林体育,P2p://generationnexxxt.com:18806/39ae5429e87a45148283163b40cff18c
-海外体育,#genre#
+
+Sports2/体育,#genre#
 Z频道,P2p://generationnexxxt.com:18806/8e39f02cf2fa42eaafeefe4f02d6d83b
 WWE,P2p://generationnexxxt.com:18806/e266acd4e00a452fa7abb987668bb380
 TRACE Sport Stars,P2p://generationnexxxt.com:18806/2812e70df6fa4ad2923f5dfaf19f80eb
@@ -531,7 +537,8 @@ Astro SuperSport 3,P2p://generationnexxxt.com:18806/98f171b255ae4e4bb0fdbaf154e7
 Astro SuperSport 2,P2p://generationnexxxt.com:18806/10c7860888a0424ea6081944cc00faba
 Astro Arena,P2p://generationnexxxt.com:18806/09731b4977d04e1f8125408e972f61a1
 Fight Sports,P2p://generationnexxxt.com:18806/217f81abadb94b05aaef74104a9c5da5
-地理探索,#genre#
+
+Knowledge/地理探索,#genre#
 国家地理频道,P2p://generationnexxxt.com:18806/d76b473aca5c4f9589c70222c2167c02
 国家地理野生频道,P2p://generationnexxxt.com:18806/983a91953ac046b1a9bf9ff1f43bb67e
 动物星球,P2p://generationnexxxt.com:18806/d2443628dcb04e35b992470f950a5401
@@ -540,6 +547,7 @@ DMAX,P2p://generationnexxxt.com:18806/d007a2321ef342b185acc786cc087e3c
 DiscoveryAsia,P2p://generationnexxxt.com:18806/4762b631990f4e50a1fbd3c62e268ba5
 Discovery科学,P2p://generationnexxxt.com:18806/f86cf65674a34b5aa202ba23d6eb7a9c
 Nat Geo Wild,P2p://generationnexxxt.com:18806/d2faf12d900e444a82967017eb77957b
+
 Discovery,#genre#
 Outdoor,P2p://generationnexxxt.com:18806/66761e458c424f7eb36863c422b1dde7
 探索频道,P2p://generationnexxxt.com:18806/d4f204b7e0104571af23b35d61c0592a
@@ -567,7 +575,8 @@ EVE,P2p://generationnexxxt.com:18806/b50cc5a3b7824a5696026854682459be
 Ettoday,P2p://generationnexxxt.com:18806/ce53ee302fd94dcd8a3a8ff68340384d
 ELTV,P2p://generationnexxxt.com:18806/e4dddc1be69c4d0cb39f90072d0ea5aa
 BBCLifestyle,P2p://generationnexxxt.com:18806/c880e693ca4449d0b1ef22698022cf0b
-少儿动漫,#genre#
+
+Kids/少儿动漫,#genre#
 Nickelodeon,P2p://generationnexxxt.com:18806/a1da2c9329324c4487ebad21054b7775
 靖洋卡通台Nice Bingo,P2p://generationnexxxt.com:18806/302734bceded4460b90eb8886ada39dd
 靖天卡通台,P2p://generationnexxxt.com:18806/427030b3e96143268c5303a62d3c4736
@@ -588,7 +597,8 @@ Boomerang,P2p://generationnexxxt.com:18806/8e5bf99e9ca440ccb128911e54bf97ec
 Astro小太阳,P2p://generationnexxxt.com:18806/aa838c0e1c044cf0964f95ba19008639
 Astro Ceria,P2p://generationnexxxt.com:18806/d1c2d0e45adf4d81b6c1cafdf39c4078
 Animax,P2p://generationnexxxt.com:18806/a30ab63d833148a48c73bb9a3abb9347
-电　影,#genre#
+
+Movies/电影,#genre#
 天映频道,P2p://generationnexxxt.com:18806/0cea17b89c9c4fc9a964f3f76c6d42e1
 天映频道,P2p://generationnexxxt.com:18806/0cea17b89c9c4fc9a964f3f76c6d42e1
 天映经典,P2p://generationnexxxt.com:18806/e7019c96c7dd41c8b6ef3a80f0404633
@@ -633,7 +643,8 @@ CatchPlay电影台,P2p://generationnexxxt.com:18806/910988c16bbd4cfe9af308ae8029
 BOO,P2p://generationnexxxt.com:18806/2b0ac2f2d3984806b8d73ef1a70df701
 AXN,P2p://generationnexxxt.com:18806/f15f85f58437409eba358e9b80dabf90
 AMC,P2p://generationnexxxt.com:18806/120ea1b7500a43bea14f633738fb91da
-戏　剧,#genre#
+
+Drama/戏剧,#genre#
 东森戏剧台,P2p://generationnexxxt.com:18806/513ddf2131e1434fa7a40166d3eb38c9
 八大戏剧台,P2p://generationnexxxt.com:18806/617ef2c3af824f44807e6d3ad74ff108
 纬来戏剧台,P2p://generationnexxxt.com:18806/117307fa290f47b1b0f8ff6cabe8645f
