@@ -3,9 +3,9 @@ AEC-1,http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 AEC-2,http://iptv12k.com:35461/live/test167/12345/709.m3u8												
 AEC-3,http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption												
 AEC-4,https://stream.zeehanzgadget.com/aec												
-AEC-5,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/index.m3u8												
-AEC-6,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8#http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-AEC-7,http://pull-l3-cny.douyincdn.com/live/41d282746a755149e5b6e8873bc89580.m3u8												
+AEC-5,https://pull-l3-cny.douyincdn.com/live/9b5eec9c38ac7d3266c2a3472dca2d97.flv?WithCaption												
+AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/index.m3u8												
+AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8#http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
 												
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13373.m3u8?WithCaption												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
@@ -29,10 +29,10 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 												
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption												
 爱奇艺,https://stream.zeehanzgadget.com/iqiyi?WithCaption												
-												
+爱奇艺,https://pull-l3-cny.douyincdn.com/live/dd7809c019f9ce9c03f8443c8dff99fb.flv												
 爱奇艺-2,http://iptv12k.com:35461/live/test167/12345/708.m3u8?WithCaption												
 爱奇艺-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571198												
-												
+爱奇艺-2,http://iptv12k.com:35461/live/test167/12345/13374.m3u8?WithCaption												
 华丽台,http://r.jdshipin.com/thuYX												
 华丽台,http://iptv12k.com:35461/live/test167/12345/698.m3u8?WithCaption												
 华丽台,http://50.7.220.74:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e												
@@ -46,7 +46,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 华丽-2,http://23.237.10.66:16410?WithCaption												
 华丽-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402												
 												
-双星,https://epg.pw/stream/4745032eb3b82456721f00f5caaaf5abc94552e91e7c503e452e778b78f30397.ctv												
+双星,https://pull-l3-cny.douyincdn.com/live/064c1e2da5788092aab6b909338015a7.flv?WithCaption												
 双星,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/Shuangxing/playlist.m3u8												
 双星,http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
 双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8?WithCaption												
@@ -63,14 +63,14 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 												
 天映電影,http://198.16.106.155:8278/Celestial/playlist.m3u8?tid=MB7B2207821822078218&ct=19386&tsum=1b79d96b2a14fbbc5b41ef983f26a62a												
 												
-小太阳,https://epg.pw/stream/269f797a6dc795090236bf4e32a6241afc37a5ef749873f5fea9a3038cb7c5a8.ctv												
-小太阳,https://epg.pw/stream/24518ee27c67870a2d16aabfe0401c9d6b3ff36dcb14b062338ae5dcd8d7df27.ctv												
-小太阳,https://epg.pw/stream/abe0d89d10fdbd29df1178796b858c3bf9745f6bcf6c45dea4bdfccad04526e6.m3u8												
+小太阳,https://pull-l3-cny.douyincdn.com/live/5a866bdc13a049ce57a9c2e08d6c1bea.flv												
+小太阳,												
+小太阳,												
 												
 TVB 星河,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153506												
-TVB 星河,http://51.79.82.208:16024												
+TVB 星河,http://51.79.82.208:16024#https://pull-l3-cny.douyincdn.com/live/43671b922c9c1da53de04d0e03a96e63.flv												
 TVB 星河,https://stream.zeehanzgadget.com/tvbxinghe												
-												
+TVB 星河,https://pull-l3-cny.douyincdn.com/live/2fda693d6a8601d41621cd51f8d47858.flv												
 TVB經典,http://iptv12k.com:35461/live/test167/12345/699.m3u8												
 												
 TV2,https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8												
@@ -150,7 +150,7 @@ NHK Japan,https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8?zgangd												
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8												
 凤凰中文,http://50.7.220.74:8278/phoenixtv_hd/playlist.m3u8?tid=MFBF2713938527139385&ct=19225&tsum=1c8ca0899277714ab83db57245220068												
-												
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4.flv												
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top												
 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix												
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8												
@@ -178,18 +178,19 @@ NHK Japan,https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8
 												
 Now新聞,http://2022.stream-link.org/playlist/now_news												
 Now新聞,https://cdn.hklive.tv/xxxx/332/index.m3u8												
-Now直播新聞台												
+Now新聞,https://pull-l3-cny.douyincdn.com/live/ddbb1c8a2baea5e964ef296db10bd88c.flv												
 												
 翡翠台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571187												
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8?WithCaption												
-翡翠台,http://23.237.10.66:16410												
+翡翠台,http://23.237.10.66:16410#https://pull-l3-cny.douyincdn.com/live/1aef0f03f17f4592d4b27fd3f50dc24d.flv												
 翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8												
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade												
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8												
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8												
-												
+J2,https://pull-l3-cny.douyincdn.com/live/7165a15205410799dc8f5b3204a057d6.flv												
 明珠台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153399												
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8												
+明珠台,https://pull-l3-cny.douyincdn.com/live/76632f3d6a2def1dadffa310f3950107.flv												
 香港开电视,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8												
 香港开电视,http://2022.stream-link.org/playlist/hoy												
 香港开电视,https://cdn.hklive.tv/xxxx/77/index.m3u8												
@@ -202,9 +203,9 @@ RTHK32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK32,http://2022.stream-link.org/playlist/rthk_32												
 RTHK33,https://cdn.hklive.tv/xxxx/33/index.m3u8												
 ViuTV,https://cdn.hklive.tv/xxxx/99/index.m3u8												
-												
+ViuTV,https://pull-l3-cny.douyincdn.com/live/25385ee9f7c072a1d548c91a3d4f9f98.flv												
 ViuTV-6,https://cdn.hklive.tv/xxxx/96/index.m3u8												
-												
+ViuTV-6,https://pull-l3-cny.douyincdn.com/live/1da87db9ec760cbacc61f5af522a587e.flv												
 無綫財經資訊台,http://live.cooltv.top/tv/tvb.php?id=3												
 無綫財經資訊台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd												
 無綫財經資訊台,http://www.nettvpro.live/hls/tvb.php?id=2												
@@ -213,13 +214,12 @@ ViuTV-6,https://cdn.hklive.tv/xxxx/96/index.m3u8
 有綫財經資訊台,http://61.10.2.146/live_freedirect/freehd208_h.live/playlist.m3u8												
 												
 Now财经台,https://cdn.hklive.tv/xxxx/85/index.m3u8												
-												
+HOY資訊台,https://pull-l3-cny.douyincdn.com/live/6fc06ac7d88252d5b92955797c5f6684.flv												
 无线娱乐,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571188												
 无线娱乐,http://iptv12k.com:35461/live/test167/12345/697.m3u8?WithCaption												
 无线娱乐,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8												
-												
+无线娱乐,https://pull-l3-cny.douyincdn.com/live/0847b482456ae4665cf8a450f7b0bb04.flv												
 有線娛乐												
-												
 												
 台湾/TW,#genre#												
 民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8												
@@ -230,7 +230,7 @@ Now财经台,https://cdn.hklive.tv/xxxx/85/index.m3u8
 三立iNews,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8												
 												
 三立台灣,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8?WithCaption												
-												
+三立台灣,https://pull-l3-cny.douyincdn.com/live/f616598a2aaccb804dd38051f156f1b5.flv?time=1675837146												
 鏡新聞,http://tv.redrainl.site:9500/live.m3u8?c=28												
 鏡新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8												
 												
@@ -336,8 +336,8 @@ HOY TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8												
 												
 樂視旅遊攻略,http://aliyuncocsouth.inter.iqiyi.com/tslive/c57_lb_206_600_t10/c57_lb_206_600_t10.m3u8												
-												
-爱尔达生活娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8												
+爱尔达娛樂,https://pull-l3-cny.douyincdn.com/live/fa5c202885ccd8a76f1f504104896f24.flv												
+爱尔达娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8												
 												
 愛爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8?WithCaption												
 												
@@ -359,14 +359,14 @@ EYE TV旅遊台,http://iptv12k.com:35461/live/test167/12345/1223.m3u8
 CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8												
 Disvovery Asia,http://iptv12k.com:35461/live/test167/12345/628.m3u8												
 Disvovery Asia,http://livestreaming.kozow.com/lemo.php?id=a2153dea-0be1-4b0c-9afd-e5880ccc581f&type=m3u8												
-緯來日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption												
+緯來日本,https://pull-l3-cny.douyincdn.com/live/951a2374adbff33bcdca32dfd8920161.flv												
 緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8												
-緯來日本												
+緯來日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption												
 緯來日本												
 												
-緯來育乐												
+緯來育乐,https://pull-l3-cny.douyincdn.com/live/89ddabe62c6c71933eeedeaeae4c2173.flv												
 龙华日韩,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8												
-国兴卫视												
+龙华日韩,https://pull-l3-cny.douyincdn.com/live/83d69b0816afd741408caeadcb334001.flv												
 国兴卫视												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/chunklist_w1374175519.m3u8												
@@ -506,11 +506,11 @@ AS-3,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
 AS-4,http://golive.yn.lt/89/astro/04.m3u8												
 AS-4,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts												
 AS-5,http://golive.yn.lt/89/astro/05.m3u8												
-assp1,http://iptv12k.com:35461/test167/12345/972												
-assp2,http://iptv12k.com:35461/test167/12345/971												
-assp3,http://iptv12k.com:35461/test167/12345/970												
-assp4,http://iptv12k.com:35461/test167/12345/969												
-assp5												
+assp1,http://iptv12k.com:35461/test167/12345/972#http://iptv12k.com:35461/live/test167/12345/13552.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13329.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/11243.m3u8?WithCaption												
+assp2,http://iptv12k.com:35461/test167/12345/971#http://iptv12k.com:35461/live/test167/12345/13328.m3u8?WithCaptionhttp://iptv12k.com:35461/live/test167/12345/13551.m3u8?WithCaption												
+assp3,http://iptv12k.com:35461/test167/12345/970#http://iptv12k.com:35461/live/test167/12345/11241.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13327.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13550.m3u8?WithCaption												
+assp4,http://iptv12k.com:35461/test167/12345/969#http://iptv12k.com:35461/live/test167/12345/13326.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13549.m3u8?WithCaption												
+assp5,http://iptv12k.com:35461/live/test167/12345/13684.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13683.m3u8?WithCaption												
 Arena-1,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts												
 Arena-2tv12k.com:35461/8032022060101/452381/965#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8												
 RTMsport												
@@ -544,10 +544,10 @@ ELTA體育3http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w92691395
 美国籃球-NBA1,http://194.40.240.183:25461/3397537295/4538699784/55195												
 美国籃球-NBA2,http://194.40.240.183:25461/3397537295/4538699784/53403												
 												
-ELEVEN-1												
+ELEVEN-1,https://pull-l3-cny.douyincdn.com/live/3e38e90ce691617e265de0aeb259543b.flv?time=1675835699												
 ELEVEN-1												
 												
-ELEVEN-2,http://61.221.81.93:8078/hls/26/80/esport2.m3u8												
+ELEVEN-2,https://pull-l3-cny.douyincdn.com/live/c388dbd0b46246b61bbfae51a0a90656.flv?time=1675835765												
 ELEVEN-2												
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8												
 FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8												
@@ -557,23 +557,23 @@ FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m
 博斯运动2台												
 博斯网球												
 博斯網球												
-博斯魅力1												
-博斯魅力2												
-博斯无限台												
-博斯无限二台												
+Fox Golf,https://pull-l3-cny.douyincdn.com/live/59041578136043539926d7eb8f776be7.flv												
+Fox Golf2,https://pull-l3-cny.douyincdn.com/live/eeccf316dc042efadba173f6b26936f6.flv												
+NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818726a6c4c.flv												
+有線體育台,https://pull-l3-cny.douyincdn.com/live/bb01830bbd2bbe0e5d97a33243d39ab1.flv?time=1675834787												
 PGA TOUR,http://4wycifxb.rostelekom.xyz/iptv/7A9D5FRZ9RT8LW/6481/index.m3u8												
 PGA TOUR,http://iptv12k.com:35461/live/test167/12345/651.m3u8?WithCaption												
 PGA TOUR,http://iptv12k.com:35461/live/test167/12345/639.m3u8												
 												
 ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8												
 ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8												
-WWE												
+WWE,http://iptv12k.com:35461/live/test167/12345/13324.m3u8?WithCaption												
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8												
 PTV Sport,http://golive.yn.lt/live/champions/01.m3u8												
-												
-CCTV5+,http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv5SportHD/__op/default/__f//index.m3u8												
-CCTV5,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8?												
-CCTV5,http://39.184.224.99:9080/newlive/live/hls/5/live.m3u8												
+CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3												
+CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=3												
+CCTV5,http://39.134.136.138:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3												
+CCTV5,http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3												
 												
 基礎日文/Jap1,#genre#												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
@@ -787,3 +787,5 @@ NOW SPORTS 4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extensio
 NOW SPORTS 5,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554945												
 NOW SPORTS 6,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554944												
 NOW SPORTS 7,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554943												
+NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818726a6c4c.flv												
+有線體育台,https://pull-l3-cny.douyincdn.com/live/bb01830bbd2bbe0e5d97a33243d39ab1.flv?time=1675834787												
