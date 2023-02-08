@@ -1,19 +1,33 @@
 Thailand-1,#genre#
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+SkyNews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
+ABC News-2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+Netv-Toronto,http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8
+AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption
+ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38
+ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'
+ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
+ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
+TV3-M'sia,https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#https://stream.zeehanzgadget.com/tv3#http://137.175.36.206:8188/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#http://23.237.10.66:16404#http://137.175.36.206:8388/test163/123456/740
 AFN,http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8#http://iptv12k.com:35461/live/test167/12345/640.m3u8#http://iptv12k.com:35461/live/test167/12345/1229.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 AND TV,https://live.thaitvstream.com/play/andtv/index.m3u8#http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 ASTV News1,http://news1.live14.com/stream/news1.m3u8#http://news1.live14.com/stream/news1.m3u8
 ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
-Channel 5,http://110.170.117.27:1935/apptv5hd1live/vdo-tv5hd1/playlist.m3u8#https://tc-live1.sanook.com/live/22302_ch5.m3u8
-ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TV3-M'sia,https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#https://stream.zeehanzgadget.com/tv3#http://137.175.36.206:8188/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#http://23.237.10.66:16404#http://137.175.36.206:8388/test163/123456/740
+Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-NBA,http://194.40.240.183:25461/3397537295/4538699784/55195@http://194.40.240.183:25461/3397537295/4538699784/53403
-AS-1,http://golive.yn.lt/89/astro/01.m3u8#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52859.ts
-AS-2,http://golive.yn.lt/89/astro/02.m3u8#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52860.ts
-AS-3,http://golive.yn.lt/89/astro/03.m3u8#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52861.ts
-AS-4,http://golive.yn.lt/89/astro/04.m3u8#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/52862.ts
-AS-5,http://golive.yn.lt/89/astro/05.m3u8
+NBA,http://194.40.240.183:25461/3397537295/4538699784/55195#http://194.40.240.183:25461/3397537295/4538699784/53403
+assp1,http://iptv12k.com:35461/test167/12345/972#http://iptv12k.com:35461/live/test167/12345/13552.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13329.m3u8?WithCaption
+assp2,http://iptv12k.com:35461/test167/12345/971#http://iptv12k.com:35461/live/test167/12345/13328.m3u8?WithCaptionhttp://iptv12k.com:35461/live/test167/12345/13551.m3u8?WithCaption
+assp3,http://iptv12k.com:35461/test167/12345/970#http://iptv12k.com:35461/live/test167/12345/11241.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13327.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13550.m3u8?WithCaption
+assp4,http://iptv12k.com:35461/test167/12345/969#http://iptv12k.com:35461/live/test167/12345/13326.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13549.m3u8?WithCaption
+assp5,http://iptv12k.com:35461/live/test167/12345/13684.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13683.m3u8?WithCaption
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f5188fa0e.m3u8?WithCaption
 PetClub,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 CCM,http://iptv12k.com:35461/live/test167/12345/13358.m3u8
@@ -42,10 +56,3 @@ WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklis
 XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
 ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NOW SPORTS 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949
-NOW SPORTS 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554948
-NOW SPORTS 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554947
-NOW SPORTS 4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554946
-NOW SPORTS 5,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554945
-NOW SPORTS 6,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554944
-NOW SPORTS 7,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554943
