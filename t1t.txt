@@ -1,21 +1,22 @@
 Thailand-1,#genre#
-CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
+CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8#P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-SkyNews,https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+SkyNews,P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
+BBC World News,P2p://generationnexxxt.com:19806/63de82de0005ce547f03cb5a736a7ea9
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 ABC News-2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 Netv-Toronto,http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8
-AL JAZEERA,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption
+AL JAZEERA,https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#P2p://generationnexxxt.com:19806/3efe38a13e094f3ba6d73dc1db7b9948
 ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'
 ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8
 ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-TV3-M'sia,https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#https://stream.zeehanzgadget.com/tv3#http://137.175.36.206:8188/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#http://23.237.10.66:16404#http://137.175.36.206:8388/test163/123456/740
-AFN,http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8#http://iptv12k.com:35461/live/test167/12345/640.m3u8#http://iptv12k.com:35461/live/test167/12345/1229.m3u8
+TV3-M'sia,P2p://generationnexxxt.com:19806/63de7ef40002b70f7ef4807f056a0e0c#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#https://stream.zeehanzgadget.com/tv3#http://137.175.36.206:8188/TV3/playlist.m3u8?tid=MBAB6337539663375396&ct=19249&tsum=d654aed09f7731acae9bc6b5fafeec6d#https://live-sg1.global.ssl.fastly.net/live-hls/tonton1_720p/index.m3u8#http://23.237.10.66:16404#http://137.175.36.206:8388/test163/123456/740
+AFN,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623#http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8#http://iptv12k.com:35461/live/test167/12345/640.m3u8#http://iptv12k.com:35461/live/test167/12345/1229.m3u8
 ALTV,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#https://thaipbs-ujxrch.cdn.byteark.com/live/playlist_720p/index.m3u8
 AND TV,https://live.thaitvstream.com/play/andtv/index.m3u8#http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 ASTV News1,http://news1.live14.com/stream/news1.m3u8#http://news1.live14.com/stream/news1.m3u8
@@ -23,21 +24,21 @@ ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 NBA,http://194.40.240.183:25461/3397537295/4538699784/55195#http://194.40.240.183:25461/3397537295/4538699784/53403
-assp1,http://iptv12k.com:35461/test167/12345/972#http://iptv12k.com:35461/live/test167/12345/13552.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13329.m3u8?WithCaption
-assp2,http://iptv12k.com:35461/test167/12345/971#http://iptv12k.com:35461/live/test167/12345/13328.m3u8?WithCaptionhttp://iptv12k.com:35461/live/test167/12345/13551.m3u8?WithCaption
-assp3,http://iptv12k.com:35461/test167/12345/970#http://iptv12k.com:35461/live/test167/12345/11241.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13327.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13550.m3u8?WithCaption
-assp4,http://iptv12k.com:35461/test167/12345/969#http://iptv12k.com:35461/live/test167/12345/13326.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13549.m3u8?WithCaption
-assp5,http://iptv12k.com:35461/live/test167/12345/13684.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13683.m3u8?WithCaption
+Assp1-1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918986
+Assp2-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918985
+Assp3-3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918984
+Assp4-4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918983
+Assp5-5,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918982
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f5188fa0e.m3u8?WithCaption
 PetClub,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
-CCM,http://iptv12k.com:35461/live/test167/12345/13358.m3u8
+CCM,P2p://generationnexxxt.com:19806/517d359aed1646c1b3a2d4ac3dcdaf23#http://iptv12k.com:35461/live/test167/12345/13358.m3u8
 ANIMAX,http://198.16.64.10:8278/Animax/playlist.m3u8?tid=MD5D2874027628740276&ct=19225&tsum=7a70d49085de7ded56bc64fa8d46c506
 CTB,http://vip.login.in.th:1935/CTB/CTB/playlist.m3u8
 MCOT 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
 MEDIA NEWS TV,https://live1.thaitvstream.com/play/medianews/index.m3u8
 MOUNCHON TV,https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
+Love Nature,P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f#http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
 NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
 News1,http://news1.live14.com/stream/news1_hi.m3u8
 Thai PBS-3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8#https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
@@ -56,3 +57,31 @@ WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklis
 XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
 ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+Thailand-2,#genre#
+Channel 5,P2p://generationnexxxt.com:19806/a4b9e6c582b04f5686a551aad7e45601
+NBT,P2p://generationnexxxt.com:19806/0f9c2bb6f77a4cac8a21cd94e505d797
+TNN 16,P2p://generationnexxxt.com:19806/7700da87efe845709ac05f51cbebce86
+JKN 18,P2p://generationnexxxt.com:19806/0fc6ab57fd98419d8e7d3bf770cd5280
+Voice TV,P2p://generationnexxxt.com:19806/28aadd9df3514233a219e33058059939
+Nation TV,P2p://generationnexxxt.com:19806/90a5c0840a60404b88c8b7be84c81667
+Workpoint TV,P2p://generationnexxxt.com:19806/1583e9528c634baaaf921051eb99c2ac
+true4U,P2p://generationnexxxt.com:19806/b89939ccd7424e46b34c344b6b95fa43
+GMM 25,P2p://generationnexxxt.com:19806/add18cbef3914cb7a5d9baa1370550ab
+Channel 8,P2p://generationnexxxt.com:19806/d3d000ae9fc9425f935947270fd948f7
+Mono 29,P2p://generationnexxxt.com:19806/9a832197aeff4651b3fde2504b2c2a18
+MCOT,P2p://generationnexxxt.com:19806/ff26591db3dd4388a8929f3690194234
+ONE,P2p://generationnexxxt.com:19806/02c687819f1b4c6c8fbf73c807fbde23
+Thairath TV,P2p://generationnexxxt.com:19806/5fb2764f36614e7383980d0cb48d6646
+Channel 3,P2p://generationnexxxt.com:19806/ee4e6db66c85443e97953ae49ba0ab44
+Amarin TV,P2p://generationnexxxt.com:19806/f44341fb70cc4628824fc6642a505359
+Channel 7,P2p://generationnexxxt.com:19806/70f1ea84ed1a4198afc35eab09e96726
+PPTV,P2p://generationnexxxt.com:19806/ec5332d7587b46dfa6999c3da50ebb09
+Boomerang,P2p://generationnexxxt.com:19806/01d4734cc60344ec9fa741972ee6197b
+Thai Parliament TV,P2p://generationnexxxt.com:19806/6588482fb6f64cf987c5bc8544ab44bb
+Thai PBS,P2p://generationnexxxt.com:19806/f852f8708938497eb3822fec564c2c24
+News 1,P2p://generationnexxxt.com:19806/574542a3d43d4a18aa96cabb013edd20
+Channel 4050,P2p://generationnexxxt.com:19806/5f192072a57849f39898425dd5b17f78
+TVB Thai,P2p://generationnexxxt.com:19806/0846c9d8cc1643eeba091806afd4bbe6
+Bluesky,P2p://generationnexxxt.com:19806/9f9338367afd46d18c47a02386e5c71c
+Top News,P2p://generationnexxxt.com:19806/1f992aeb9fa845b9bdc291e1e9097ad7
