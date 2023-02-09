@@ -6,7 +6,7 @@ AEC-4,https://stream.zeehanzgadget.com/aec
 AEC-5,https://pull-l3-cny.douyincdn.com/live/9b5eec9c38ac7d3266c2a3472dca2d97.flv?WithCaption												
 AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/index.m3u8												
 AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8#http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-												
+AEC-8,P2p://generationnexxxt.com:19806/c0876d3607bb4f0093a15f7b0b844d77#P2p://generationnexxxt.com:19806/7edbdc6f5b694f43b521088b7fb0f44b												
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13373.m3u8?WithCaption												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
 歡喜臺333-3,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
@@ -26,7 +26,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 全佳,http://pull-l3-cny.douyincdn.com/live/c8b80aa54cfbadb4d210f490d91890c7.m3u8												
 全佳-2,http://iptv12k.com:35461/live/test167/12345/13598.m3u8?WithCaption												
 全佳-2,http://livestreaming.kozow.com/xiptv.php?id=AstroQuanJiaHD&sid=.flv												
-												
+爱奇艺,P2p://generationnexxxt.com:19806/9b37d7a894fb4d198591e8c2338d09ef												
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption												
 爱奇艺,https://stream.zeehanzgadget.com/iqiyi?WithCaption												
 爱奇艺,https://pull-l3-cny.douyincdn.com/live/dd7809c019f9ce9c03f8443c8dff99fb.flv												
@@ -52,7 +52,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8?WithCaption												
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535												
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
-												
+双星-2,P2p://generationnexxxt.com:19806/fa265c27ecd146bc973bd88924dcb69e												
 双星-2,http://198.16.106.155:8278/Shuangxing/playlist.m3u8?tid=MAAA3616515436165154&ct=19386&tsum=43309939fb9a43372f1520f1f8ad6da8												
 双星-2,https://stream.zeehanzgadget.com/shuangxing												
 双星-2,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
@@ -60,11 +60,11 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 双星-2,https://stream.zeehanzgadget.com/shuangxing												
 												
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs												
-												
+天映電影,P2p://generationnexxxt.com:19806/79e061c2c25f4abaaeae65dd4a715298												
 天映電影,http://198.16.106.155:8278/Celestial/playlist.m3u8?tid=MB7B2207821822078218&ct=19386&tsum=1b79d96b2a14fbbc5b41ef983f26a62a												
-												
+天映電影,http://51.79.82.208:16024												
 小太阳,https://pull-l3-cny.douyincdn.com/live/5a866bdc13a049ce57a9c2e08d6c1bea.flv												
-小太阳,												
+小太阳,P2p://generationnexxxt.com:19806/185cedacf5e04947b17831e3fb89c40e												
 小太阳,												
 												
 TVB 星河,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153506												
@@ -75,22 +75,22 @@ TVB經典,http://iptv12k.com:35461/live/test167/12345/699.m3u8
 												
 TV2,https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8												
 TV2,http://51.79.82.208:16002												
-												
+TV2,P2p://generationnexxxt.com:19806/3907ebcf772640b19c0d010e600f6151												
 八度空間,http://2022.stream-link.org/playlist/8tv												
 八度空間,https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8												
 八度空間,http://50.7.220.74:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35												
 八度空間,http://198.16.64.10:8278/TV8/playlist.m3u8?tid=MDFD8437455184374551&ct=19225&tsum=ea08ca3d3651a75f499af2fc429eee35												
 八度空間,https://raw.githubusercontent.com/samleong123/tonton_dailymotion_php/main/m3u8/8TV.m3u8												
 八度空間,http://51.79.82.208:16005												
-												
+TV8,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/chunklist_w1507506823.m3u8												
 TV8,http://iptv12k.com:35461/live/test167/12345/738.m3u8?WithCaption												
 TV8,https://live-sg1.global.ssl.fastly.net/live-hls/tonton3_720p/index.m3u8 												
-												
+TV8,P2p://generationnexxxt.com:19806/cae3a92b5d0446d8837da32c14390c18#P2p://generationnexxxt.com:19806/06e599b616594dae8768aaef05ce641f												
 AWANI,https://epg.pw/stream/fc4bed4bedf2af0d401f7223a99b6eba7067807dd3f4b7d58f746f8c1eac2792.m3u8												
 AWANI,https://epg.pw/stream/8b40cb488e0ae90b5e5daa54bf1c651b108701f20fa5528b06475d896226bb2e.m3u8												
 AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8												
 AWANI,https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8												
-												
+AWANI,P2p://generationnexxxt.com:19806/a99d6c8404714c8bba07b101656807d0												
 Bernama TV,https://epg.pw/stream/5a56a2a6e76746bc31c514d25cd0a9a3f437210075a63942adb03442a5791d78.m3u8												
 Bernama TV,https://raw.githubusercontent.com/AqFad2811/BernamaHDYT/main/youtube.m3u8												
 												
@@ -107,7 +107,7 @@ Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption
 Bloomberg,http://tv.redrainl.site:9500/live.m3u8?c=14												
 Bloomberg,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8												
 Bloomberg,http://210.210.155.37/dr9445/h/h03/index.m3u8												
-												
+Bloomberg,P2p://generationnexxxt.com:19806/3efe38a13e094f3ba6d73dc1db7b9948												
 HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8												
 HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w878126648.m3u8												
 												
@@ -179,7 +179,7 @@ $c_start香港$c_end
 Now新聞,http://2022.stream-link.org/playlist/now_news												
 Now新聞,https://cdn.hklive.tv/xxxx/332/index.m3u8												
 Now新聞,https://pull-l3-cny.douyincdn.com/live/ddbb1c8a2baea5e964ef296db10bd88c.flv												
-												
+翡翠台,P2p://generationnexxxt.com:19806/0df1faa6d0e04df7bdd611c13a4d7e4b												
 翡翠台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571187												
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8?WithCaption												
 翡翠台,http://23.237.10.66:16410#https://pull-l3-cny.douyincdn.com/live/1aef0f03f17f4592d4b27fd3f50dc24d.flv												
@@ -187,7 +187,7 @@ Now新聞,https://pull-l3-cny.douyincdn.com/live/ddbb1c8a2baea5e964ef296db10bd88
 翡翠台,http://2022.stream-link.org/playlist/tvb_jade												
 翡翠台,https://cdn.hklive.tv/xxxx/81/index.m3u8												
 J2,https://cdn.hklive.tv/xxxx/82/index.m3u8												
-J2,https://pull-l3-cny.douyincdn.com/live/7165a15205410799dc8f5b3204a057d6.flv												
+J2,https://pull-l3-cny.douyincdn.com/live/7165a15205410799dc8f5b3204a057d6.flv#P2p://generationnexxxt.com:19806/515a11e96c194c37b4a7158c168fd03d												
 明珠台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153399												
 明珠台,https://cdn.hklive.tv/xxxx/84/index.m3u8												
 明珠台,https://pull-l3-cny.douyincdn.com/live/76632f3d6a2def1dadffa310f3950107.flv												
@@ -218,12 +218,12 @@ HOY資訊台,https://pull-l3-cny.douyincdn.com/live/6fc06ac7d88252d5b92955797c5f
 无线娱乐,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571188												
 无线娱乐,http://iptv12k.com:35461/live/test167/12345/697.m3u8?WithCaption												
 无线娱乐,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8												
-无线娱乐,https://pull-l3-cny.douyincdn.com/live/0847b482456ae4665cf8a450f7b0bb04.flv												
+无线娱乐,https://pull-l3-cny.douyincdn.com/live/0847b482456ae4665cf8a450f7b0bb04.flv#P2p://generationnexxxt.com:19806/9692662fb070486bb3e0dcf15f62c76c												
 有線娛乐												
 												
 $c_start台湾$c_end												
-民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8												
-民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8												
+民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/3e0fbbd26b264e5eac395704e0968995												
+民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/96c84d14d6d0451d9f785d8a6c341981												
 東森美洲												
 東森美洲卫视												
 三立iNews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8												
@@ -245,7 +245,7 @@ $c_start台湾$c_end
 民視新聞台 FTV,https://git.io/JgkAb#http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=830												
 民視新聞台 FTV,http://tv.redrainl.site:9500/live.m3u8?c=1												
 民視新聞台 FTV,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8												
-民視新聞台 FTV,https://git.io/JgkAb#http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=830#https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=1#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8#https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://epg.pm/stream/d175e5f5b33a7e69d68c2fdc5b32e4f0df0cf795dd76448d92022037403482b1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8#http://123.51.230.108:18663/.m3u8												
+民視新聞台 FTV2,https://git.io/JgkAb#http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=830#https://pull-l3-cny.douyincdn.com/live/304b8e04a437299311112b7f4902c9dd.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=1#http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8#http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8#https://epg.pm/stream/c20e5c221e1b7f8834dbe4888d60d1ace08abf370e64ef7c643607422b2941dc.m3u8#https://epg.pm/stream/9dbf5d5dd1d158c4dfd5622c86643d4d768447f4f75f505442254c076342e54d.m3u8#https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8#https://epg.pm/stream/d175e5f5b33a7e69d68c2fdc5b32e4f0df0cf795dd76448d92022037403482b1.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8#http://38.64.72.148/hls/modn/list/4012/playlist.m3u8#http://123.51.230.108:18663/.m3u8												
 民視新聞台 FTV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8												
 民視新聞台 FTV,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8												
 民視新聞台 FTV,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8												
@@ -275,7 +275,7 @@ TVBS新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.
 												
 台視,http://107.151.203.111:2209/135/us50.php?id=tsk												
 台視,http://23.237.10.66:16344												
-台視												
+台視,P2p://generationnexxxt.com:19806/3c6d9384d029419b8448b51205b1aa85												
 												
 												
 華視,http://www.336699.live:1935/blockfour/4gtv-4gtv041.stream/playlist.m3u8												
@@ -298,7 +298,7 @@ TVBS新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.
 新唐人亞太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8#http://tv.redrainl.site:9500/live.m3u8?c=52												
 东森新闻美洲,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8												
 东森美洲卫视,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8												
-公視												
+公視,P2p://generationnexxxt.com:19806/4fa337b733404025a781561b2a007f28												
 公視												
 												
 公視3,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8												
@@ -307,20 +307,20 @@ TVBS新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.
 公視台語台,https://epg.pw/stream/66d7ead99cdb7411d7d1f47deea81a9126f140cdca3bb078b9922b8fc9dd8962.ctv?WithCaption												
 												
 大爱,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV30.m3u8												
-中视经典台,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8												
+中视经典台,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/.m3u8#P2p://generationnexxxt.com:19806/67192f09fa034deda559bd1d3fa945c0												
 中视经典台,http://www.336699.live:1935/blockfour/4gtv-4gtv080.stream/playlist.m3u8												
-												
+三立综合,P2p://generationnexxxt.com:19806/8b48cfa6c265472f8cd326a65a15338a												
 中视菁采台,http://www.336699.live:1935/blockfour/4gtv-4gtv064.stream/playlist.m3u												
 TVBS精采台,http://iptv12k.com:35461/live/test167/12345/1273.m3u8?WithCaption												
 ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8												
 猪哥会社,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/chunklist_w1466959116.m3u8												
 猪哥会社,http://www.336699.live:1935/blockfour/4gtv-4gtv006.stream/playlist.m3u8												
 靖天育乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv062.stream/playlist.m3u8												
-靖天欢乐台												
-T+W												
-壹电视综合												
+人间卫视,http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8#P2p://generationnexxxt.com:19806/169b7287fe474c7882fe813b1cde71ca												
+靖天欢乐台,http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/playlist.m3u8#http://www.336699.live:1935/blockfour/4gtv-4gtv054.stream/chunklist_w426234629.m3u8												
+壹电视综合,P2p://generationnexxxt.com:19806/e069a84b4fc546c7863b7240565f36db												
 纬来精采												
-												
+Taiwan+,P2p://generationnexxxt.com:19806/b3161411403d4797b85995a06d0fdd06												
 												
 												
 $c_start旅遊$c_end												
@@ -328,7 +328,7 @@ $c_start旅遊$c_end
 HTB北海道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8												
 HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8												
 靖天國際,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8												
-靖天國際,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8												
+靖天國際,P2p://generationnexxxt.com:19806/9b326a0d34b34c44b1ebef8441a8b11f												
 												
 HOY TV,http://livetv.dnsfor.me/channel.9.m3u8												
 HOY TV,http://uc6.i-cable.com/live_freedirect/opentvhd001_h.live/playlist.m3u8												
@@ -342,17 +342,17 @@ HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 愛爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8?WithCaption												
 												
 亞洲旅遊台,http://www.336699.live:1935/blocksix/litv-longturn17.stream/chunklist.m3u8												
-亞洲旅遊台												
+亞洲旅遊台,P2p://generationnexxxt.com:19806/6c076f372ab4424dadaa153552e925a3												
 												
 												
 												
 												
 												
 												
-												
+EYE TV旅遊台,P2p://generationnexxxt.com:19806/e559895b754d4e888cb8b545beb496bd												
 EYE TV旅遊台,http://livestreaming.kozow.com/lemo.php?id=f3272a92-64e9-47b3-aad2-89a71db1950c&type=m3u8												
 EYE TV旅遊台,http://iptv12k.com:35461/live/test167/12345/1223.m3u8												
-												
+ET Today,P2p://generationnexxxt.com:19806/e85b643a603f4433b894d724aa267f86												
 民視旅遊台,https://cdn2live.sky4k.top/4gtv/?id=twmsly_BzIPTV_4K												
 												
 旅遊,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8?WithCaption												
@@ -370,7 +370,7 @@ Disvovery Asia,http://livestreaming.kozow.com/lemo.php?id=a2153dea-0be1-4b0c-9af
 国兴卫视												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/chunklist_w1374175519.m3u8												
-												
+靖天日本台,P2p://generationnexxxt.com:19806/ce1ad32f8eec445086dd5d8405abfd13												
 环球旅游,http://baidu.live.cqccn.com/__cl/cg:live/__c/huanqiulvyou/__op/default/__f//index.m3u8												
 CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8												
 東京淺草,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV29.m3u8												
@@ -393,7 +393,7 @@ Love Nature,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live208&hd=720
 舒城文化旅游,http://220.180.24.62:1935/live/live1/playlist.m3u8?zanhd												
 Travel旅游頻道,http://iptv12k.com:35461/live/test167/12345/635.m3u8												
 TLC旅遊生活,http://iptv12k.com:35461/live/test167/12345/639.m3u8												
-Travel Channel,https://epg.pw/stream/d3a6b6b1a8f7a738e6f52be538d134e03cdadcfbcb57378cc72456dd6b180b42.ctv												
+Travel Channel,P2p://generationnexxxt.com:19806/2b7c66c71542428e845679162a8b1882												
 Travel Channel,http://iptv12k.com:35461/live/test167/12345/635.m3u8												
 Go Traveler,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?WithCaption												
 GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8												
@@ -408,13 +408,13 @@ Journey,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist
 												
 												
 $c_start美食-1$c_end												
-亞洲美食AFN,http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8												
+亞洲美食AFN,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623#http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8												
 亞洲美食AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption												
 亞洲美食AFN,http://iptv12k.com:35461/live/test167/12345/1229.m3u8?WithCaption												
 非遗美食,http://hls-ott-zhibo.wasu.tv/live/181/index.m3u8												
 美食星球,http://iptv12k.com:35461/live/test167/12345/1259.m3u8												
-美食星球,https://epg.pw/stream/62fbb8d8fa93ab1831d00d7aabfa186269a7236f77cb2b4a1cb0ead2b17310bc.ctv												
-美食星球,https://epg.pw/stream/c48966003809f757249bc4b2dd347dbe7d35c05ca800fb04aff6d5aec9e87159.ctv												
+美食星球,P2p://generationnexxxt.com:19806/e20823abeaa943aeb0cf96ebd1e22f41												
+美食星球												
 品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/6f2bV9GwIlwELi8o2FOJs4ZVUCWlllmmCuZ8JzObx4Os9oDyUe7rpvkD-SQlPdGnP_Wgd4bsksQKEf37OOLP7Kp8BYb1ICNRZfQX9aBXkNym4BPUERgf6FTluFsV1LMC/17a0edfc769884e1f0a9a357199078259/c56_lb_182_600_t10.m3u8?key=012b4ab18eb6d178115845608727f0763&dis_t=1660975797&z=akm_oversea&pv=0.23a9dcd5b309c98038524efb98ad&token=web-h5-0-5232386-c3e41d02b9f1205cf7801501600ffbc73258f7c84fc1da7a&logo=0&expire=0&did=301b2e2ad7de100b8ae438fb00011601&ver=Douyu_222082205&pt=2&st=3&origin=tct&mix=0&isp=												
 品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/ScYGYjfaQwU8vpqEOH848lRJcXTFbFScsCCR0lIDG8mqCWS8nZBAhRvdqCqrSPShvLqu5vhYtIkMYKg0UnIExbbsMlHd0z3QSLMng5Etwd0Zq1lBo8D9y5kMMexJujAj/1e87becf5c6e831194ce19724b08eebc0/c56_lb_182_600_t10.m3u8?key=046e9ae13fedccb0eab97af9d7de28ba0&dis_t=1651215070&z=akm_oversea&pv=0.2												
 品城記,http://akmcdnoversea.inter.iqiyi.com/tslive/l1/c56_lb_182_600_t10/8LaqBbV5e_FHYEq5fINDTus6N6XAmV79kBV15DQL7FqCZ8NzoRvjv8iLkoJ92LekJN5IUyPwtfbjSZRctTV1rjuvkll-BkSqrLHMhMOQefCQFDIJAZDwxv7EwqM-ibWz/1df232427441b584e5f1832ad934c5f42/c56_lb_182_600_t10.m3u8?key=064f936d071d356ebc0015fe342319097&dis_t=1660975800&z=akm_oversea&pv=0.2												
@@ -468,9 +468,9 @@ $c_start知识$c_end
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8												
 四海釣魚,http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8#http://139.9.188.172:5678/sxg.php?id=shdy_4000#http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8												
 快乐垂钓,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls												
-茶频道												
+HGTV,P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9												
 Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8												
-Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption												
+Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f												
 宠物,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8												
 宠物Pet Club TV,https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8												
 文物宝库												
@@ -511,22 +511,22 @@ assp2,http://iptv12k.com:35461/test167/12345/971#http://iptv12k.com:35461/live/t
 assp3,http://iptv12k.com:35461/test167/12345/970#http://iptv12k.com:35461/live/test167/12345/11241.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13327.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13550.m3u8?WithCaption												
 assp4,http://iptv12k.com:35461/test167/12345/969#http://iptv12k.com:35461/live/test167/12345/13326.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13549.m3u8?WithCaption												
 assp5,http://iptv12k.com:35461/live/test167/12345/13684.m3u8?WithCaption#http://iptv12k.com:35461/live/test167/12345/13683.m3u8?WithCaption												
-Arena-1,http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts												
+Arena-1,P2p://generationnexxxt.com:19806/7f43814a26534bee9446eed24ee06e8c#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts												
 Arena-2tv12k.com:35461/8032022060101/452381/965#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8												
 RTMsport												
-beIN Sports												
-beIN Sports 2												
-beIN Sports 3												
+beIN Sports,P2p://generationnexxxt.com:19806/b47041eda2a54f75a3ae0a9ed775d044												
+beIN Sports 2,P2p://generationnexxxt.com:19806/439c6e2c5ffe4a2bb1cb398706c420e1												
+beIN Sports 3,P2p://generationnexxxt.com:19806/ba6a72d2d73341ebb1b3228b2d868279												
 武术世界												
 先锋乒羽,http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8												
 爱尔达体育-1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
-爱尔达体育-1												
+爱尔达体育-1,P2p://generationnexxxt.com:19806/eecbc72e0237497685357de1aa9c14f6												
 爱尔达体育-1												
 												
 爱尔达体育-2												
 爱尔达体育-2												
 												
-愛爾達體育3台												
+愛爾達體育3台,P2p://generationnexxxt.com:19806/4d837ce7cb3745088458ecba885be86f												
 愛爾達體育3台												
 												
 ELTA體育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8												
@@ -548,7 +548,7 @@ ELEVEN-1,https://pull-l3-cny.douyincdn.com/live/3e38e90ce691617e265de0aeb259543b
 ELEVEN-1												
 												
 ELEVEN-2,https://pull-l3-cny.douyincdn.com/live/c388dbd0b46246b61bbfae51a0a90656.flv?time=1675835765												
-ELEVEN-2												
+ELEVEN-2,P2p://generationnexxxt.com:19806/815fa4dcb73248a393a74d5d5c37e332												
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8												
 FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8												
 FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8												
@@ -567,7 +567,7 @@ PGA TOUR,http://iptv12k.com:35461/live/test167/12345/639.m3u8
 												
 ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8												
 ONE GOLF,http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8												
-WWE,http://iptv12k.com:35461/live/test167/12345/13324.m3u8?WithCaption												
+WWE,http://iptv12k.com:35461/live/test167/12345/13324.m3u8?WithCaption#P2p://generationnexxxt.com:19806/aa6909cc1f654c8fa8e7d9640336022b												
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8												
 PTV Sport,http://golive.yn.lt/live/champions/01.m3u8												
 CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000018504/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018504&livemode=1&stbId=3												
@@ -780,7 +780,7 @@ CLASSICA 古典樂,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7
 BMG Café Music,http://tv.redrainl.site:9500/live.m3u8?c=47												
 												
 $c_startSport-2$c_end												
-NOW SPORTS 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949												
+NOW SPORTS 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949#P2p://generationnexxxt.com:19806/ce44a8ab5e2b47e695484573533cc59b												
 NOW SPORTS 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554948												
 NOW SPORTS 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554947												
 NOW SPORTS 4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554946												
