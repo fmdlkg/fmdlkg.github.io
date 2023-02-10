@@ -3,9 +3,9 @@ AEC-1,http://iptv12k.com:35461/live/test167/12345/4341.m3u8
 AEC-2,http://iptv12k.com:35461/live/test167/12345/709.m3u8												
 AEC-3,http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption												
 AEC-4,https://stream.zeehanzgadget.com/aec												
-AEC-5,https://pull-l3-cny.douyincdn.com/live/9b5eec9c38ac7d3266c2a3472dca2d97.flv?WithCaption												
+AEC-5,http://pull-l3-cny.douyincdn.com/live/8bd06a4a69904bf862cb99411cb53c5a.flv#https://pull-l3-cny.douyincdn.com/live/9b5eec9c38ac7d3266c2a3472dca2d97.flv?WithCaption												
 AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/index.m3u8												
-AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8#http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
+AEC-7,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD#http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8#http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
 AEC-8,P2p://generationnexxxt.com:19806/c0876d3607bb4f0093a15f7b0b844d77#P2p://generationnexxxt.com:19806/7edbdc6f5b694f43b521088b7fb0f44b												
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13373.m3u8?WithCaption												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
@@ -14,7 +14,7 @@ AEC-8,P2p://generationnexxxt.com:19806/c0876d3607bb4f0093a15f7b0b844d77#P2p://ge
 歡喜臺333-5,http://198.16.106.155:8278/Huahee/playlist.m3u8?tid=ME1E3532163635321636&ct=19386&tsum=27a419811a1439ec788312b28b1afb08												
 歡喜臺333-6,https://epg.pw/stream/5f21bda687d0e3e16d689f98e97bce794d1248ba654572b9b3de1adcc2d8aa41.ctv												
 歡喜臺333-7,https://stream.zeehanzgadget.com/huaheedai												
-歡喜臺333-8,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8#http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
+歡喜臺333-8,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD#http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8#http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
 健康养生,https://www.whalenas.com/bestv/index.php?id=jkys8m/8000000												
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8												
 StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8												
@@ -25,7 +25,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 全佳,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8												
 全佳,http://pull-l3-cny.douyincdn.com/live/c8b80aa54cfbadb4d210f490d91890c7.m3u8												
 全佳-2,http://iptv12k.com:35461/live/test167/12345/13598.m3u8?WithCaption												
-全佳-2,http://livestreaming.kozow.com/xiptv.php?id=AstroQuanJiaHD&sid=.flv												
+全佳-2,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroQuanJiaHD#http://livestreaming.kozow.com/xiptv.php?id=AstroQuanJiaHD&sid=.flv												
 爱奇艺,P2p://generationnexxxt.com:19806/9b37d7a894fb4d198591e8c2338d09ef												
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption												
 爱奇艺,https://stream.zeehanzgadget.com/iqiyi?WithCaption												
@@ -127,11 +127,11 @@ NHK Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/in
 NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8												
 NHK Japan,https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8												
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8												
+CCTV-4,http://39.134.136.138:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3?WithCaption#http://39.134.136.138:6610/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3												
 CCTV-13-1,http://39.134.136.138:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3#http://tvmvip110.club/as.php?id=cctv13hd												
 CCTV-13-2,http://39.134.136.138:6610/000000001000/5000000005000001827/index.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8												
 鳳凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top#http://tvmvip110.club/fengh.php?id=2#http://2022.stream-link.org/playlist/phtv_live												
 鳳凰資訊,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top?WithCaption#http://tvmvip110.club/fengh.php?id=1#http://2022.stream-link.org/playlist/phtv_info												
-												
 												
 香港/HK,#genre#												
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8												
