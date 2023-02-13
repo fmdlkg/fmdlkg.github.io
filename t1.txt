@@ -1,4 +1,4 @@
-$c_start马来$c_end												
+$c_start马来/Mal$c_end												
 AEC-1,http://iptv12k.com:35461/live/test167/12345/4341.m3u8												
 AEC-2,http://iptv12k.com:35461/live/test167/12345/709.m3u8												
 AEC-3,http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption												
@@ -9,21 +9,21 @@ AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/inde
 AEC-7,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD												
 AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8												
 AEC-7,http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-AEC-8,P2p://generationnexxxt.com:19806/c0876d3607bb4f0093a15f7b0b844d77#P2p://generationnexxxt.com:19806/7edbdc6f5b694f43b521088b7fb0f44b												
+AEC-8,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD												
 												
 												
 歡喜臺333-1,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
-歡喜臺333-2,P2p://generationnexxxt.com:19806/1660507ff5ab425f998fc71c2da8d3e4												
-歡喜臺333-3,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
+歡喜臺333-2												
 歡喜臺333-3,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
-歡喜臺333-4,P2p://generationnexxxt.com:19806/63de81d6000145377effc2f16f9f10cc												
-歡喜臺333-5,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
-歡喜臺333-6,https://stream.zeehanzgadget.com/huaheedai												
+歡喜臺333-3												
+歡喜臺333-4,https://stream.zeehanzgadget.com/huaheedai												
+歡喜臺333-5,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
+歡喜臺333-6,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
 歡喜臺333-7,https://stream.zeehanzgadget.com/huaheedai												
-歡喜臺333-8,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
-歡喜臺333-8,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
-歡喜臺333-8,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
+歡喜臺333-8												
+												
+												
 												
 												
 												
@@ -61,7 +61,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8?WithCaption												
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=m02000000000010638087&ct=17957&tsum=16035284df542c2d54efaee5e47bc535												
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
-双星-2,P2p://generationnexxxt.com:19806/fa265c27ecd146bc973bd88924dcb69e												
+双星-2,http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
 双星-2,http://198.16.106.155:8278/Shuangxing/playlist.m3u8?tid=MAAA3616515436165154&ct=19386&tsum=43309939fb9a43372f1520f1f8ad6da8												
 双星-2,https://stream.zeehanzgadget.com/shuangxing												
 双星-2,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
@@ -79,7 +79,7 @@ TVB 星河,http://51.79.82.208:16024#https://pull-l3-cny.douyincdn.com/live/4367
 TVB 星河,https://stream.zeehanzgadget.com/tvbxinghe												
 TVB 星河,https://pull-l3-cny.douyincdn.com/live/2fda693d6a8601d41621cd51f8d47858.flv												
 TVB經典,http://iptv12k.com:35461/live/test167/12345/699.m3u8												
-TVB经典,P2p://generationnexxxt.com:19806/3622007cdd6847438ee61c90e33927da												
+TVB经典,http://livestreaming.kozow.com/stream.php?id=TVBClassic&type=m3u8												
 TV2,https://v-t-e-r.github.io/Umbrella/Playlist/Ch/102.m3u8												
 TV2,http://51.79.82.208:16002												
 TV2,P2p://generationnexxxt.com:19806/3907ebcf772640b19c0d010e600f6151												
@@ -133,7 +133,7 @@ CCTV-13-2,http://39.134.136.138:6610/000000001000/5000000005000001827/index.m3u8
 鳳凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top#http://tvmvip110.club/fengh.php?id=2#http://2022.stream-link.org/playlist/phtv_live												
 鳳凰資訊,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top?WithCaption#http://tvmvip110.club/fengh.php?id=1#http://2022.stream-link.org/playlist/phtv_info												
 												
-$c_start香港$c_end												
+$c_start香港/HK$c_end												
 华语电视1,http://38.64.72.148:80/hls/modn/list/4001/chunklist0.m3u8												
 华语电视2,http://38.64.72.148:80/hls/modn/list/4002/chunklist0.m3u8												
 华语电视3,http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8												
@@ -221,7 +221,7 @@ HOY資訊台,https://pull-l3-cny.douyincdn.com/live/6fc06ac7d88252d5b92955797c5f
 无线娱乐,https://pull-l3-cny.douyincdn.com/live/0847b482456ae4665cf8a450f7b0bb04.flv#P2p://generationnexxxt.com:19806/9692662fb070486bb3e0dcf15f62c76c												
 有線娛乐												
 												
-$c_start台湾$c_end												
+$c_start台湾/TW$c_end												
 民視第一台,http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/3e0fbbd26b264e5eac395704e0968995												
 民視台灣台,http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/96c84d14d6d0451d9f785d8a6c341981												
 東森美洲												
@@ -323,7 +323,7 @@ ETTV AMERICA,http://38.64.72.148/hls/modn/list/2015/chunklist0.m3u8
 Taiwan+,P2p://generationnexxxt.com:19806/b3161411403d4797b85995a06d0fdd06												
 												
 												
-$c_start旅遊$c_end												
+$c_start旅遊/Travel$c_end												
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8												
 HTB北海道,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hokkaidonews.m3u8												
 HTB北海道,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8												
@@ -407,7 +407,7 @@ Journey,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist
 												
 												
 												
-$c_start美食-1$c_end												
+$c_start美食/Food-1$c_end												
 亞洲美食AFN,P2p://generationnexxxt.com:19806/b4ae19adb7cb44679a66b7b3b88ae623#http://livestreaming.kozow.com/lemo.php?id=c754ab68-27ca-425f-992a-688dae9c5a3c&type=m3u8												
 亞洲美食AFN,http://iptv12k.com:35461/live/test167/12345/640.m3u8?WithCaption												
 亞洲美食AFN,http://iptv12k.com:35461/live/test167/12345/1229.m3u8?WithCaption												
@@ -430,7 +430,7 @@ $c_start美食-1$c_end
 舌尖上的火鍋												
 												
 												
-$c_start美食-2$c_end												
+$c_start美食/Food-2$c_end												
 Food Network,http://iptv12k.com:35461/live/test167/12345/638.m3u8												
 Food Network,http://iptvtree.net:8080/F11682/82ca5fbd/196454												
 i-Food,https://ft-ifood-roku.amagi.tv/playlist288p.m3u8												
@@ -460,7 +460,7 @@ BBC Food,https://d386m2lmbakvx4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36
 Hell's Kitchen,https://d3216p0n08c2mb.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/HellsKitchen-Canada-prod/playlist.m3u8												
 Kitchen Stories,https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/7198fd46-818d-11eb-908d-533d39655269/0/master.m3u8?uid=%7BPSID%7D&optout=%7BTARGETOPT%7D&country=GB&vendor=samsung&ads%3Aapp_domain=%7BAPP_DOMAIN%7D&ads%3Aapp_name=%7BAPP_NAME%7D&coppa=1&ads%3Atcf=%7BTC_STRING%7D												
 												
-$c_start知识$c_end												
+$c_start知识/Knowledge$c_end												
 梨园频道,http://139.9.188.172:5678/sxg.php?id=ly_4000												
 中國交通,http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146#http://ct.whosayssowhat.top:4022/udp/239.77.1.249:5146												
 中华特产,http://baidu.live.cqccn.com/__cl/cg:live/__c/techan/__op/default/__f//index.m3u8												
@@ -486,7 +486,7 @@ Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p
 这里是中国2,https://cdnv.rt.com/doc-files/filmy/sovremennij-kitaj-mezhdu-gorodom-i/sovremennij-kitaj-mezhdu-gorodom-i_1.mp4												
 												
 												
-$c_start体育$c_end												
+$c_start体育/Sport-1$c_end												
 Assp1-1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918986												
 Assp1-1,http://iptvtree.net:8080/F11682/82ca5fbd/146068												
 Assp2-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918985												
@@ -575,7 +575,7 @@ CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?ch
 CCTV5,http://39.134.136.138:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3												
 CCTV5,http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3												
 												
-$c_start基礎日文$_end												
+$c_start基礎日文/Jap1$_end												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -589,7 +589,7 @@ $c_start基礎日文$_end
 												
 												
 												
-$c_start简易旅遊日文$_end												
+$c_start简易旅遊日文/Jap-2$_end												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8												
@@ -600,7 +600,7 @@ Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start日文易学$_end												
+$c_start日文易学/Jap-3$_end												
 Lesson-01,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8												
 Lesson-02,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8												
 Lesson-03,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8												
@@ -627,7 +627,7 @@ Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start基礎日文$_end												
+$c_start基礎日文/Jap-4$_end												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -639,7 +639,7 @@ $c_start基礎日文$_end
 基礎日文#9-防災,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=335872:5905/a/5/w/a5wse583_l0u5s4c8_h264_1244K.mp4,221184:5905/a/5/w/a5wse583_conhjw8k_h264_664K.mp4,163840:5905/a/5/w/a5wse583_qjj16ejl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/a/5/w/a5wse583_l0u5s4c8_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#10-避難,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=448512:5905/k/o/9/ko9xn774_p6v46vd5_h264_1244K.mp4,275456:5905/k/o/9/ko9xn774_dj67d8xf_h264_664K.mp4,191488:5905/k/o/9/ko9xn774_mz0xv89r_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/o/9/ko9xn774_p6v46vd5_h264_1244K.mp4/chunklist.m3u8												
 												
-$c_start简易旅遊日文$c_end												
+$c_start简易旅遊日文/Jap-5$c_end												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8												
@@ -649,7 +649,7 @@ Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/6/z/x6z92k6m_xtfe3ker_h264_1244K.mp4/chunklist.m3u8												
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8												
 												
-$c_start日文易学-1$c_end												
+$c_start日文易学-1/Jap-6$c_end												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8												
@@ -675,7 +675,7 @@ Lesson-22https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/s/0/8/s08108v1_zvv89794_h264_1244K.mp4/chunklist.m3u8												
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8												
 												
-$c_start日文易学-2$c_end												
+$c_start日文易学-2/Jap-7$c_end												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/0/d/g0dfs57b_r2445j48_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/l/8/gl876c48_sn0hvr34_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/1/0/f10iu9lx_dsu682sj_h264_1244K.mp4/chunklist.m3u8												
@@ -702,7 +702,7 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 												
-$c_start簡明日語$_end												
+$c_start簡明日語/Jap-8$_end												
 #01-春奶奶之家在哪裡？,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4,679936:5905/x/3/l/x3l2e839_gbz2c009_h264_664K.mp4,392192:5905/x/3/l/x3l2e839_uy7jt1og_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4/chunklist.m3u8												
 #02-我叫心心-是學生,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4,678912:5905/p/t/0/pt0swu51_o545yzuq_h264_664K.mp4,392192:5905/p/t/0/pt0swu51_yt02j8m7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4/chunklist.m3u8												
 #03-來自越南,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4,677888:5905/o/o/z/ooz9aw7w_r349v9dx_h264_664K.mp4,391168:5905/o/o/z/ooz9aw7w_oe2sf21z_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4/chunklist.m3u8												
@@ -753,7 +753,7 @@ $c_start簡明日語$_end
 #48-畢業以後-我想在日本工作,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4,677888:5905/e/5/0/e50bkh39_lj51m86c_h264_664K.mp4,391168:5905/e/5/0/e50bkh39_j593q9c7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start職場篇$_end												
+$c_start職場篇/Jap-9$_end												
 #1-表達感謝,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1271808:5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4,678912:5905/k/4/2/k42h8h65_w0242o98_h264_664K.mp4,392192:5905/k/4/2/k42h8h65_gh9542q1_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4/chunklist.m3u8												
 #11-詢問對方姓名的唸法,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4,678912:5905/r/q/b/rqb8773p_x84d79j8_h264_664K.mp4,392192:5905/r/q/b/rqb8773p_e5qg3e8o_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4/chunklist.m3u8												
 #13-接聽打給同事的電話,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4,678912:5905/i/w/7/iw73h5jo_br6l0zs9_h264_664K.mp4,392192:5905/i/w/7/iw73h5jo_o885375w_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4/chunklist.m3u8												
@@ -779,7 +779,7 @@ MTV WMA(臺版),https://epg.pm/stream/876db05f1d00cd5e72f7db4e425cfc723b1ca4d74e
 CLASSICA 古典樂,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&samsung_app_domain=APP_DOMAIN&samsung_app_name=APP_NAME&profileLimit=&profileFloor=&embedPartner=samsung-tvplus												
 BMG Café Music,http://tv.redrainl.site:9500/live.m3u8?c=47												
 												
-$c_startSport-2$c_end												
+$c_start体育/Sport-2$c_end												
 NOW SPORTS 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949#P2p://generationnexxxt.com:19806/ce44a8ab5e2b47e695484573533cc59b												
 NOW SPORTS 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554948												
 NOW SPORTS 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554947												
@@ -792,7 +792,7 @@ NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818
 												
 												
 												
-$c_startWorld News$c-end												
+$c_startWorld News$c_end												
 CNN,http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6												
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8												
 CNBCNews,http://disfruta.net:80/erodriguez/jqD9QDy9VL/649												
