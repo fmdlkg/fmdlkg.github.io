@@ -430,7 +430,7 @@ Journey,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist
 舌尖上的火鍋												
 												
 												
-美食-2,#genre#												
+美食/Food-2,#genre#												
 Food Network,http://iptv12k.com:35461/live/test167/12345/638.m3u8												
 Food Network,http://iptvtree.net:8080/F11682/82ca5fbd/196454												
 i-Food,https://ft-ifood-roku.amagi.tv/playlist288p.m3u8												
@@ -575,7 +575,7 @@ CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?ch
 CCTV5,http://39.134.136.138:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3												
 CCTV5,http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3												
 												
-基礎日文/Jap1,#genre#												
+基礎日文/Jap-1,#genre#												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -589,7 +589,7 @@ CCTV5,http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?cha
 												
 												
 												
-简易旅遊日文/Jap2,#genre#												
+简易旅遊日文/Jap-2,#genre#												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8												
@@ -600,7 +600,7 @@ Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-日文易学/Jap3,#genre#												
+日文易学/Jap-3,#genre#												
 Lesson-01,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8												
 Lesson-02,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8												
 Lesson-03,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8												
@@ -627,7 +627,7 @@ Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-基礎日文/Jap4,#genre#												
+基礎日文/Jap-4,#genre#												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -639,7 +639,7 @@ Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 基礎日文#9-防災,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=335872:5905/a/5/w/a5wse583_l0u5s4c8_h264_1244K.mp4,221184:5905/a/5/w/a5wse583_conhjw8k_h264_664K.mp4,163840:5905/a/5/w/a5wse583_qjj16ejl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/a/5/w/a5wse583_l0u5s4c8_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#10-避難,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=448512:5905/k/o/9/ko9xn774_p6v46vd5_h264_1244K.mp4,275456:5905/k/o/9/ko9xn774_dj67d8xf_h264_664K.mp4,191488:5905/k/o/9/ko9xn774_mz0xv89r_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/o/9/ko9xn774_p6v46vd5_h264_1244K.mp4/chunklist.m3u8												
 												
-简易旅遊日文/Jap5,#genre#												
+简易旅遊日文/Jap-5,#genre#												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8												
@@ -649,7 +649,7 @@ Lesson-6,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/6/z/x6z92k6m_xtfe3ker_h264_1244K.mp4/chunklist.m3u8												
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8												
 												
-日文易学-1/Jap6,#genre#												
+日文易学-1/Jap-6,#genre#												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8												
@@ -675,7 +675,7 @@ Lesson-22https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/s/0/8/s08108v1_zvv89794_h264_1244K.mp4/chunklist.m3u8												
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8												
 												
-日文易学-2/Jap7,#genre#												
+日文易学-2/Jap-7,#genre#												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/0/d/g0dfs57b_r2445j48_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/l/8/gl876c48_sn0hvr34_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/f/1/0/f10iu9lx_dsu682sj_h264_1244K.mp4/chunklist.m3u8												
@@ -702,7 +702,7 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 												
-簡明日語/Jap8,#genre#												
+簡明日語/Jap-8,#genre#												
 #01-春奶奶之家在哪裡？,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4,679936:5905/x/3/l/x3l2e839_gbz2c009_h264_664K.mp4,392192:5905/x/3/l/x3l2e839_uy7jt1og_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4/chunklist.m3u8												
 #02-我叫心心-是學生,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4,678912:5905/p/t/0/pt0swu51_o545yzuq_h264_664K.mp4,392192:5905/p/t/0/pt0swu51_yt02j8m7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4/chunklist.m3u8												
 #03-來自越南,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4,677888:5905/o/o/z/ooz9aw7w_r349v9dx_h264_664K.mp4,391168:5905/o/o/z/ooz9aw7w_oe2sf21z_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4/chunklist.m3u8												
@@ -753,7 +753,7 @@ Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 #48-畢業以後-我想在日本工作,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4,677888:5905/e/5/0/e50bkh39_lj51m86c_h264_664K.mp4,391168:5905/e/5/0/e50bkh39_j593q9c7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-職場篇/Jap9,#genre#												
+職場篇/Jap-9,#genre#												
 #1-表達感謝,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1271808:5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4,678912:5905/k/4/2/k42h8h65_w0242o98_h264_664K.mp4,392192:5905/k/4/2/k42h8h65_gh9542q1_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4/chunklist.m3u8												
 #11-詢問對方姓名的唸法,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4,678912:5905/r/q/b/rqb8773p_x84d79j8_h264_664K.mp4,392192:5905/r/q/b/rqb8773p_e5qg3e8o_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4/chunklist.m3u8												
 #13-接聽打給同事的電話,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4,678912:5905/i/w/7/iw73h5jo_br6l0zs9_h264_664K.mp4,392192:5905/i/w/7/iw73h5jo_o885375w_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4/chunklist.m3u8												
