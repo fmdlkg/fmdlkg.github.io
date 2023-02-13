@@ -9,21 +9,21 @@ AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/inde
 AEC-7,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD												
 AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8												
 AEC-7,http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-AEC-8,P2p://generationnexxxt.com:19806/c0876d3607bb4f0093a15f7b0b844d77#P2p://generationnexxxt.com:19806/7edbdc6f5b694f43b521088b7fb0f44b												
+AEC-8												
 												
 												
 歡喜臺333-1,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
-歡喜臺333-2,P2p://generationnexxxt.com:19806/1660507ff5ab425f998fc71c2da8d3e4												
-歡喜臺333-3,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
+歡喜臺333-2												
 歡喜臺333-3,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
-歡喜臺333-4,P2p://generationnexxxt.com:19806/63de81d6000145377effc2f16f9f10cc												
-歡喜臺333-5,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
-歡喜臺333-6,https://stream.zeehanzgadget.com/huaheedai												
+歡喜臺333-3												
+歡喜臺333-4,https://stream.zeehanzgadget.com/huaheedai												
+歡喜臺333-5,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
+歡喜臺333-6,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
 歡喜臺333-7,https://stream.zeehanzgadget.com/huaheedai												
-歡喜臺333-8,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
-歡喜臺333-8,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
-歡喜臺333-8,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
+歡喜臺333-8												
+												
+												
 												
 												
 												
