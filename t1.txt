@@ -29,8 +29,8 @@ AEC-8,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD
 												
 健康养生,https://www.whalenas.com/bestv/index.php?id=jkys8m/8000000												
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8												
-StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8												
-StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8												
+												
+												
 全佳,http://iptv12k.com:35461/live/test167/12345/710.m3u8?WithCaption												
 全佳,https://stream.zeehanzgadget.com/quanjia												
 全佳,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8												
@@ -68,7 +68,7 @@ StingrayMusic70,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1
 双星-2,http://iptv12k.com:35461/live/test167/12345/706.m3u8												
 双星-2,https://stream.zeehanzgadget.com/shuangxing												
 金庸武侠系列,http://txtest-xp2p.p2p.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1.xs												
-天映電影,P2p://generationnexxxt.com:19806/79e061c2c25f4abaaeae65dd4a715298												
+天映電影,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941618#P2p://generationnexxxt.com:19806/79e061c2c25f4abaaeae65dd4a715298												
 天映電影,http://198.16.106.155:8278/Celestial/playlist.m3u8?tid=MB7B2207821822078218&ct=19386&tsum=1b79d96b2a14fbbc5b41ef983f26a62a												
 天映電影,http://51.79.82.208:16024												
 小太阳,https://pull-l3-cny.douyincdn.com/live/5a866bdc13a049ce57a9c2e08d6c1bea.flv												
@@ -111,7 +111,7 @@ Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption
 Bloomberg,http://tv.redrainl.site:9500/live.m3u8?c=14												
 Bloomberg,https://www.bloomberg.com/media-manifest/streams/asia-event.m3u8												
 Bloomberg,http://210.210.155.37/dr9445/h/h03/index.m3u8												
-Bloomberg,P2p://generationnexxxt.com:19806/3efe38a13e094f3ba6d73dc1db7b9948												
+Bloomberg,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692												
 HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8												
 HKIBC,http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/chunklist_w878126648.m3u8												
 ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38												
@@ -120,15 +120,15 @@ ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8												
 ChannelNewsAsia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8												
 C31 Melbourne,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8												
-ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8												
+ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614												
 ArirangTV,http://amdlive-ch01.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8												
 NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'												
-NHK Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd												
+NHK Japan,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8												
 NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8												
 NHK Japan,https://kodibd.github.io/IP/news/JP_NHKW/nhkw.m3u8												
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8												
 CCTV-4,http://39.134.136.138:6610/000000001000/1000000002000031664/index.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=3?WithCaption#http://39.134.136.138:6610/000000001000/5000000005000030093/index.m3u8?channel-id=bestzb&Contentid=5000000005000030093&livemode=1&stbId=3												
-CCTV-13-1,http://39.134.136.138:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3#http://tvmvip110.club/as.php?id=cctv13hd												
+CCTV-13-1,http://39.134.136.138:6610/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3#http://tvmvip110.club/as.php?id=cctv13hd#http://112.19.214.90:8883/tsfile/live/0013_1.m3u8												
 CCTV-13-2,http://39.134.136.138:6610/000000001000/5000000005000001827/index.m3u8?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=3#http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8												
 鳳凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8?blog.ntnas.top#http://tvmvip110.club/fengh.php?id=2#http://2022.stream-link.org/playlist/phtv_live												
 鳳凰資訊,https://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top?WithCaption#http://tvmvip110.club/fengh.php?id=1#http://2022.stream-link.org/playlist/phtv_info												
@@ -155,13 +155,13 @@ $c_start香港/HK$c_end
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8?blog.ntnas.top												
 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix												
 凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8												
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8												
+凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8												
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8												
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8												
 												
 凤凰香港,http://tvmvip110.club/fengh.php?id=3												
 凤凰香港,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402												
-												
+凤凰香港,http://120.84.96.89:808/hls/81/index.m3u8												
 無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=0												
 無綫新聞台,http://live.cooltv.top/tv/tvb.php?id=1												
 無綫新聞台,http://www.nettvpro.live/hls/tvb.php?id=2												
@@ -393,7 +393,7 @@ Love Nature,http://8.218.60.13:8080/channel.m3u8?fid=4gtv-live208&hd=720
 舒城文化旅游,http://220.180.24.62:1935/live/live1/playlist.m3u8?zanhd												
 Travel旅游頻道,http://iptv12k.com:35461/live/test167/12345/635.m3u8												
 TLC旅遊生活,http://iptv12k.com:35461/live/test167/12345/639.m3u8												
-Travel Channel,P2p://generationnexxxt.com:19806/2b7c66c71542428e845679162a8b1882												
+Travel Channel,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941662#P2p://generationnexxxt.com:19806/2b7c66c71542428e845679162a8b1882												
 Travel Channel,http://iptv12k.com:35461/live/test167/12345/635.m3u8												
 Go Traveler,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgotraveler/CDN/playlist.m3u8?WithCaption												
 GoodTV 爱旅行台,https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8												
@@ -431,7 +431,7 @@ $c_start美食/Food-1$c_end
 												
 												
 $c_start美食/Food-2$c_end												
-Food Network,http://iptv12k.com:35461/live/test167/12345/638.m3u8												
+Food Network,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208694#http://iptv12k.com:35461/live/test167/12345/638.m3u8												
 Food Network,http://iptvtree.net:8080/F11682/82ca5fbd/196454												
 i-Food,https://ft-ifood-roku.amagi.tv/playlist288p.m3u8												
 QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8												
@@ -514,9 +514,9 @@ assp5,http://iptv12k.com:35461/live/test167/12345/13684.m3u8?WithCaption#http://
 Arena-1,P2p://generationnexxxt.com:19806/7f43814a26534bee9446eed24ee06e8c#http://server.sibfungold.info:8080/live/eurotv-iptveu/bxdTtmPF1C/54189.ts												
 Arena-2tv12k.com:35461/8032022060101/452381/965#http://syok.tv:2082/1122/1122/123#https://m3u-editor.com:443/live/sirpn1tr/wcqg89yv/494142711.m3u8												
 RTMsport												
-beIN Sports,P2p://generationnexxxt.com:19806/b47041eda2a54f75a3ae0a9ed775d044												
-beIN Sports 2,P2p://generationnexxxt.com:19806/439c6e2c5ffe4a2bb1cb398706c420e1												
-beIN Sports 3,P2p://generationnexxxt.com:19806/ba6a72d2d73341ebb1b3228b2d868279												
+beIN Sports 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941569#P2p://generationnexxxt.com:19806/b47041eda2a54f75a3ae0a9ed775d044												
+beIN Sports 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941568#P2p://generationnexxxt.com:19806/439c6e2c5ffe4a2bb1cb398706c420e1												
+beIN Sports 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941567#P2p://generationnexxxt.com:19806/ba6a72d2d73341ebb1b3228b2d868279												
 武术世界												
 先锋乒羽,http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8												
 爱尔达体育-1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
@@ -541,7 +541,7 @@ ELTA體育3http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w92691395
 纬来体育台-1,http://123.51.230.108:18509/.m3u8												
 纬来体育台-1												
 纬来体育台-2												
-美国籃球-NBA1,http://194.40.240.183:25461/3397537295/4538699784/55195												
+美国籃球-NBA1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941562#http://194.40.240.183:25461/3397537295/4538699784/55195												
 美国籃球-NBA2,http://194.40.240.183:25461/3397537295/4538699784/53403												
 												
 ELEVEN-1,https://pull-l3-cny.douyincdn.com/live/3e38e90ce691617e265de0aeb259543b.flv?time=1675835699												
@@ -550,8 +550,8 @@ ELEVEN-1
 ELEVEN-2,https://pull-l3-cny.douyincdn.com/live/c388dbd0b46246b61bbfae51a0a90656.flv?time=1675835765												
 ELEVEN-2,P2p://generationnexxxt.com:19806/815fa4dcb73248a393a74d5d5c37e332												
 智林体育台,http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8												
-FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8												
-FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8												
+FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32304												
+FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32305												
 FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8												
 博斯运动1台,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus												
 博斯运动2台												
@@ -767,7 +767,7 @@ $c_start職場篇/Jap-9$_end
 												
 												
 												
-$c_start演唱会$c_end												
+$c_start音乐/Music$c_end												
 张学友演唱会-香港,https://vd3.bdstatic.com/mda-ndnc5rzvijh6p5ir/720p/h264_delogo/1650703666863593607/mda-ndnc5rzvijh6p5ir.mp4												
 张学友台北演唱会(上),https://vd2.bdstatic.com/mda-nefnujcbfkms8an4/sc/cae_h264/1652722917345023899/mda-nefnujcbfkms8an4.mp4												
 张学友台北演唱会(下),https://vd2.bdstatic.com/mda-neahz264srugma4u/sc/cae_h264/1652328113973829469/mda-neahz264srugma4u.mp4												
@@ -778,6 +778,12 @@ MTV WMA(臺版),https://epg.pm/stream/876db05f1d00cd5e72f7db4e425cfc723b1ca4d74e
 鬥魚音樂華語點歌台,http://epg.112114.xyz/douyu/3186217												
 CLASSICA 古典樂,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&samsung_app_domain=APP_DOMAIN&samsung_app_name=APP_NAME&profileLimit=&profileFloor=&embedPartner=samsung-tvplus												
 BMG Café Music,http://tv.redrainl.site:9500/live.m3u8?c=47												
+StingrayMusic70-1,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8												
+StingrayMusic70-2,https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8												
+StingrayMusic70-3,https://ott-linear-channels.stingray.com/hls/stirr/128.m3u8												
+StingrayMusic70-4,https://ott-linear-channels.stingray.com/hls/stirr/101.m3u8												
+												
+												
 												
 $c_start体育/Sport-2$c_end												
 NOW SPORTS 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=554949#P2p://generationnexxxt.com:19806/ce44a8ab5e2b47e695484573533cc59b												
@@ -793,20 +799,25 @@ NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818
 												
 												
 $c_startWorld News$c_end												
-CNN,http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#P2p://generationnexxxt.com:19806/c58b8b3ceaf447138bd486f0263be6f6												
+CNN,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284												
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8												
-CNBCNews,http://disfruta.net:80/erodriguez/jqD9QDy9VL/649												
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8												
-SkyNews,P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8												
-BBC World News,P2p://generationnexxxt.com:19806/63de82de0005ce547f03cb5a736a7ea9												
+CNBC News,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689#http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680												
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941685												
+SkyNews,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104050#P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8												
+BBC World News,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941693#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104180#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137												
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8												
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8												
 ABC News-2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8												
 Netv-Toronto,http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8												
 AL JAZEERA,https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8												
-Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#P2p://generationnexxxt.com:19806/3efe38a13e094f3ba6d73dc1db7b9948												
+Bloomberg,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692#http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671												
 ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38												
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8												
-NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'												
-ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8												
-ACNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd												
+NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611												
+NHK World Japan,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941610												
+ArirangTV,http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614												
+ACNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941688												
+CBS News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68035												
+Cheddar News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208676												
+EuroNews,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941686												
+DW English,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687												
