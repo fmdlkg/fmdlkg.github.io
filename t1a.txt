@@ -9,19 +9,19 @@ AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/inde
 AEC-7,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD												
 AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8												
 AEC-7,http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-AEC-8,mitv://ns2.hellotvvod.com:9906/1db285f39ad540908c559d8ee521ba13.ts#mitv://ns2.hellotvvod.com:9906/c87f5b860c294779a349720673cdfa7f.ts												
+AEC-8,http://pull-l3-cny.douyincdn.com/live/b16862fce150a2fc6e54ae1f10f3dc06.flv												
 												
 												
-歡喜臺333-1,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
+歡喜臺333-1,http://pull-l3-cny.douyincdn.com/live/97721220edf5116dad5914861429bd19.flv												
 歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
-歡喜臺333-2												
+歡喜臺333-2,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
 歡喜臺333-3,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
 歡喜臺333-3												
 歡喜臺333-4,https://stream.zeehanzgadget.com/huaheedai												
 歡喜臺333-5,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
 歡喜臺333-6,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
 歡喜臺333-7,https://stream.zeehanzgadget.com/huaheedai												
-歡喜臺333-8												
+歡喜臺333-8,http://pull-l3-cny.douyincdn.com/live/97721220edf5116dad5914861429bd19.flv												
 												
 												
 												
@@ -55,7 +55,7 @@ AEC-8,mitv://ns2.hellotvvod.com:9906/1db285f39ad540908c559d8ee521ba13.ts#mitv://
 华丽-2,http://198.16.64.10:8278/Wlt/playlist.m3u8?tid=MC9C7523788875237888&ct=19225&tsum=fc74aa160d3ca61369c2e5f3ae79ee8e												
 华丽-2,http://23.237.10.66:16410?WithCaption												
 华丽-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402												
-双星,https://pull-l3-cny.douyincdn.com/live/064c1e2da5788092aab6b909338015a7.flv?WithCaption												
+双星,http://pull-l3-cny.douyincdn.com/live/77261ed7a64635f2595c4ef5abe6a926.flv												
 双星,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/Shuangxing/playlist.m3u8												
 双星,http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
 双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8?WithCaption												
@@ -302,7 +302,7 @@ TVBS新聞,https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.
 公視												
 												
 公視3,http://www.336699.live:1935/blockfour/4gtv-4gtv042.stream/playlist.m3u8												
-												
+公視3,P2p://generationnexxxt.com:19806/82e4f9b5f19a4996890fb7c3533afe8d												
 公視台語台,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4												
 公視台語台												
 												
@@ -336,7 +336,7 @@ HOY TV,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 HOY TV,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8												
 												
 樂視旅遊攻略,http://aliyuncocsouth.inter.iqiyi.com/tslive/c57_lb_206_600_t10/c57_lb_206_600_t10.m3u8												
-爱尔达娛樂,https://pull-l3-cny.douyincdn.com/live/fa5c202885ccd8a76f1f504104896f24.flv												
+爱尔达娛樂												
 爱尔达娛樂,http://www.336699.live:1935/blockfour/4gtv-4gtv070.stream/playlist.m3u8												
 												
 愛爾達生活旅遊,http://www.336699.live:1935/blocksix/4gtv-live120.stream/chunklist.m3u8?WithCaption												
@@ -359,14 +359,14 @@ ET Today,P2p://generationnexxxt.com:19806/e85b643a603f4433b894d724aa267f86
 CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8												
 Disvovery Asia,http://iptv12k.com:35461/live/test167/12345/628.m3u8												
 Disvovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715												
-緯來日本,https://pull-l3-cny.douyincdn.com/live/951a2374adbff33bcdca32dfd8920161.flv												
-緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8												
+緯來日本,rtmp://119.81.124.89/sat/tv771?WithCaption												
 緯來日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption												
+緯來日本,rtmp://119.81.124.89/sat/tv771?WithCaption												
 緯來日本												
 												
-緯來育乐,https://pull-l3-cny.douyincdn.com/live/89ddabe62c6c71933eeedeaeae4c2173.flv												
+緯來育乐												
 龙华日韩,http://www.336699.live:1935/blockfour/litv-longturn11.stream/playlist.m3u8												
-龙华日韩,https://pull-l3-cny.douyincdn.com/live/83d69b0816afd741408caeadcb334001.flv												
+龙华日韩												
 国兴卫视												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/playlist.m3u8												
 靖天日本台,http://www.336699.live:1935/blockfour/4gtv-4gtv047.stream/chunklist_w1374175519.m3u8												
@@ -472,7 +472,7 @@ HGTV,P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9
 Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8												
 Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f												
 宠物,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8												
-宠物Pet Club TV,https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8												
+Pet Club TV,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8#https://broadcast.blivenyc.com/speed/broadcast/29/desktop-playlist.m3u8												
 Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138												
 生命脉动,http://hls.cntv.myhwcdn.cn/asp/hls/850/0303000a/3/default/c481b5826ffc4e99a92e01704c862dbc/850.m3u8												
 飞碟之谜01,https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8												
@@ -519,16 +519,16 @@ beIN Sports 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extensi
 beIN Sports 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941567#P2p://generationnexxxt.com:19806/ba6a72d2d73341ebb1b3228b2d868279												
 武术世界												
 先锋乒羽,http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8												
-爱尔达体育-1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
+爱尔达体育-1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8												
 爱尔达体育-1,P2p://generationnexxxt.com:19806/eecbc72e0237497685357de1aa9c14f6												
-爱尔达体育-1												
+爱尔达体育-1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
 												
 爱尔达体育-2,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab												
-爱尔达体育-2												
-												
+爱尔达体育-2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8												
+爱尔达体育-2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8												
+愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8?WithCaption												
+愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8												
 愛爾達體育3台,P2p://generationnexxxt.com:19806/4d837ce7cb3745088458ecba885be86f												
-愛爾達體育3台												
-												
 ELTA體育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8												
 ELTA體育1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
 												
@@ -537,13 +537,13 @@ ELTA體育2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
 												
 ELTA體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8												
 ELTA體育3http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8												
-												
 纬来体育台-1,http://123.51.230.108:18509/.m3u8												
-纬来体育台-1												
-纬来体育台-2												
-美国籃球-NBA1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941562#http://194.40.240.183:25461/3397537295/4538699784/55195												
-美国籃球-NBA2,http://194.40.240.183:25461/3397537295/4538699784/53403												
-												
+NBA-1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941562#http://194.40.240.183:25461/3397537295/4538699784/55195												
+NBA-2,http://194.40.240.183:25461/3397537295/4538699784/53403												
+NBA-3,http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2051												
+NBA-4,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446												
+NBA-5,,http://zyniptv.com:8080/fileX.Tv/LbuamgD4wu2N/132296												
+NBA-6												
 ELEVEN-1,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=m43df9270caf7&ct=18335&tsum=3bcc02e810e7073b86bb40d392e95f23												
 ELEVEN-1,https://pull-l3-cny.douyincdn.com/live/3e38e90ce691617e265de0aeb259543b.flv?time=1675835699												
 												
@@ -553,14 +553,14 @@ ELEVEN-2,P2p://generationnexxxt.com:19806/815fa4dcb73248a393a74d5d5c37e332
 FOXSport1,http://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32304												
 FOXSport2,http://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32305												
 FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8												
-博斯运动1台,http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus												
+博斯运动1台,http://www.336699.live:1935/blockfour/litv-longturn07.stream/playlist.m3u8#http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus												
 博斯运动2台												
-博斯网球												
-博斯網球												
-Fox Golf,https://pull-l3-cny.douyincdn.com/live/59041578136043539926d7eb8f776be7.flv												
-Fox Golf2,https://pull-l3-cny.douyincdn.com/live/eeccf316dc042efadba173f6b26936f6.flv												
-NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818726a6c4c.flv												
-有線體育台,https://pull-l3-cny.douyincdn.com/live/bb01830bbd2bbe0e5d97a33243d39ab1.flv?time=1675834787												
+博斯無限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8												
+博斯網球台,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8												
+Fox Gol-1f,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8												
+Fox Golf2												
+												
+												
 PGA TOUR												
 PGA TOUR,http://iptv12k.com:35461/live/test167/12345/651.m3u8?WithCaption												
 PGA TOUR,http://iptv12k.com:35461/live/test167/12345/639.m3u8												
