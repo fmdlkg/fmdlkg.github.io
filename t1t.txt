@@ -1,16 +1,16 @@
 Thailand-1,#genre#
-CNN,http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284
+CNN,P2p://generationnexxxt.com:19806/fd411706eeba4cd89f853e57069e4eb6#http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
-CNBCNews,http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680
-Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271
+CNBCNews,P2p://generationnexxxt.com:19806/4af8eba673e04c688cc9a6169f7fd5ae#http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680
+Fox News,https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81808
 SkyNews,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104050#P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-BBC World News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104180#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137
+BBC World News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104180#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81805
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8
 ABC News-2,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
 Netv-Toronto,http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8
-AL JAZEERA,https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-Bloomberg,http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671
+AL JAZEERA,P2p://generationnexxxt.com:19806/6768f2ecf36246b8b3a2a6ba4c6c6c8f#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81966#https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+Bloomberg,P2p://generationnexxxt.com:19806/bb0ebd9e97cc4b0db0106ae49163c0b7#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81968#http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671
 ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8'
@@ -41,7 +41,7 @@ MCOT 30,https://tc-live1.sanook.com/live/22302_ch9.m3u8
 MEDIA NEWS TV,https://live1.thaitvstream.com/play/medianews/index.m3u8
 MOUNCHON TV,https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 NBT Bangkok,http://live.prd.go.th:1935/live/ch1_L.sdp/chunklist.m3u8
-Love Nature,P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f#http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
+Love Nature,P2p://generationnexxxt.com:19806/64650fd02605421a8497db74d4f448f1#http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#http://w.nasvpn.xyz:8080/live/saya/saya/3214.m3u8
 NBT WORLD,https://thainews.prd.go.th/lv/live/ch1_L_L.sdp/playlist.m3u8?blog.ntnas.top
 News1,http://news1.live14.com/stream/news1_hi.m3u8
 Thai PBS-3,https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8#https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8#http://thaipbs-live.cdn.byteark.com/live/playlist_480p/index.m3u8
@@ -62,7 +62,11 @@ ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
 Thailand-2,#genre#
+Channel 3,P2p://generationnexxxt.com:19806/ee4e6db66c85443e97953ae49ba0ab44
+Channel-5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 Channel 5,P2p://generationnexxxt.com:19806/a4b9e6c582b04f5686a551aad7e45601
+Channel 7,P2p://generationnexxxt.com:19806/70f1ea84ed1a4198afc35eab09e96726
+Channel 8,P2p://generationnexxxt.com:19806/d3d000ae9fc9425f935947270fd948f7
 NBT,P2p://generationnexxxt.com:19806/0f9c2bb6f77a4cac8a21cd94e505d797
 TNN 16,P2p://generationnexxxt.com:19806/7700da87efe845709ac05f51cbebce86
 JKN 18,P2p://generationnexxxt.com:19806/0fc6ab57fd98419d8e7d3bf770cd5280
@@ -71,14 +75,12 @@ Nation TV,P2p://generationnexxxt.com:19806/90a5c0840a60404b88c8b7be84c81667
 Workpoint TV,P2p://generationnexxxt.com:19806/1583e9528c634baaaf921051eb99c2ac
 true4U,P2p://generationnexxxt.com:19806/b89939ccd7424e46b34c344b6b95fa43
 GMM 25,P2p://generationnexxxt.com:19806/add18cbef3914cb7a5d9baa1370550ab
-Channel 8,P2p://generationnexxxt.com:19806/d3d000ae9fc9425f935947270fd948f7
+Top News,P2p://generationnexxxt.com:19806/1f992aeb9fa845b9bdc291e1e9097ad7
 Mono 29,P2p://generationnexxxt.com:19806/9a832197aeff4651b3fde2504b2c2a18
 MCOT,P2p://generationnexxxt.com:19806/ff26591db3dd4388a8929f3690194234
 ONE,P2p://generationnexxxt.com:19806/02c687819f1b4c6c8fbf73c807fbde23
 Thairath TV,P2p://generationnexxxt.com:19806/5fb2764f36614e7383980d0cb48d6646
-Channel 3,P2p://generationnexxxt.com:19806/ee4e6db66c85443e97953ae49ba0ab44
 Amarin TV,P2p://generationnexxxt.com:19806/f44341fb70cc4628824fc6642a505359
-Channel 7,P2p://generationnexxxt.com:19806/70f1ea84ed1a4198afc35eab09e96726
 PPTV,P2p://generationnexxxt.com:19806/ec5332d7587b46dfa6999c3da50ebb09
 Boomerang,P2p://generationnexxxt.com:19806/01d4734cc60344ec9fa741972ee6197b
 Thai Parliament TV,P2p://generationnexxxt.com:19806/6588482fb6f64cf987c5bc8544ab44bb
@@ -87,78 +89,4 @@ News 1,P2p://generationnexxxt.com:19806/574542a3d43d4a18aa96cabb013edd20
 Channel 4050,P2p://generationnexxxt.com:19806/5f192072a57849f39898425dd5b17f78
 TVB Thai,P2p://generationnexxxt.com:19806/0846c9d8cc1643eeba091806afd4bbe6
 Bluesky,P2p://generationnexxxt.com:19806/9f9338367afd46d18c47a02386e5c71c
-Top News,P2p://generationnexxxt.com:19806/1f992aeb9fa845b9bdc291e1e9097ad7
-
-Singapore,#genre#
-ASTRO SUPERSPORTS 1 4K,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1016544
-NOW SPORTS 4K 616,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032489
-HBO,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941648
-HBO Hits,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941647
-HBO Family,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941646
-HBO Signature,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941645
-Cinemax,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941659
-卫视电影台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941625
-卫视中文台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941624
-天映电影,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941618
-天映经典,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941639
-HUB都会,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941632
-HUB娱家,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941634
-国家地理频道,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941665
-国家地理野生频道,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941664
-BBCEarth,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941667
-BBCLifestyle,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941668
-History,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941661
-AXN,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941660
-WarnerTV,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941652
-CI,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941666
-Lifetime,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941669
-Paramount Network,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941654
-ROCK ENTERTAINMENT,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941643
-TravelXP,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941662
-HITS,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941578
-HITS MOVIES,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941577
-CINEMAWORLD,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941658
-Animax,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941676
-Nickelodeon,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941671
-NickJr.,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941670
-CBeebies,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941672
-CN卡通频道,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941673
-Boomerang,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941674
-Dreamworks,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941656
-NOW紫金国际台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941630
-BEIN SPORTS,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941569
-BEIN SPORTS 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941568
-BEIN SPORTS 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941567
-Hub Sports 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941573
-Hub Sports 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941572
-SPO TV,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941564
-SPO TV2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941563
-NBA TV,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941562
-GEM,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941608
-KBS World,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941604
-ONE,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941601
-tvN,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941623
-CNN,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690
-BBC World News,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941693
-CNBC,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689
-Bloomberg,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692
-NHK,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611
-NHK World Japan,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941610
-arirang Korea,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614
-Sky News,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684
-Fox News,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941685
-EuroNews,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941686
-DW English,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687
-CNA,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941688
-HUB PREMIER 1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032529
-HUB PREMIER 2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032528
-HUB PREMIER 3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032527
-HUB PREMIER 4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032526
-HUB PREMIER 5,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032525
-HUB PREMIER 6,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032524
-HUB PREMIER 7,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032523
-HUB PREMIER 8,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032522
-HUB PREMIER 9,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032521
-HUB PREMIER 10,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032520
-HUB PREMIER 11,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=1032519
 
