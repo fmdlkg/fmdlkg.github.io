@@ -26,12 +26,13 @@ ASTV News1,http://news1.live14.com/stream/news1.m3u8#http://news1.live14.com/str
 ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-NBA,http://194.40.240.183:25461/3397537295/4538699784/55195#http://194.40.240.183:25461/3397537295/4538699784/53403
-Assp1-1,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918986
-Assp2-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918985
-Assp3-3,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918984
-Assp4-4,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918983
-Assp5-5,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918982
+NBA,http://nerdsvpn.nl:8080/kimberlymitchellthompson/kerikim1023/323446
+Assp1-1,http://iptvtree.net:8080/F11682/82ca5fbd/146068
+Assp2-2,http://iptvtree.net:8080/F11682/82ca5fbd/157556
+Assp3-3,http://iptvtree.net:8080/F11682/82ca5fbd/157557
+Assp4-4,http://iptvtree.net:8080/F11682/82ca5fbd/157558
+Assp5-5,http://iptv12k.com:35461/live/test167/12345/13683.m3u8?WithCaption
+http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=918982
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f5188fa0e.m3u8?WithCaption
 PetClub,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
 CCM,P2p://generationnexxxt.com:19806/517d359aed1646c1b3a2d4ac3dcdaf23#http://iptv12k.com:35461/live/test167/12345/13358.m3u8
