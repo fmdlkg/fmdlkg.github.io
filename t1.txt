@@ -9,17 +9,17 @@ AEC-6,http://z3.ubtvfans.com/live/rx3/2745/8c2c26f0235f72c082843c6355122571/inde
 AEC-7,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroAECHD												
 AEC-7,http://livestreaming.kozow.com/stream.php?id=Aec&type=m3u8												
 AEC-7,http://livestreaming.kozow.com/xiptv.php?id=AstroAECHD&sid=.flv												
-AEC-8,P2p://generationnexxxt.com:19806/08667bce4ab34770a3bbc53ecc49d7e7#http://pull-l3-cny.douyincdn.com/live/8bd06a4a69904bf862cb99411cb53c5a.flv												
-												
+AEC-8,http://pull-l3-cny.douyincdn.com/live/b93c593595aaf1b17614fcaecc44ed17.flv												
+AEC-9,http://livestreaming.kozow.com/usaiptv.php?id=AstroAECHD&conn=mls												
 												
 歡喜臺333-1,P2p://generationnexxxt.com:19806/498553fa9c3a493589df34c5f092339e												
-歡喜臺333-2,http://iptv12k.com:35461/live/test167/12345/707.m3u8												
+歡喜臺333-2,http://livestreaming.kozow.com/usaiptv.php?id=AstroHuaHeeDaiHD&conn=mls#http://iptv12k.com:35461/live/test167/12345/707.m3u8												
 歡喜臺333-2,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroHuaHeeDaiHD												
 歡喜臺333-3,P2p://generationnexxxt.com:19806/97062c8d592840c096fc794818bfeaa6												
 歡喜臺333-3,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
 歡喜臺333-4,https://stream.zeehanzgadget.com/huaheedai												
 歡喜臺333-5,http://livestreaming.kozow.com/stream.php?id=HuaHee&type=m3u8												
-歡喜臺333-6,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
+歡喜臺333-6,http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8#http://livestreaming.kozow.com/stream.php?id=Huahee_backup&type=m3u8												
 歡喜臺333-7,https://stream.zeehanzgadget.com/huaheedai												
 歡喜臺333-8,http://pull-l3-cny.douyincdn.com/live/97721220edf5116dad5914861429bd19.flv												
 												
@@ -33,9 +33,9 @@ AEC-8,P2p://generationnexxxt.com:19806/08667bce4ab34770a3bbc53ecc49d7e7#http://p
 												
 全佳,P2p://generationnexxxt.com:19806/0611ecaa77c94e6192e3b093c4c4e473												
 全佳,https://stream.zeehanzgadget.com/quanjia												
-全佳,http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8												
+全佳,http://livestreaming.kozow.com/usaiptv.php?id=AstroQuanJiaHD&conn=mls#http://livestreaming.kozow.com/stream.php?id=Quanjia&type=m3u8												
 全佳,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571192&extension=ts&play_token=xEP94V2R5Q												
-全佳-2,http://iptv12k.com:35461/live/test167/12345/13598.m3u8?WithCaption												
+全佳-2,http://pull-l3-cny.douyincdn.com/live/2fa89e5f92f5b7b8f174a7afd2723936.flv#http://iptv12k.com:35461/live/test167/12345/13598.m3u8?WithCaption												
 全佳-2,http://livestreaming.kozow.com/usaiptv.php?conn=mls&id=AstroQuanJiaHD#http://livestreaming.kozow.com/xiptv.php?id=AstroQuanJiaHD&sid=.flv												
 爱奇艺,P2p://generationnexxxt.com:19806/4c585ceacc0b4722903e5b71570a1b7f#P2p://generationnexxxt.com:19806/fef044e1f92840509fbd830d827e08b3												
 爱奇艺,http://iptv12k.com:35461/live/test167/12345/13596.m3u8?WithCaption												
@@ -56,12 +56,12 @@ AEC-8,P2p://generationnexxxt.com:19806/08667bce4ab34770a3bbc53ecc49d7e7#http://p
 华丽-2,http://23.237.10.66:16410?WithCaption												
 华丽-2,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402												
 双星,P2p://generationnexxxt.com:19806/7d65ae33f8954485be7c53aa7901ea34#P2p://generationnexxxt.com:19806/7982655c02574d7ba21c8bda2fa9395f												
-双星,http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/Shuangxing/playlist.m3u8												
+双星,http://livestreaming.kozow.com/usaiptv.php?id=AstroShuangXingHD&conn=mls#http://38.60.38.65:1001/mlTW.php?id=http://198.16.106.155:8278/Shuangxing/playlist.m3u8												
 双星,http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
 双星,http://iptv12k.com:35461/live/test167/12345/706.m3u8?WithCaption												
 双星,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571191&extension=ts&play_token=6Do9QdLKkM												
 双星,http://50.7.220.74:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
-双星-2,http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
+双星-2,http://pull-l3-cny.douyincdn.com/live/ed7b9ec325c6ec2b12bcc9519e0e3818.flv#http://livestreaming.kozow.com/stream.php?id=Shuangxing&type=m3u8												
 双星-2,http://198.16.106.155:8278/Shuangxing/playlist.m3u8?tid=MAAA3616515436165154&ct=19386&tsum=43309939fb9a43372f1520f1f8ad6da8												
 双星-2,https://stream.zeehanzgadget.com/shuangxing												
 双星-2,http://198.16.64.10:8278/Shuangxing/playlist.m3u8?tid=MB0B7558160375581603&ct=19226&tsum=1625699c9d4f1dfe61991065455cb256												
@@ -359,8 +359,8 @@ ET Today,P2p://generationnexxxt.com:19806/e85b643a603f4433b894d724aa267f86
 CGTN紀錄頻道,https://cdn.hklive.tv/xxxx/34/index.m3u8												
 Disvovery Asia-1,http://iptv12k.com:35461/live/test167/12345/628.m3u8#P2p://generationnexxxt.com:19806/0e0a84330c1d45a0bf3c8df8761b5422#P2p://generationnexxxt.com:19806/5ed9f08f03444d1a87bf7e48eb176477												
 Disvovery Asia,http://50.7.238.114:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715												
-緯來日本,rtmp://119.81.124.89/sat/tv771?WithCaption#rtmp://119.81.124.89/sat/tv771												
-緯來日本,http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption												
+緯來日本1,rtmp://119.81.124.89/sat/tv771?WithCaption#rtmp://119.81.124.89/sat/tv771												
+緯來日本2,rtmp://59.124.75.138/sat/tv771#http://iptv12k.com:35461/live/test167/12345/1238.m3u8?WithCaption												
 緯來日本,rtmp://219.80.97.77/sat/tv771												
 緯來日本,http://baidu.douyincdn.freetvtv.com/wlrb/m2.m3u8												
 												
@@ -467,7 +467,7 @@ LIVE互动英语,http://www.336699.live:1935/blocksix/4gtv-live030.stream/chunkl
 数码时代,http://hw-m-l.cztv.com/channels/lantian/channel12/360p.m3u8												
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8												
 四海釣魚,http://baidu.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8#http://139.9.188.172:5678/sxg.php?id=shdy_4000#http://117.148.179.159/PLTV/88888888/224/3221231718/index.m3u8#http://bytedance.live.cqccn.com/__cl/cg:live/__c/diaoyu/__op/default/__f//index.m3u8												
-快乐垂钓,http://cfss.cc/ds/bst.php?id=Cf-47#http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls#https://live.v1.mk/api/bestv.php?id=klcd8m/8000000												
+快乐垂钓,http://cfss.cc/ds/bst.php?id=Cf-47#http://baidu.live.cqccn.com/__cl/cg:live/__c/klcdHD/__op/default/__f//index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225780/index.m3u8?fmt=ts2hls#https://live.v1.mk/api/bestv.php?id=klcd8m/8000000#http://219.151.31.38/liveplay-kk.rtxapp.com/live/program/live/klcd8m/8000000/mnf.m3u8												
 HGTV,P2p://generationnexxxt.com:19806/536caff87a01411db023c2f847fdbfd9#P2p://generationnexxxt.com:19806/f911cdf5ba074beabb4de2e481853de9												
 Love Nature,http://www.336699.live:1935/blocksix/4gtv-live208.stream/chunklist.m3u8#P2p://generationnexxxt.com:19806/9151ee1396b04233b11586a3154d4e8e												
 Love Nature,http://iptv12k.com:35461/live/test167/12345/621.m3u8?WithCaption#P2p://generationnexxxt.com:19806/eac2f85eb9ed4b8e95a2ff2867e3e56f												
@@ -519,20 +519,20 @@ beIN Sports 2,P2p://generationnexxxt.com:19806/4d33827bf2f846e2affd95180e38b400#
 beIN Sports 3,P2p://generationnexxxt.com:19806/094a24a261b34006bc0c244854c45a79#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941567#P2p://generationnexxxt.com:19806/ba6a72d2d73341ebb1b3228b2d868279												
 武术世界												
 先锋乒羽,http://baidu.live.cqccn.com/__cl/cg:live/__c/xianfeng/__op/default/__f//index.m3u8												
-爱尔达体育-1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8												
+爱尔达体育-1,rtmp://219.80.97.77/sat/md031#http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8												
 爱尔达体育-1,P2p://generationnexxxt.com:19806/bfb8801257ae49fe9e0963b8639df4fe#P2p://generationnexxxt.com:19806/160b91a9d03a4d8d9e19428fb387c531#P2p://generationnexxxt.com:19806/ab5627232c1f4a6ab8919dbf8c54e137#P2p://generationnexxxt.com:19806/d4ec910053af411d98f3c8a1b7440b51												
 爱尔达体育-1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
 												
 爱尔达体育-2,P2p://generationnexxxt.com:19806/ea023d3b2c8b476cbe9a9fa1665ed216#http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab												
-爱尔达体育-2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8												
+爱尔达体育-2,rtmp://59.124.75.138/sat/md051#http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8												
 爱尔达体育-2-2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8#P2p://generationnexxxt.com:19806/708e2e3fcb64471e9e4effda9400e1d4												
-愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8?WithCaption												
+愛爾達體育3台,rtmp://59.124.75.138/sat/md021#http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8?WithCaption												
 愛爾達體育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8												
 愛爾達體育3台,P2p://generationnexxxt.com:19806/eacc4c123c234919b95b4dcd0c8a2265#P2p://generationnexxxt.com:19806/fa354f5e612d44489d06c887bd3c4712#P2p://generationnexxxt.com:19806/4d837ce7cb3745088458ecba885be86f												
 ELTA體育1,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8#rtmp://219.80.97.77/sat/md031												
-ELTA體育1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8												
+ELTA體育1,https://elta.irtblztjwzxz000041.xyz/elta/download/11/index.m3u8#rtmp://59.124.75.138/sat/md031												
 												
-ELTA體育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8												
+ELTA體育2,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8#rtmp://59.124.75.138/sat/tv741												
 ELTA體育2,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8												
 												
 ELTA體育3,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8												
@@ -557,7 +557,7 @@ FOXSport3,http://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m
 博斯运动2台,P2p://generationnexxxt.com:19806/bf7c812295624ef3b9ceb07df8ce9090												
 博斯無限台,http://www.336699.live:1935/blockfour/litv-longturn10.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/b5fbd1cbece9461ea65eafbb74e11412												
 博斯无限二台,P2p://generationnexxxt.com:19806/93ac38d7635b4a8c8a68b1c66af6ead0												
-Fox Tennis,http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/b077a7cb5bf044a7a5e3fb39d9ff4d59												
+Fox Tennis,rtmp://219.80.97.77/sat/md041#http://www.336699.live:1935/blockfour/litv-longturn09.stream/playlist.m3u8#P2p://generationnexxxt.com:19806/b077a7cb5bf044a7a5e3fb39d9ff4d59												
 Fox Golf-1,http://www.336699.live:1935/blockfour/litv-longturn05.stream/playlist.m3u8												
 Fox Golf-2,P2p://generationnexxxt.com:19806/29adbd2e7c4f4567bc6a384cacd6f303												
 Fox Golf-2-2,P2p://generationnexxxt.com:19806/a18ffaf0c7bd4f08a39e0d44aab5c8f8												
