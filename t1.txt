@@ -163,8 +163,8 @@ $c_start香港/HK$c_end
 凤凰香港-2,http://39.135.138.58:18890/PLTV/88888888/224/3221226251/index.m3u8#http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226251/index.m3u8												
 												
 無綫新聞台,http://2022.stream-link.org/live/1488149502#P2p://generationnexxxt.com:19806/49426a8f402248f09fcba6206eda63e6#http://2022.stream-link.org/playlist/tvb_news												
-無綫新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8#P2p://generationnexxxt.com:19806/49333b72b06046e8b18999367fb20023#http://live.cooltv.top/tv/tvb.php?id=1												
-無綫新聞台,http://www.nettvpro.live/hls/tvb.php?id=2												
+無綫新聞台,http://162.19.247.76:22222/live/tvbnews/index.m3u8#mitv://generationnexxxt.com:19806/6430f5a1000e1577c1144b254d255b9d.ts#P2p://generationnexxxt.com:19806/49333b72b06046e8b18999367fb20023#http://live.cooltv.top/tv/tvb.php?id=1												
+無綫新聞台,http://www.nettvpro.live/hls/tvb.php?id=2#mitv://generationnexxxt.com:19806/bd60966852d044a194e8136c596219fb.ts												
 無綫新聞台,http://app.nettv.vip/hls/tvb.php?id=1												
 有線新聞台,http://61.10.2.141/live_freedirect/freehd209_h.live/playlist.m3u8												
 有線新聞台,http://61.10.2.151/live_freedirect/freehd209_h.live/chunklist_w1201085709.m3u8												
@@ -173,12 +173,12 @@ $c_start香港/HK$c_end
 有線新聞台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/playlist.m3u8												
 有線新聞台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/freehd209_h.live/chunklist_w2018878871.m3u8												
 有線新聞台,http://2022.stream-link.org/playlist/cable_news												
-有線新聞台-2,P2p://generationnexxxt.com:19806/c0d63783be094caeb93a2a14ceed9ff6#https://cdn.hklive.tv/xxxx/109/index.m3u8#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8												
+有線新聞台-2,mitv://generationnexxxt.com:19806/38f9d5c8ce3d48a683ba8cfa9c1ff867.ts#P2p://generationnexxxt.com:19806/c0d63783be094caeb93a2a14ceed9ff6#https://cdn.hklive.tv/xxxx/109/index.m3u8#http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8												
 有線直播新聞台,http://livetv.dnsfor.me/channel.7.m3u8												
 												
 Now新聞,http://2022.stream-link.org/playlist/now_news												
 Now新聞,https://cdn.hklive.tv/xxxx/332/index.m3u8												
-Now新聞-2,P2p://generationnexxxt.com:19806/118e1f01099545be9b9c14b63e4507a9#https://pull-l3-cny.douyincdn.com/live/ddbb1c8a2baea5e964ef296db10bd88c.flv												
+Now新聞-2,mitv://generationnexxxt.com:19806/422a5adf1ee24ca49327e0ef45efd5a8.ts#P2p://generationnexxxt.com:19806/118e1f01099545be9b9c14b63e4507a9#https://pull-l3-cny.douyincdn.com/live/ddbb1c8a2baea5e964ef296db10bd88c.flv												
 翡翠台,http://2022.stream-link.org/live/131217689#https://live.astradamy.com/tvbfc/index.m3u8#https://live.astradamy.com/tvbfc/index.m3u8												
 翡翠台,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=571187												
 翡翠台,http://iptv12k.com:35461/live/test167/12345/1021.m3u8?WithCaption												
@@ -575,7 +575,7 @@ CCTV5+,http://39.134.136.138:6610/000000001000/1000000001000020505/index.m3u8?ch
 CCTV5,http://cfss.cc/ds/bst.php?id=Cf-5#http://39.134.136.138:6610/000000001000/1000000001000004794/index.m3u8?channel-id=ystenlive&Contentid=1000000001000004794&livemode=1&stbId=3												
 CCTV5,http://39.134.136.138:6610/000000001000/1000000003000030177/index.m3u8?channel-id=ystenlive&Contentid=1000000003000030177&livemode=1&stbId=3												
 												
-$c_start基礎日文/Jap1$_end												
+$c_start基礎日文/Jap1$c_end												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -589,7 +589,7 @@ $c_start基礎日文/Jap1$_end
 												
 												
 												
-$c_start简易旅遊日文/Jap-2$_end												
+$c_start简易旅遊日文/Jap-2$c_end												
 Lesson-1,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/s/7/ks73d26m_itx11l36_h264_1244K.mp4/chunklist.m3u8												
 Lesson-2,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/l/m/u/lmu5530b_u049v32g_h264_1244K.mp4/chunklist.m3u8												
 Lesson-3,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/4/5/i4565669_m03e3me2_h264_1244K.mp4/chunklist.m3u8												
@@ -600,7 +600,7 @@ Lesson-7,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-8,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/4/n/x4ncip71_e8jx0l5w_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start日文易学/Jap-3$_end												
+$c_start日文易学/Jap-3$c_end												
 Lesson-01,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/v/t/evtcqeiv_vyb2o1yz_h264_1244K.mp4/chunklist.m3u8												
 Lesson-02,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/b/h/2/bh212pv9_p892x94p_h264_1244K.mp4/chunklist.m3u8												
 Lesson-03,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/j/x/3/jx3q81do_wl1uqd28_h264_1244K.mp4/chunklist.m3u8												
@@ -627,7 +627,7 @@ Lesson-23https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmed
 Lesson-24https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/1/z/p1zr73px_et89owm7_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start基礎日文/Jap-4$_end												
+$c_start基礎日文/Jap-4$c_end												
 基礎日文#1-基礎中的基礎,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=317440:5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4,207872:5905/e/n/8/en849xk5_d196l4oo_h264_664K.mp4,150528:5905/e/n/8/en849xk5_b23ymg62_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/n/8/en849xk5_t3cs0229_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#2-問路,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=391168:5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4,244736:5905/g/i/f/gifyzabr_t8dit368_h264_664K.mp4,171008:5905/g/i/f/gifyzabr_wow79kxl_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/g/i/f/gifyzabr_stm114r0_h264_1244K.mp4/chunklist.m3u8												
 基礎日文#3-購物和點餐,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=402432:5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4,247808:5905/y/0/1/y0120bl6_vwuu4239_h264_664K.mp4,171008:5905/y/0/1/y0120bl6_d19e6lh6_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/y/0/1/y0120bl6_gz7ud0fx_h264_1244K.mp4/chunklist.m3u8												
@@ -702,7 +702,7 @@ Lesson-23,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvme
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 Lesson-24,https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/t/m/4/tm4o8078_ic8ph2qg_h264_1244K.mp4/chunklist.m3u8												
 												
-$c_start簡明日語/Jap-8$_end												
+$c_start簡明日語/Jap-8$c_end												
 #01-春奶奶之家在哪裡？,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4,679936:5905/x/3/l/x3l2e839_gbz2c009_h264_664K.mp4,392192:5905/x/3/l/x3l2e839_uy7jt1og_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/x/3/l/x3l2e839_mv5u27ao_h264_1244K.mp4/chunklist.m3u8												
 #02-我叫心心-是學生,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4,678912:5905/p/t/0/pt0swu51_o545yzuq_h264_664K.mp4,392192:5905/p/t/0/pt0swu51_yt02j8m7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/p/t/0/pt0swu51_y51c86q2_h264_1244K.mp4/chunklist.m3u8												
 #03-來自越南,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1269760:5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4,677888:5905/o/o/z/ooz9aw7w_r349v9dx_h264_664K.mp4,391168:5905/o/o/z/ooz9aw7w_oe2sf21z_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/o/o/z/ooz9aw7w_a6k7q453_h264_1244K.mp4/chunklist.m3u8												
@@ -753,7 +753,7 @@ $c_start簡明日語/Jap-8$_end
 #48-畢業以後-我想在日本工作,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4,677888:5905/e/5/0/e50bkh39_lj51m86c_h264_664K.mp4,391168:5905/e/5/0/e50bkh39_j593q9c7_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/e/5/0/e50bkh39_w4i9wpyh_h264_1244K.mp4/chunklist.m3u8												
 												
 												
-$c_start職場篇/Jap-9$_end												
+$c_start職場篇/Jap-9$c_end												
 #1-表達感謝,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1271808:5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4,678912:5905/k/4/2/k42h8h65_w0242o98_h264_664K.mp4,392192:5905/k/4/2/k42h8h65_gh9542q1_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/k/4/2/k42h8h65_e25ww55a_h264_1244K.mp4/chunklist.m3u8												
 #11-詢問對方姓名的唸法,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4,678912:5905/r/q/b/rqb8773p_x84d79j8_h264_664K.mp4,392192:5905/r/q/b/rqb8773p_e5qg3e8o_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/r/q/b/rqb8773p_o6ie52u4_h264_1244K.mp4/chunklist.m3u8												
 #13-接聽打給同事的電話,https://hls-abr-api-wse-nhkw.stream.co.jp/make.m3u8?app=mz-nhk10&plfm=kitdvod&bcp=mm/flvmedia/&media=1272832:5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4,678912:5905/i/w/7/iw73h5jo_br6l0zs9_h264_664K.mp4,392192:5905/i/w/7/iw73h5jo_o885375w_h264_384K.mp4#https://nhkw-mzvod.akamaized.net/www60/mz-nhk10/_definst_/mp4:mm/flvmedia/5905/i/w/7/iw73h5jo_n1rt02in_h264_1244K.mp4/chunklist.m3u8												
@@ -799,28 +799,29 @@ NOW SPORTS PRIME,https://pull-l3-cny.douyincdn.com/live/db21b85486e9d8a096ffe818
 												
 												
 $c_startWorld News$c_end												
-CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275#http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284												
+CNN,P2p://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275#mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275.ts#http://www.336699.live:1935/blocksix/4gtv-live130.stream/chunklist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284												
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8												
-CNBC News,http://2022.stream-link.org/live/1630575726#P2p://generationnexxxt.com:19806/c804e0a9efd5429ba7b467e1734ed568#P2p://generationnexxxt.com:19806/4af8eba673e04c688cc9a6169f7fd5ae#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689#http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680												
-Fox News,P2p://generationnexxxt.com:19806/f5655b37183f467abebc201977ccc130#https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/32271#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941685#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81808												
-SkyNews,http://2022.stream-link.org/live/127064321#P2p://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104050#P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8												
-BBC World News,P2p://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d1#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941693#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104180#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81805												
+CNBC News,http://2022.stream-link.org/live/1630575726#mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd.ts#P2p://generationnexxxt.com:19806/c804e0a9efd5429ba7b467e1734ed568#P2p://generationnexxxt.com:19806/4af8eba673e04c688cc9a6169f7fd5ae#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689#http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680												
+Fox News,mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3.ts#mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801.ts												
+SkyNews,http://2022.stream-link.org/live/127064321#mitv://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052.ts#P2p://generationnexxxt.com:19806/ddc4e102601e4fcfa5432722538cf052#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941684#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/104050#P2p://generationnexxxt.com:19806/b2e741f774d1490a928bcbdfc404e365#https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8												
+BBC World News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16133#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/16137#mitv://generationnexxxt.com:19806/e47a7f3ef6714885a39d5eedebffd158.ts												
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8												
 ABC News,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_45.m3u8												
-ABC News-2,http://2022.stream-link.org/live/1465379655#P2p://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a#http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8												
+ABC News-2,http://2022.stream-link.org/live/1465379655#mitv://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a.ts#P2p://generationnexxxt.com:19806/84b326c4dc92459abf1f6e0007c8680a#http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8												
 Netv-Toronto,http://live.streams.ovh:1935/NetvToronto/NetvToronto/playlist.m3u8												
-AL JAZEERA,P2p://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81966#https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8												
-Bloomberg,P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608#P2p://generationnexxxt.com:19806/bb0ebd9e97cc4b0db0106ae49163c0b7#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81968#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692#http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671+C4												
-ChannelNewsAsia,http://tv.redrainl.site:9500/live.m3u8?c=38												
+AL JAZEERA,mitv://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b.ts#P2p://generationnexxxt.com:19806/03bc1638cc9f4efe9dde7bf6a456bb5b#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81966#https://epg.pw/stream/d7d6fc588f3c8a38356785457b20aad286421df047fd769cd8b3095d9e3afc70.m3u8#http://live-hls-web-aje.getaj.net/AJE/01.m3u8												
+Bloomberg,mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608.ts#P2p://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608#P2p://generationnexxxt.com:19806/bb0ebd9e97cc4b0db0106ae49163c0b7#http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/81968#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941692#http://iptv12k.com:35461/live/test167/12345/590.m3u8?WithCaption#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208671+C4												
+ChannelNewsAsia,mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b.ts#http://tv.redrainl.site:9500/live.m3u8?c=38												
 ChannelNewsAsia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8												
-NHK Japan,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611												
+NHK Japan,mitv://generationnexxxt.com:19806/92867b4fe30b4dd491a01d448afc8062.ts#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941611												
 NHK World Japan,http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941610												
-ArirangTV,P2p://generationnexxxt.com:19806/1989916887d04d9d83d9ebce0afa94af#http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614												
+ArirangTV,mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e.ts#P2p://generationnexxxt.com:19806/1989916887d04d9d83d9ebce0afa94af#http://www.336699.live:1935/blockfour/4gtv-4gtv079.stream/playlist.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941614												
 ACNA,http://2022.stream-link.org/live/1603999174#https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_3.m3u8#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd#http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941688												
-CBS News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68035												
+CBS News,mitv://generationnexxxt.com:19806/a90df52b92804807b6c08cdbbead4ce4.ts#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/68035												
 Cheddar News,http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208676												
-EuroNews,P2p://generationnexxxt.com:19806/31c58193e14b47f4bc37643de318d296#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941686												
-DW English,P2p://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687												
+EuroNews,mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822.ts#P2p://generationnexxxt.com:19806/31c58193e14b47f4bc37643de318d296#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941686												
+DW English,mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6.ts#P2p://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941687												
 Top News,http://moontools.me:8080/DIANAAG/bjGLrqTpJtJj/1254204												
-France24,http://2022.stream-link.org/live/1210415010#P2p://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4												
-MSNBC,P2p://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61												
+France24,mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4.ts#http://2022.stream-link.org/live/1210415010#P2p://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4												
+MSNBC,mitv://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61.ts#P2p://generationnexxxt.com:19806/f41402a7080d4530bb718ca01c1e6f61												
+CBC News,mitv://generationnexxxt.com:19806/f4f2d24eb46f42c693d83e97290457e8.ts												
