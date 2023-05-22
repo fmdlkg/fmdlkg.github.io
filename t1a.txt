@@ -1,15 +1,15 @@
 Mal/马来,#genre#												
 AEC-1,mitv://generationnexxxt.com:19806/645e3c400002030a71f03906176b2ff1												
 AEC-2,P2p://generationnexxxt.com:19806/645e3c400002030a71f03906176b2ff1												
-AEC-3,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8												
-AEC-4,P2p://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8												
+AEC-3,mitv://generationnexxxt.com:19806/6467409400039a5d95292194607a7910												
+AEC-4,P2p://generationnexxxt.com:19806/6467409400039a5d95292194607a7910												
 AEC-5,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8.ts												
 AEC-6,P2p://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8.ts												
 AEC-7(6am-6pm),http://iptv12k.com:35461/live/test167/12345/709.m3u8												
 AEC-8(6am-6pm),http://iptv12k.com:35461/live/test167/12345/13597.m3u8?WithCaption												
 AEC-9(6am-6pm),http://iptv12k.com:35461/live/test167/12345/4341.m3u8												
 AEC-10,http://jins365m.webredirect.org/live/smt.php?id=AEC												
-AEC-11,http://pull-l3-cny.douyincdn.com/live/1a42153ab0f59fa16c6806055023eac5.m3u8?WithCaption												
+AEC-11												
 												
 												
 歡喜臺333-1,http://iptv12k.com:35461/live/test167/12345/13595.m3u8?WithCaption												
@@ -487,8 +487,8 @@ Dog Tv,http://sukitam.bccdn.xyz:80/45873482894pw/94852932845Pw/138
 												
 												
 Sports/体育,#genre#												
-Astro SuperSport 1,mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0.ts#P2p://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0												
-Astro SuperSport 2,mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9.ts#mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9#P2p://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9												
+Astro SuperSport 1,mitv://generationnexxxt.com:19806/6466ff1f000aa2e294297251042840c1#mitv://135.148.104.228:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0												
+Astro SuperSport 2,mitv://generationnexxxt.com:19806/64673d850006de5b951d2fc7722175a3#mitv://135.148.104.228:19806/584adade1c8d4db0b2823cd15b3fd0e9												
 Astro SuperSport 3,mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521#mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42.ts#mitv://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42#P2p://generationnexxxt.com:19806/0ae4bbc8b3e34a75b728ebddd2bbad42												
 Astro SuperSport 4,mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8.ts#mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8#P2p://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8												
 Astro SuperSport 5,mitv://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756.ts#P2p://generationnexxxt.com:19806/09638fd935964473a20e9260baf2a756												
