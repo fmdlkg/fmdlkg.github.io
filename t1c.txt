@@ -1,3 +1,4 @@
+台湾,#genre#
 CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 民视(農),mitv://generationnexxxt.com:19806/645d085e0005113d6d3d8ef25af73081
 人间卫视(農),mitv://generationnexxxt.com:19806/bd9d0263e82a49d0b8312481c45df967
@@ -38,7 +39,7 @@ Bloomberg TV(農),mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd17
 HITS(農),mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 壹电视新闻台(農),mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
 年代新闻(農),mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
-东森新闻台(農),mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+东森新闻台(農),mitv://generationnexxxt.com:19806/64677d68000bfdc49616bfd746a567a3
 中天新闻台(農),mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
 民视新闻台(農),mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
 三立新闻台(農),mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
@@ -68,6 +69,7 @@ MTV(農),mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 八大娱乐台(農),mitv://generationnexxxt.com:19806/58f45dfdc5c8449d94b4341a63fe9031
 三立iNEWS(農),mitv://generationnexxxt.com:19806/485326d984014d0fb87e9ac6ae03e137
 龙华偶像(農),mitv://generationnexxxt.com:19806/cbbe870376f9427790c695a7b4763ca4
+Arirang(農),mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
 tvN(農),mitv://generationnexxxt.com:19806/645fb9b800079c5f77c2572e6a78418d
 DW(農),mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 France24(農),mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
@@ -108,7 +110,7 @@ Discovery科学频道(農),mitv://generationnexxxt.com:19806/862c9ba288c44277925
 DMAX(農),mitv://generationnexxxt.com:19806/645786e20006a4f857bbc2ff4d3a0833
 EVE(農),mitv://generationnexxxt.com:19806/2adb8e78858a455a84520253425057f3
 滚动力rollor(農),mitv://generationnexxxt.com:19806/136a99af59514db0994eccafd13c926f
-历史频道(農),mitv://generationnexxxt.com:19806/8641f6fb752d427db9a8df1625f88d22
+历史频道(農),mitv://generationnexxxt.com:19806/64678d420006c5929654aa0f2cef7bf8
 罪案侦缉频道(農),mitv://generationnexxxt.com:19806/ac8e4a1c6d944d28a3d281d65f6892a2
 BBC Lifestyle(農),mitv://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785
 LUXE TV(農),mitv://generationnexxxt.com:19806/c02d3bf53e8f4021947feb28aeb0c496
@@ -186,14 +188,13 @@ Star Movies Gold(農),mitv://generationnexxxt.com:19806/644e9b27000a398734e2e694
 大爱(备)(農),mitv://generationnexxxt.com:19806/210ccc7869454699884184ab4c6c477d
 中视(备)(農),mitv://generationnexxxt.com:19806/4c53fced68824bc1b4e35dbd375e532a
 华视(备)(農),mitv://generationnexxxt.com:19806/8a4bfdfe9e844addb903a90141d2fad5
-QQ群820665679
-TG群: https://t.me/lfy6666
 公视(备)(農),mitv://generationnexxxt.com:19806/04efa7fef50b40afa265050107d00bd8
 东森新闻台(备)(農),mitv://generationnexxxt.com:19806/645c9fee000e01606ba59bc415d52492
 镜新闻(農),mitv://generationnexxxt.com:19806/e3e4efe5fc44494eac3a307a9ce46027
 Taiwan+(農),mitv://generationnexxxt.com:19806/440274e63a1e4db099c42291fa80f43b
 东森购物2台(農),mitv://generationnexxxt.com:19806/44be4ceee59e4f5fb65ec5c2aa672e35
 东森购物1台(農),mitv://generationnexxxt.com:19806/cc3ef976a9114c769714c313df7f1faf
+中国,#genre#
 CCTV1(農),mitv://generationnexxxt.com:19806/5cb2056ba225422aab04f0ff6c1a1ad9
 CCTV2(農),mitv://generationnexxxt.com:19806/1c7a2a5c0c384637bb942eb49cc1e0ee
 CCTV3(農),mitv://generationnexxxt.com:19806/18330ef800b2458892c9761dab67e610
@@ -240,6 +241,7 @@ CCTV16(農),mitv://generationnexxxt.com:19806/c2001475104d47b9815a8c3e5e73a761
 广东影视(農),mitv://generationnexxxt.com:19806/1aeb81d7fa6445348a1765a94ee2ba2c
 CHC高清电影(農),mitv://generationnexxxt.com:19806/e27bf51377e2485cb8a7e59c05b24848
 CHC家庭影院(農),mitv://generationnexxxt.com:19806/bbe8e8a94b974d27a3503380b5b934ce
+港澳,#genre#
 港台電視31(農),mitv://generationnexxxt.com:19806/5c7ff8bb2e0349cdab492d5aea25ff3c
 港台电视32(農),mitv://generationnexxxt.com:19806/afa315c3220e4a3898e3e2b3beca6ac7
 HOY TV(農),mitv://generationnexxxt.com:19806/e77cb31fe80747d298ef0d2d9c919f07
@@ -274,12 +276,14 @@ Thrill(農),mitv://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e
 明珠台(農),mitv://generationnexxxt.com:19806/24e912a5d830431fbd5d9ca1792be9de
 18台(農),mitv://generationnexxxt.com:19806/5b5b0e8be20b431281382660b7d67906
 HKC Sports Plus 3(農),mitv://generationnexxxt.com:19806/a27709fdfa574a5f9ca52c490a37435b
+功夫台(华语)(農),mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12
 美亚电影台(粤语)(農),mitv://generationnexxxt.com:19806/64550dca000ac0cf4e12b37b0be73efc
 Hands Up(農),mitv://generationnexxxt.com:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
 粤语片台(農),mitv://generationnexxxt.com:19806/438531070655458b8e07cad61e518d7b
 亚洲剧台(農),mitv://generationnexxxt.com:19806/9d60d2f9f6fa4a368fbe457f8efad108
 功夫台(農),mitv://generationnexxxt.com:19806/645b3c4f000b82ea663876002bf2462a
 HOY资讯台(農),mitv://generationnexxxt.com:19806/70b4e795ea654fb5bad399c2268c2fed
+马来,#genre#
 CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 TV1(農),mitv://generationnexxxt.com:19806/519780d62c50468ab76f627c2b504945
 TV2(農),mitv://generationnexxxt.com:19806/e1eb0543c47f4805b26c905827887846
@@ -323,8 +327,8 @@ AXN亚洲(農),mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02ae
 KIX(農),mitv://generationnexxxt.com:19806/04533ea3664e43579573b50db8988450
 HITS(農),mitv://generationnexxxt.com:19806/be8e6fe7ffd343edb7bec5d01de30204
 Astro Arena(農),mitv://generationnexxxt.com:19806/6458c64c000b217e5c9b7a38341006fd
-Astro SuperSport(農),mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-Astro SuperSport 2(農),mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
+Astro SuperSport(農),mitv://generationnexxxt.com:19806/6466ff1f000aa2e294297251042840c1
+Astro SuperSport 2(農),mitv://generationnexxxt.com:19806/64673d850006de5b951d2fc7722175a3
 Astro SuperSport 3(農),mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521
 Astro SuperSport 4(農),mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
 beIN Sports 3(農),mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
@@ -340,7 +344,7 @@ France24(農),mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 SPOTV(農),mitv://generationnexxxt.com:19806/c028696060a84386bcd49c9e012904d7
 beIN Sports(農),mitv://generationnexxxt.com:19806/46375137a35944a38e828ec083096cd9
 TVB娱乐新闻台(農),mitv://generationnexxxt.com:19806/8378c6ce158144038e684ac97d498273
-Astro AEC(農),mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8
+Astro AEC(農),mitv://generationnexxxt.com:19806/6467409400039a5d95292194607a7910
 Awesome TV(農),mitv://generationnexxxt.com:19806/ff33379754254a2ab12710dcd052b33d
 Colors Tamil(農),mitv://generationnexxxt.com:19806/af84ed5a76d74d05bd2d045c6313f854
 BOO(農),mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
@@ -361,6 +365,7 @@ HITS Movies(農),mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516b
 SHOWCASE MOVIES(農),mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
 beIN Sports 2(農),mitv://generationnexxxt.com:19806/645c759a000df5e36b0043a45841498d
 Golf Channel(農),mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
+新加坡,#genre#
 天映频道(農),mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
 中天亚洲台(農),mitv://generationnexxxt.com:19806/362649bea34241588b42dd964bdfb100
 TVB星河(粤)(農),mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
@@ -386,6 +391,7 @@ Vasantham(農),mitv://generationnexxxt.com:19806/2e41fd0e25664a4cb5e6debd59ea5d2
 CNA(農),mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b
 Mediacorp U(農),mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705
 Nat Geo Wild(農),mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
+Arirang(農),mitv://generationnexxxt.com:19806/32ae4206a8494015ba3ca31d76c34a4e
 Euronews(農),mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822
 Fight Sports(農),mitv://generationnexxxt.com:19806/78bd0cc13a8840fcb8af0440258a8357
 GEM(農),mitv://generationnexxxt.com:19806/3f6fedbbb9a24f55bb349e7c75d109c4
@@ -408,8 +414,9 @@ Hub Sports 4(農),mitv://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438
 Hub Sports 5(農),mitv://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97
 Hub Premier 2(農),mitv://generationnexxxt.com:19806/a52cc083e7324b2dbd8090feecc66033
 Hub Premier 3(農),mitv://generationnexxxt.com:19806/758cc0162ca14f8fa7c343d94a60bbaa
-Hub Premier 4(農),mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580	
+Hub Premier 4(農),mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580
 Hub Premier 5(農),mitv://generationnexxxt.com:19806/8e3b8175500b492484df4112711ca978
+日本,#genre#
 NHK-G综合(農),mitv://generationnexxxt.com:19806/b5bda0c5078d430c942c13681802be15
 NHK-E教育(農),mitv://generationnexxxt.com:19806/58fb2dd485204529b771b2d8acae096e
 日本テレビ(農),mitv://generationnexxxt.com:19806/6ad6d0d970294894b751bb9be6714fb1
@@ -451,6 +458,7 @@ Music Japan TV(農),mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4e
 日テレNEWS 24(農),mitv://generationnexxxt.com:19806/01af57ffc3354d66a320ebb2edd87262
 旅チャンネル(農),mitv://generationnexxxt.com:19806/9d587c6310714b42bad0eba86ca501c4
 チャンネル銀河(農),mitv://generationnexxxt.com:19806/708c0b0d85dd45acba478d21c0ace2f6
+韩国,#genre#
 Arirang(農),mitv://generationnexxxt.com:19806/645d0a5a00075deb6d454fee5aa940d7
 KBS1(農),mitv://generationnexxxt.com:19806/ffbb98a195ce4646b450482011ab1f39
 KBS2(農),mitv://generationnexxxt.com:19806/a60d87656be445cbbdd549af1bba1148
@@ -472,6 +480,7 @@ Tooniverse(農),mitv://generationnexxxt.com:19806/90c2674d219745d5b32cfc5053a010
 SPOTV(農),mitv://generationnexxxt.com:19806/441089d1c6864877a82d8dbde582d645
 SPOTV 2(農),mitv://generationnexxxt.com:19806/d33cf3ddad0444cfaf5118ccc834c1e7
 JTBC GOLF(農),mitv://generationnexxxt.com:19806/02b7cdb589a64a05850e5eda673b041d
+泰国,#genre#
 Channel 5(農),mitv://generationnexxxt.com:19806/1045ae1287b44480b9d6f511acb6a7b1
 NBT(農),mitv://generationnexxxt.com:19806/960f748e986045cea386b0c70e63b423
 TNN 16(農),mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6
@@ -498,6 +507,7 @@ Channel 4050(農),mitv://generationnexxxt.com:19806/33cd96332eef4ef0b781716e9ca4
 TVB Thai(農),mitv://generationnexxxt.com:19806/e9d8980dfdea4d059b62fe6dfd2de092
 Bluesky(農),mitv://generationnexxxt.com:19806/a4d121356b034c7f95ed7b55aee8b9bb
 Top News(農),mitv://generationnexxxt.com:19806/845fb3c3c97a44aeab8fb8d227636c7b
+北美,#genre#
 CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 CNBC(農),mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd
 Bloomberg TV(農),mitv://generationnexxxt.com:19806/fbf63c9e85084cf98b7e39d2cd178608
@@ -521,6 +531,7 @@ CP24(農),mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
 The Weather Network(農),mitv://generationnexxxt.com:19806/645a790b00024322633db20e6f60185f
 The Weather Channel(農),mitv://generationnexxxt.com:19806/645a790a000b00de633db05826c974b9
 KOMO 4 TV(農),mitv://generationnexxxt.com:19806/645a79070003a120633da2bc7295540c
+新闻,#genre#
 CNN(農),mitv://generationnexxxt.com:19806/3745a94cbe904b9480d19a1b5dfc6275
 无线新闻台(备)(農),mitv://generationnexxxt.com:19806/fee4b6f52177485c870f9389d95a8801
 无线新闻台(農),mitv://generationnexxxt.com:19806/645b35240005cc12661c74a01c6f573c
@@ -534,7 +545,7 @@ CNA(農),mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b
 壹电视新闻台(農),mitv://generationnexxxt.com:19806/6448e5fd0004b44d1e97391d4d2c0333
 年代新闻(農),mitv://generationnexxxt.com:19806/64548033000a719c4be99d8434f175bc
 now新闻台(農),mitv://generationnexxxt.com:19806/d7d8ced83c694ee09eda089b554d9dc5
-东森新闻台(農),mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
+东森新闻台(農),mitv://generationnexxxt.com:19806/64677d68000bfdc49616bfd746a567a3
 中天新闻台(農),mitv://generationnexxxt.com:19806/645a505500087efb629eacb405a54a42
 民视新闻台(農),mitv://generationnexxxt.com:19806/64577cff0001eb7c5795230f6bb8749b
 三立新闻台(農),mitv://generationnexxxt.com:19806/645500960008581e4ddf1fbf03fc57a9
@@ -549,8 +560,6 @@ DW(農),mitv://generationnexxxt.com:19806/da713062bd9d419a913b6e9b1aef8fb6
 Euronews(農),mitv://generationnexxxt.com:19806/3169ef1a720442cd91af30a39cc13822
 France24(農),mitv://generationnexxxt.com:19806/36154fded93f445f863db448232fffa4
 HKC新闻台(農),mitv://generationnexxxt.com:19806/a30ba03ec986438088e5748c21ac1f5b
-QQ群820665679
-TG群: https://t.me/lfy6666
 非凡商业台(農),mitv://generationnexxxt.com:19806/5fd11cbd11bc4481b7e3b16808b70a5d
 HKC财经资讯台(農),mitv://generationnexxxt.com:19806/eaa39196584e4c4eaeda40279785dfc6
 国会频道1(農),mitv://generationnexxxt.com:19806/4cfc6c926b9549c7b886205726151a3c
@@ -578,12 +587,14 @@ Business News Network(農),mitv://generationnexxxt.com:19806/645a790b000e9fc8633
 CP24(農),mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
 The Weather Network(農),mitv://generationnexxxt.com:19806/645a790b00024322633db20e6f60185f
 The Weather Channel(農),mitv://generationnexxxt.com:19806/645a790a000b00de633db05826c974b9
+音乐,#genre#
 MTV(農),mitv://generationnexxxt.com:19806/2db96125eaff4f459c2c18dccc2762fa
 Music Japan TV(農),mitv://generationnexxxt.com:19806/f898f0324e99499296ee859f4eb8d3ea
 MTV Live(農),mitv://generationnexxxt.com:19806/644b68b5000c14aa2865d9c1567d521e
 Mezzo Live(農),mitv://generationnexxxt.com:19806/35c919f9094445e98749b1511bb4aaf4
 CLASSICA 古典乐(農),mitv://generationnexxxt.com:19806/bfcce4097e7b43c0affa24d6ec263175
 CMusic(農),mitv://generationnexxxt.com:19806/7e72c3e7a1584bc096789ccd40162bc4
+体育,#genre#
 CCTV5(農),mitv://generationnexxxt.com:19806/0126636bbd494267ae7f17c8abc8521f
 CCTV5+(農),mitv://generationnexxxt.com:19806/631fd43e577344b6ab6bd628dfa384ca
 魅力足球(農),mitv://generationnexxxt.com:19806/4f8ae19901604006bdf0708826db9862
@@ -592,8 +603,8 @@ CCTV5+(農),mitv://generationnexxxt.com:19806/631fd43e577344b6ab6bd628dfa384ca
 Sky Sports Golf(農),mitv://generationnexxxt.com:19806/645a790a0004f5cd633daed26aee7b23
 Sky Sports Premier League(農),mitv://generationnexxxt.com:19806/645a7909000dea5f633dad3c3bce57a0
 Astro Arena(農),mitv://generationnexxxt.com:19806/6458c64c000b217e5c9b7a38341006fd
-Astro SuperSport(農),mitv://generationnexxxt.com:19806/f6fc53b0b0fe47ff9bf6d40eec7705f0
-Astro SuperSport 2(農),mitv://generationnexxxt.com:19806/584adade1c8d4db0b2823cd15b3fd0e9
+Astro SuperSport(農),mitv://generationnexxxt.com:19806/6466ff1f000aa2e294297251042840c1
+Astro SuperSport 2(農),mitv://generationnexxxt.com:19806/64673d850006de5b951d2fc7722175a3
 Astro SuperSport 3(農),mitv://generationnexxxt.com:19806/644a3bac000c472123cdeea90ef57521
 Astro SuperSport 4(農),mitv://generationnexxxt.com:19806/80de42b5188745979efecd3007daeaa8
 beIN Sports 3(農),mitv://generationnexxxt.com:19806/ade2ee776a684bbca72d37b951bf0d61
@@ -648,7 +659,7 @@ Hub Sports 4(農),mitv://generationnexxxt.com:19806/6324a78a0d4549fc859b68804438
 Hub Sports 5(農),mitv://generationnexxxt.com:19806/58395e1ea80a40069a5e30c9917d1a97
 Hub Premier 2(農),mitv://generationnexxxt.com:19806/a52cc083e7324b2dbd8090feecc66033
 Hub Premier 3(農),mitv://generationnexxxt.com:19806/758cc0162ca14f8fa7c343d94a60bbaa
-Hub Premier 4(農),mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580	
+Hub Premier 4(農),mitv://generationnexxxt.com:19806/63c113c5000c33e60c09bddc378b7580
 Hub Premier 5(農),mitv://generationnexxxt.com:19806/8e3b8175500b492484df4112711ca978
 Sky Sports F1(農),mitv://generationnexxxt.com:19806/645a79090007c7ca633daba56c082f41
 Sky Sports Arena(農),mitv://generationnexxxt.com:19806/645a79090001b0f6633daa0f54594999
@@ -656,6 +667,7 @@ Sky Sports Main Event(農),mitv://generationnexxxt.com:19806/645a7908000a62f8633
 Sky Sports Cricket(農),mitv://generationnexxxt.com:19806/645a7908000370cd633da6a43c4e0927
 Sky Sports Action(農),mitv://generationnexxxt.com:19806/645a7907000bcca0633da4df6c275140
 Golf Channel(農),mitv://generationnexxxt.com:19806/69981dfb0eb64aea9b1216f81dd80909
+知识,#genre#
 CCTV9(農),mitv://generationnexxxt.com:19806/bd1be015bfe94e53aab75e8b4a12bfe1
 国家地理频道(農),mitv://generationnexxxt.com:19806/f2a7763353c242b788b34f33aa478527
 探索频道(農),mitv://generationnexxxt.com:19806/7f6d6983b5cd47339d993860bc8f00e9
@@ -671,7 +683,7 @@ Discovery科学频道(農),mitv://generationnexxxt.com:19806/862c9ba288c44277925
 DMAX(農),mitv://generationnexxxt.com:19806/645786e20006a4f857bbc2ff4d3a0833
 EVE(農),mitv://generationnexxxt.com:19806/2adb8e78858a455a84520253425057f3
 滚动力rollor(農),mitv://generationnexxxt.com:19806/136a99af59514db0994eccafd13c926f
-历史频道(農),mitv://generationnexxxt.com:19806/8641f6fb752d427db9a8df1625f88d22
+历史频道(農),mitv://generationnexxxt.com:19806/64678d420006c5929654aa0f2cef7bf8
 罪案侦缉频道(農),mitv://generationnexxxt.com:19806/ac8e4a1c6d944d28a3d281d65f6892a2
 BBC Lifestyle(農),mitv://generationnexxxt.com:19806/99d72fa5a5e94df7a3d961690ee09785
 LUXE TV(農),mitv://generationnexxxt.com:19806/c02d3bf53e8f4021947feb28aeb0c496
@@ -687,6 +699,7 @@ EYE TV旅游台(農),mitv://generationnexxxt.com:19806/1f972fea45904a9caa1119860
 时尚频道(農),mitv://generationnexxxt.com:19806/e87adc01be824ef19f005a76e4fce189
 TV5MONDE Style 生活时尚(農),mitv://generationnexxxt.com:19806/d7524c09437e4caf95c37c75d34f5550
 Travel Channel(農),mitv://generationnexxxt.com:19806/644e9b240008c0cb34e2da7f6b043e97
+儿少,#genre#
 CCTV14(農),mitv://generationnexxxt.com:19806/bf1a9f45f37f49568953fe97efe2ccb9
 CN卡通频道(農),mitv://generationnexxxt.com:19806/644d1cd900092e062f0d85a601dc3f82
 星空卫视(農),mitv://generationnexxxt.com:19806/ea86987738b4465482e6f2a122a6b3f8
@@ -707,6 +720,7 @@ Nick Jr.(農),mitv://generationnexxxt.com:19806/002b860a0a6b46c280d4eef8c2debee1
 Cbeebies(農),mitv://generationnexxxt.com:19806/cd8a6c94b8fe46cd97a508e0a93b6a71
 Dreamworks(農),mitv://generationnexxxt.com:19806/8b6a297545fb4063ace56e824af32a35
 Hands Up(農),mitv://generationnexxxt.com:19806/6f319c6a8c154eeeb7aeb9a2c0767b8a
+电影,#genre#
 CCTV6(農),mitv://generationnexxxt.com:19806/8cf06c01d4a14947a753a183865d1031
 天映频道(農),mitv://generationnexxxt.com:19806/644b68b3000a7c162865d184572c1ff0
 天映经典(農),mitv://generationnexxxt.com:19806/644b663d000a432e285c34846b9e74d6
@@ -740,6 +754,7 @@ CinemaWorld(農),mitv://generationnexxxt.com:19806/82a4e1f9268245ed93f38fcb17732
 采昌影剧台(農),mitv://generationnexxxt.com:19806/46320be49d0f44aea4691fe2cc087bab
 BOO(農),mitv://generationnexxxt.com:19806/d01f4e4805c743ea82f6623c4859e3c9
 Thrill(農),mitv://generationnexxxt.com:19806/14f535a7ec5a4939a67e7165f94ca38e
+功夫台(华语)(農),mitv://generationnexxxt.com:19806/9b42b669a2c549abbfc8f0320197dc12
 HITS Movies(農),mitv://generationnexxxt.com:19806/9e0e356e598d4116a9d0f3144516bdfa
 SHOWCASE MOVIES(農),mitv://generationnexxxt.com:19806/beabba149e874fc8a5af2b656d596816
 影迷数位电影台(農),mitv://generationnexxxt.com:19806/644e9b270003dc3234e2e4fe1d6f0c2b
@@ -748,6 +763,7 @@ CHC动作电影(農),mitv://generationnexxxt.com:19806/b0a0d2f361f04b429a3185b04
 Star Movies Gold(農),mitv://generationnexxxt.com:19806/644e9b27000a398734e2e694611871b6
 CHC高清电影(農),mitv://generationnexxxt.com:19806/e27bf51377e2485cb8a7e59c05b24848
 CHC家庭影院(農),mitv://generationnexxxt.com:19806/bbe8e8a94b974d27a3503380b5b934ce
+戏剧,#genre#
 东森戏剧台(農),mitv://generationnexxxt.com:19806/d447dc4d5ddf4417941b271bf5da4263
 八大戏剧台(農),mitv://generationnexxxt.com:19806/844bfa9150ac49c09bbae657b7545df9
 纬来戏剧台(農),mitv://generationnexxxt.com:19806/65109e8fc60e4ebab7a61706f46093b0
@@ -759,6 +775,7 @@ EYE TV戏剧台(農),mitv://generationnexxxt.com:19806/75e45b2ae9bd4a5fa05906c00
 爱尔达影剧台(農),mitv://generationnexxxt.com:19806/6458c4bf000bb65f5c956b8f6ab30530
 Hub娱家(農),mitv://generationnexxxt.com:19806/645c74d80002def46afd4af57b744ca1
 亚洲剧台(農),mitv://generationnexxxt.com:19806/9d60d2f9f6fa4a368fbe457f8efad108
+SP_999999,#genre#
 彩虹e台(農),mitv://generationnexxxt.com:19806/3f5f22df9a324f759e43967b0d3ffe65
 彩虹电影台(農),mitv://generationnexxxt.com:19806/65b9f44984e749a8b14455a173779644
 LOOK TV(農),mitv://generationnexxxt.com:19806/c8aab8c8683c4f35aba0e745535afd41
