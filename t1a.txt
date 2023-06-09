@@ -20,7 +20,7 @@ AEC-10,mitv://generationnexxxt.com:19806/6467409400039a5d95292194607a7910
 歡喜臺333-6,mitv://generationnexxxt.com:19806/2988f7d8c6d547118cab3b3495d38ced														
 歡喜臺333-7,P2p://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8.ts														
 歡喜臺333-8,mitv://generationnexxxt.com:19806/22641247176547d19a7d7cbb602de7f8.ts														
-														
+歡喜臺333-9,http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420465.m3u8														
 														
 														
 														
@@ -31,8 +31,8 @@ AEC-10,mitv://generationnexxxt.com:19806/6467409400039a5d95292194607a7910
 欢笑剧场4K,http://183.207.255.188/live/program/live/hxjchd/4000000/mnf.m3u8														
 欢笑剧场4K,http://cfss.cc/ds/bst.php?id=Cf-46														
 														
-全佳,http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420465.m3u8														
-全佳														
+全佳,http://pull-l3-cny.douyincdn.com/live/AS5toDicTSY5yfYHGPlDV30Wj5a8BDCq.m3u8														
+全佳,http://dmtn.tv:8080/live/ultraser723/qBS9VfE4vC/420467.m3u8														
 全佳														
 全佳														
 全佳-2,http://iptv12k.com:35461/live/test167/12345/13598.m3u8?WithCaption														
@@ -156,7 +156,7 @@ HK/香港,#genre#
 凤凰资讯,http://210.210.155.37/qwr9ew/s/s21/01.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=Phoenix														
 凤凰资讯,http://xstartx.com:4000/udp/239.93.0.118:2191														
 凤凰资讯,http://xstartx.com:4000/udp/239.93.1.4:2191														
-凤凰资讯														
+凤凰资讯,http://pull-l3-cny.douyincdn.com/live/WSccq012jl20GkS3Zfz8eHLcC4sI8GiG.m3u8														
 														
 凤凰香港,http://162.19.247.76:22222/live/fenghuangxianggang/index.m3u8#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=153402														
 凤凰香港,mitv://135.148.104.228:19806/b70e94e7ac144bf585ad3bb140833c64#http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8														
