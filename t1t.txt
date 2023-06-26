@@ -173,3 +173,35 @@ Voice TV,P2p://generationnexxxt.com:19806/08721ce1643b41fba96c063b57a1f8f3#P2p:/
 Workpoint TV,mitv://135.148.104.228:19806/68f16fa3c8b34dc89e2134261293b583
 Workpoint TV,mitv://generationnexxxt.com:19806/68f16fa3c8b34dc89e2134261293b583
 Workpoint TV,P2p://generationnexxxt.com:19806/68f16fa3c8b34dc89e2134261293b583#P2p://generationnexxxt.com:19806/6cbbc2c661394d4888540c777c0fa109#P2p://generationnexxxt.com:19806/1583e9528c634baaaf921051eb99c2ac
+54 Unity TV,http://183.89.246.119:8881/play/a0a8/index.m3u8
+13 Siam Thai,https://live.x2.co.th/live/c363cb4eccf08f34c6c9b25ab42ceb0249f51e56c2863a4217c7641ca2aae6a8ccc6f31dc6bca51fd26b59f9c4b9911eba8c88cbeb43ecb0eb6b6892f529b3cec0b5dc5199cb970f7f1b1148c19e4e8c89ab58eb53846c812a2d4d14ed670c36c677631001ed986a2130e4c4325fab56.m3u8
+ALTV-4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
+Channel-5,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
+Channel-7,http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
+Esan Tv,http://183.89.246.119:8881/play/a0a0/index.m3u8
+ETV,http://150.95.66.20:1935/live/livestream/playlist.m3u8
+Good Idea Tv,http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
+Kaset Channel,http://183.89.246.119:8881/play/a0ae/index.m3u8
+Maya Channel,http://183.89.246.119:8881/play/a0ad/index.m3u8
+Media TV,http://183.89.246.119:8881/play/a0af/index.m3u8
+ASTV News,http://news1.live14.com/stream/news1.m3u8
+SBTV,http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
+Thai Chaiyo,http://183.89.246.119:8881/play/a0a4/index.m3u8
+Parliament Tv,https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
+Thai PBS,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+Thai Tv 32,https://live.thairath.co.th/trtv2/playlist.m3u8
+Top Line Tv,http://183.89.246.119:8881/play/a0ag/index.m3u8
+Tv Direct 8,http://183.89.246.119:8881/play/a0a2/index.m3u8
+Tv Direct 9,http://183.89.246.119:8881/play/a0a3/index.m3u8
+Zabb Channel,http://183.89.246.119:8881/play/a0ac/index.m3u8#https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
+TVD Momo 5,http://183.89.246.119:8881/play/a0a9/index.m3u8
+Amarin TV,http://183.89.246.119:8010/play/a00r/index.m3u8
+MCOT HD,http://183.89.246.119:8010/play/a00h/index.m3u8
+Mono 29,http://183.89.246.119:8010/play/a00q/index.m3u8
+Nation TV,http://183.89.246.119:8010/play/a00o/index.m3u8
+One 31,http://183.89.246.119:8010/play/a00e/index.m3u8
+TNN16,http://183.89.246.119:8010/play/a00b/index.m3u8
+True4U,http://183.89.246.119:8010/play/a00d/index.m3u8
+Workpoint 23,http://183.89.246.119:8010/play/a00c/index.m3u8
+Thai TV 5,http://183.89.246.119:8010/play/a00u/index.m3u8
+Top News,https://live.topnews.co.th/hls/topnews.m3u8
