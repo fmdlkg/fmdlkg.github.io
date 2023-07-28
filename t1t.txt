@@ -1,5 +1,5 @@
 Thailand-1,#genre#
-CNN,mitv://generationnexxxt.com:19806/1b1d8846c6a24bd5bef1f0264abffe34#http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284
+CNN,http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#http://50.7.238.114:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941690#http://disfruta.net:80/erodriguez/jqD9QDy9VL/644#http://ip2121.com:8081/live/cnn/playlist.m3u8#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/69284
 CNN-Indonesia,http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1285822120_b384000_sleng.m3u8
 CNBC News,http://2022.stream-link.org/live/1630575726#mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd.ts#mitv://generationnexxxt.com:19806/8603e70bd41c4e4a9368407a8a4debdd#P2p://generationnexxxt.com:19806/c804e0a9efd5429ba7b467e1734ed568#P2p://generationnexxxt.com:19806/4af8eba673e04c688cc9a6169f7fd5ae#http://line.tektv.live/play/live.php?mac=00:1A:79:A8:0E:7F&extension=ts&play_token=KdOGLwAyZf&stream=941689#http://disfruta.net:80/erodriguez/jqD9QDy9VL/649#http://sharkytv.com:2082/mihhalich/wSxmVoXyBe/208680
 Fox News,http://50.7.238.114:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14#http://198.16.100.90:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14#mitv://generationnexxxt.com:19806/0ca77bf69d4a4777a2e145f1158814a3.ts#mitv://generationnexxxt.com:19806/bc919a2d3c4f4a7a9633ded99e69d801.ts
@@ -27,11 +27,11 @@ ATTV,http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 Channel 5,https://tc-live1.sanook.com/live/22302_ch5.m3u8
 RedBull TV,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8#https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8#https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8#https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 NBA,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623.ts#P2p://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623#http://194.40.240.183:25461/3397537295/4538699784/55195#http://194.40.240.183:25461/3397537295/4538699784/53403
-Astro SuperSport 1,mitv://generationnexxxt.com:19806/ccdceb504e0044feaf8ac9b79f3bc5c7
-Astro SuperSport 2,mitv://generationnexxxt.com:19806/740b382a990f47d7a01ac104b0eb4c1c
-Astro SuperSport 3,mitv://generationnexxxt.com:19806/edb97fe0fa5a44a19082b5d159130c87
-Astro SuperSport 4,mitv://generationnexxxt.com:19806/e7a1e7b73d6d4beaa762f4d6154aeefc
-Astro SuperSport 5,mitv://generationnexxxt.com:19806/5caf7bd91f12472aaa51c42f29032aea
+AstroSuperSport1,p2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
+AstroSuperSport2,p2p://generationnexxxt.com:19806/6edae31caab6475cad76175fca389922
+AstroSuperSport3,p2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
+AstroSuperSport4,p2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
+AstroSuperSport5,p2p://generationnexxxt.com:19806/d41f257d25e54a0aa09227bde87eccf5
 Bien Sport Tahiland,https://epg.pw/stream/9040d8cf6bb729195e3dab354f5d99e5a14233b2fd8be3bd668fd7445ef9e146.ctv
 Fish TV,http://168.205.87.198:8555/live/4666/123456/62.m3u8#https://epg.pm/stream/f6b72f10dbc3e47df275c2592797159fa867bb69f92731650bc58c5f5188fa0e.m3u8?WithCaption
 PetClub,http://www.336699.live:1935/blocksix/4gtv-live110.stream/chunklist.m3u8
@@ -61,123 +61,34 @@ WHITE CHANNEL 28,http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklis
 XPLORE,https://xplore-roku.amagi.tv/playlist1080-p.m3u8#https://xplore-roku.amagi.tv/playlist720-p.m3u8#https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8?WithCaption
 ZABB TV,https://live1.thaitvstream.com/play/zabbtv/index.m3u8
 NASA,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-Mediacorp 5,mitv://generationnexxxt.com:19806/4862ceabb95244c89ae22101724aab22
-Mediacorp 8,mitv://generationnexxxt.com:19806/7e5effe47ceb4d62a4052565eb3ea138
-Mediacorp U,mitv://generationnexxxt.com:19806/c0adca0b6eff436090ff94baf3238705
+Mediacorp5,p2p://generationnexxxt.com:19806/7ecf2b27c2554eef87bb4b3603e82a4f
+Mediacorp8,p2p://generationnexxxt.com:19806/02b0b2bfe7974369b811f418dcd4eddf
+MediacorpU,p2p://generationnexxxt.com:19806/1c7cdb0005764374ab173154f8418848
 
 Thailand-2,#genre#
-Channel 5,mitv://generationnexxxt.com:19806/1045ae1287b44480b9d6f511acb6a7b1
-NBT,mitv://generationnexxxt.com:19806/960f748e986045cea386b0c70e63b423
-TNN 16,mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6
-JKN 18,mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6
-Voice TV,mitv://generationnexxxt.com:19806/08721ce1643b41fba96c063b57a1f8f3
-Nation TV,mitv://generationnexxxt.com:19806/7d87284193a64a7f9f518849c02d7441
-Workpoint TV,mitv://generationnexxxt.com:19806/68f16fa3c8b34dc89e2134261293b583
-true4U,mitv://generationnexxxt.com:19806/20a3f56a870340c49b40ce4a1bc5c5eb
-GMM 25,mitv://generationnexxxt.com:19806/f4228beab2744d07a67571c5e28f084e
-Channel 8,mitv://generationnexxxt.com:19806/119678a4b6e54d1bac8b215c21d5ad13
-Mono 29,mitv://generationnexxxt.com:19806/01a45cae5b314975b90bb3cfba296f17
-MCOT,mitv://generationnexxxt.com:19806/73b0a7b586af42f39db7fcdb646e89d8
-ONE,mitv://generationnexxxt.com:19806/46709f19c5a2466f9ae889037f66615a
-Thairath TV,mitv://generationnexxxt.com:19806/fac4fd9a35664af5aab7d56c45d3233c
-Channel 3,mitv://generationnexxxt.com:19806/e8cd7262c3bb49c8bb75662c3163f597
-Amarin TV,mitv://generationnexxxt.com:19806/939a7081305144509ddc2f35b05d61e6
-Channel 7,mitv://generationnexxxt.com:19806/4fd125eb5c9f4a95aa81eca2a8cec808
-PPTV,mitv://generationnexxxt.com:19806/5a975bc858f84e7eb8cf78286c3461d9
-Boomerang,mitv://generationnexxxt.com:19806/9bca576c3c2e4b5cb3fbb69a462588e1
-Thai Parliament TV,mitv://generationnexxxt.com:19806/00d7be2109344cf3a3cabc8f345c4408
-Thai PBS,mitv://generationnexxxt.com:19806/69da05f9164b4d4a9b7027539578b5ec
-News 1,mitv://generationnexxxt.com:19806/e78a0690ad344c95946fd8ad988de2e0
-Channel 4050,mitv://generationnexxxt.com:19806/33cd96332eef4ef0b781716e9ca4e2a6
-TVB Thai,mitv://generationnexxxt.com:19806/e9d8980dfdea4d059b62fe6dfd2de092
-Bluesky,mitv://generationnexxxt.com:19806/a4d121356b034c7f95ed7b55aee8b9bb
-Top News,mitv://generationnexxxt.com:19806/845fb3c3c97a44aeab8fb8d227636c7b
-54 Unity TV,http://183.89.246.119:8881/play/a0a8/index.m3u8
-13 Siam Thai,https://live.x2.co.th/live/c363cb4eccf08f34c6c9b25ab42ceb0249f51e56c2863a4217c7641ca2aae6a8ccc6f31dc6bca51fd26b59f9c4b9911eba8c88cbeb43ecb0eb6b6892f529b3cec0b5dc5199cb970f7f1b1148c19e4e8c89ab58eb53846c812a2d4d14ed670c36c677631001ed986a2130e4c4325fab56.m3u8
-ALTV-4,https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-Channel-5,https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-Channel-7,http://streaming-hwc.ch7.com/livech7hd/HD_1080p.m3u8
-Esan Tv,http://183.89.246.119:8881/play/a0a0/index.m3u8
-ETV,http://150.95.66.20:1935/live/livestream/playlist.m3u8
-Good Idea Tv,http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-Kaset Channel,http://183.89.246.119:8881/play/a0ae/index.m3u8
-Maya Channel,http://183.89.246.119:8881/play/a0ad/index.m3u8
-Media TV,http://183.89.246.119:8881/play/a0af/index.m3u8
-ASTV News,http://news1.live14.com/stream/news1.m3u8
-SBTV,http://202.142.203.28:1935/live/sbt_tv_aac_300/playlist.m3u8
-Thai Chaiyo,http://183.89.246.119:8881/play/a0a4/index.m3u8
-Parliament Tv,https://cdn-live.tpchannel.org/v1/0180e10a4a7809df73070d7d8760/0180e10adac40b8ed59433d5f3ce/main.m3u8
-Thai PBS,https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
-Thai Tv 32,https://live.thairath.co.th/trtv2/playlist.m3u8
-Top Line Tv,http://183.89.246.119:8881/play/a0ag/index.m3u8
-Tv Direct 8,http://183.89.246.119:8881/play/a0a2/index.m3u8
-Tv Direct 9,http://183.89.246.119:8881/play/a0a3/index.m3u8
-Zabb Channel,http://183.89.246.119:8881/play/a0ac/index.m3u8#https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-TVD Momo 5,http://183.89.246.119:8881/play/a0a9/index.m3u8
-Amarin TV,http://183.89.246.119:8010/play/a00r/index.m3u8
-MCOT HD,http://183.89.246.119:8010/play/a00h/index.m3u8
-Mono 29,http://183.89.246.119:8010/play/a00q/index.m3u8
-Nation TV,http://183.89.246.119:8010/play/a00o/index.m3u8
-One 31,http://183.89.246.119:8010/play/a00e/index.m3u8
-TNN16,http://183.89.246.119:8010/play/a00b/index.m3u8
-True4U,http://183.89.246.119:8010/play/a00d/index.m3u8
-Workpoint 23,http://183.89.246.119:8010/play/a00c/index.m3u8
-Thai TV 5,http://183.89.246.119:8010/play/a00u/index.m3u8
-Top News,https://live.topnews.co.th/hls/topnews.m3u8
-
-World News,#genre#
-CNN,mitv://generationnexxxt.com:19806/1b1d8846c6a24bd5bef1f0264abffe34
-无线新闻台(备),mitv://generationnexxxt.com:19806/772991e0331745c9b8a5033cca5aaff7
-无线新闻台,mitv://generationnexxxt.com:19806/24105a60697d4c998fb96b61e67f2977
-无线财经体育资讯台,mitv://generationnexxxt.com:19806/34c9ffe1a80e42c299a524ca0366db14
-CGTN,mitv://generationnexxxt.com:19806/e5141bf31a014618bda88f04498457be
-BBC World News,mitv://generationnexxxt.com:19806/5a234e0bf20a497bb930c2b1fea11a16
-Al Jazeera English,mitv://generationnexxxt.com:19806/1bd9840bd91540d682d5e94d2da57f55
-CNBC,mitv://generationnexxxt.com:19806/7c858e8249604ace88dc07ec5411bb5b
-Bloomberg TV,mitv://generationnexxxt.com:19806/eb00b74578e34430ba1e3482285c1d02
-CNA,mitv://generationnexxxt.com:19806/7d55ade47df54e3497f9e0fce031943b
-壹电视新闻台,mitv://generationnexxxt.com:19806/f17f02c60650410fbecf35ee817228aa
-年代新闻,mitv://generationnexxxt.com:19806/a06323c71a534f5080a099224d29fe19
-now新闻台,mitv://generationnexxxt.com:19806/eb7c688010c04448a100c8ee580c7650
-东森新闻台,mitv://generationnexxxt.com:19806/f9a85e8e15c4455db657b542433fdd73
-中天新闻台,mitv://generationnexxxt.com:19806/91ccadc82fbf468bbc4a566ded05854e
-民视新闻台,mitv://generationnexxxt.com:19806/409598b6976d40ae910b106737a9cff6
-三立新闻台,mitv://generationnexxxt.com:19806/8c97a4c5bb104866adc4c483b59f0543
-TVBS新闻台,mitv://generationnexxxt.com:19806/c7c90c4ae22d4b40bb11245d092a91a6
-东森财经新闻台,mitv://generationnexxxt.com:19806/660c0c8a7edb4befb9e23f3203747de1
-非凡新闻台,mitv://generationnexxxt.com:19806/13b84b10435d457f9f0e1166854074b1
-TNN 16,mitv://generationnexxxt.com:19806/714715de5cfd4051a54105cc4ef30af6
-JKN 18,mitv://generationnexxxt.com:19806/0df418fddf7446a5869f69f1418415d6
-三立iNEWS,mitv://generationnexxxt.com:19806/8ad88e1601684711bca7066a36b95f9c
-Sky News,mitv://generationnexxxt.com:19806/f8dac63548a64c95a641a5b898bd379b
-DW,mitv://generationnexxxt.com:19806/236ba136b30942dc963815730ec88fb9
-Euronews,mitv://generationnexxxt.com:19806/9f26b1634a864d10966349f1c23269af
-France24,mitv://generationnexxxt.com:19806/f7646941a7574725a19b7111006528eb
-香港国际财经台,mitv://generationnexxxt.com:19806/700462465c544d7582ec0404a010efa3
-非凡商业台,mitv://generationnexxxt.com:19806/b909b5cfc9414e94933152eeee515bd3
-国会频道1,mitv://generationnexxxt.com:19806/1d24d4b506aa401ca9c29d585cef29c4
-国会频道2,mitv://generationnexxxt.com:19806/29166c52af854fa98a7c79206981026d
-CBSN,mitv://generationnexxxt.com:19806/e00dd67d2fea49fcbcfb660a92206a8c
-Fox News,mitv://generationnexxxt.com:19806/12aa22654be041baa709197c3b28d8bc
-中视新闻台,mitv://generationnexxxt.com:19806/2a1602ea48c14bca864aef59f46bb641
-寰宇新闻台,mitv://generationnexxxt.com:19806/61bd2b78579a497eb8031bd9936aefd8
-华视新闻,mitv://generationnexxxt.com:19806/010e5852399b4cd3b2d81cc41642ca2b
-NHK新闻资讯台,mitv://generationnexxxt.com:19806/c166b27a227c4a60aeeec3853f0dd019
-NDTV,mitv://generationnexxxt.com:19806/0221cf9f3cd04a6aa57f961681feddbf
-ABC Australia,mitv://generationnexxxt.com:19806/815a6eec4fc2408e91ac9c65dd022e33
-台视新闻台,mitv://generationnexxxt.com:19806/aae532a4f32f4bbb907b889c9d5caa31
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/11bfa49d6ec94cf9922daf33888c089b
-台视财经台,mitv://generationnexxxt.com:19806/17ca8e1711914b0ca9aa1d6972807238
-HKC直播新闻台,mitv://generationnexxxt.com:19806/e2b92f10a3d443af912d7e75f3179053
-东森新闻台(备),mitv://generationnexxxt.com:19806/d5512d0b33214f15b8e2e0a0307d4460
-镜新闻,mitv://generationnexxxt.com:19806/bf64f32bc62b443387be87fc95dd5e50
-Fox News,mitv://generationnexxxt.com:19806/88bbf0f9a7724bb0a82c9895cac91557
-BBC World News,mitv://generationnexxxt.com:19806/9c9898940f8442b28cc23caf6a4fd067
-CNN USA,mitv://generationnexxxt.com:19806/564e581a7f674269a396e75c0f7070f7
-CBC News,mitv://generationnexxxt.com:19806/645a7af6000dcedb634532f4456543a4
-MSNBC,mitv://generationnexxxt.com:19806/5fc533303c5d441399659b073cf2eb7d
-CTV News,mitv://generationnexxxt.com:19806/645a7af60000d58b63452fa83b7e2bac
-Business News Network,mitv://generationnexxxt.com:19806/645a790b000e9fc8633db53a27441f5d
-CP24,mitv://generationnexxxt.com:19806/645a790b00087173633db3a45acb0a34
-The Weather Network,mitv://generationnexxxt.com:19806/53f911f40cb149f5aa14cd4a963e15e3
-The Weather Channel,mitv://generationnexxxt.com:19806/266b32364dd24f77b8c8f924c3e4b201
+Channel5,p2p://generationnexxxt.com:19806/68798aed16c6475180d6239acdecd888
+NBT,p2p://generationnexxxt.com:19806/4977f52edbae4d41b28fa28fb4bb8eb7
+TNN16,p2p://generationnexxxt.com:19806/5fa63eddc30543879c96b0a0a08ea60d
+JKN18,p2p://generationnexxxt.com:19806/5fa4254f665e421688ac293bd1dd1d59
+VoiceTV,p2p://generationnexxxt.com:19806/565ee6db091d4f5eb249d8cfd88ff392
+NationTV,p2p://generationnexxxt.com:19806/9006192061234d3abc002c9df98617a3
+WorkpointTV,p2p://generationnexxxt.com:19806/e3dcbf98790f47a6ae10aa0e6b92d3a3
+true4U,p2p://generationnexxxt.com:19806/70d07d9bf1594d1aafa109803f097fd5
+GMM25,p2p://generationnexxxt.com:19806/7202eeef804f4338bcd118210a39a66b
+Channel8,p2p://generationnexxxt.com:19806/3564da7fb0ea488cba5f0179145e0394
+Mono29,p2p://generationnexxxt.com:19806/a8da70ef841f4aa29be21f4123b1e0a6
+MCOT,p2p://generationnexxxt.com:19806/84419b9f1d144bd687913e3739c10011
+ONE,p2p://generationnexxxt.com:19806/bbed53ec33024bafae4696ba4d589e2c
+ThairathTV,p2p://generationnexxxt.com:19806/c1db5ee1e01048bc9f7319cda9a530c6
+Channel3,p2p://generationnexxxt.com:19806/9f2ed619044e4208b64ba52f7a8c0a80
+AmarinTV,p2p://generationnexxxt.com:19806/74f013c77d3b43bf875702f7177dba68
+Channel7,p2p://generationnexxxt.com:19806/377bbd391f744a86a07d3d46e28db730
+PPTV,p2p://generationnexxxt.com:19806/46ff90c62cbb4bdfbccd3033a9268dcb
+Boomerang,p2p://generationnexxxt.com:19806/98ded4efebe2480fa7538e6bec832b7a
+ThaiParliamentTV,p2p://generationnexxxt.com:19806/139a4607a0d24095a17ff2745cb2141d
+ThaiPBS,p2p://generationnexxxt.com:19806/aeb8c0b2981e4f0fb69383eea64f5deb
+News1,p2p://generationnexxxt.com:19806/4d7a0f009ed44250b371cf1a3b10c4b3
+Channel4050,p2p://generationnexxxt.com:19806/03f62b6c560745a69e3580aaa3a32294
+TVBThai,p2p://generationnexxxt.com:19806/7cf6f4e9806f4b6389d3a89af43cc256
+Bluesky,p2p://generationnexxxt.com:19806/c6490fe262bd4cf9a6bb3a3b82870495
+TopNews,p2p://generationnexxxt.com:19806/8a46eec67bfa42f6abd4032f91d304bf
